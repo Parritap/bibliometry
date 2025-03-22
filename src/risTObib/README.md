@@ -1,4 +1,4 @@
-```markdown
+
 # Conversor RIS a BibTeX
 
 Este script convierte archivos en formato **RIS** a **BibTeX**, extrayendo y organizando campos clave como autores, título, revista, año, volumen, número, DOI, URL, editorial, ISSN y páginas.
