@@ -34,7 +34,7 @@ Este script convierte archivos en formato **RIS** a **BibTeX**, extrayendo y org
    Ejecuta el script en la terminal con:
 
    ```bash
-   python convertir_ris_a_bib.py
+   risTObib.py
    ```
 
    Se generará el archivo BibTeX (por ejemplo, `referencias_final.bib`) con las entradas convertidas.
