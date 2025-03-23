@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Heersmink, Richard
+AU  - de Rooij, Barend
+AU  - Clavel Vázquez, María Jimena
+AU  - Colombo, Matteo
+PY  - 2024
+DA  - 2024/06/18
+TI  - A phenomenology and epistemology of large language models: transparency, trust, and trustworthiness
+JO  - Ethics and Information Technology
+SP  - 41
+VL  - 26
+IS  - 3
+AB  - This paper analyses the phenomenology and epistemology of chatbots such as ChatGPT and Bard. The computational architecture underpinning these chatbots are large language models (LLMs), which are generative artificial intelligence (AI) systems trained on a massive dataset of text extracted from the Web. We conceptualise these LLMs as multifunctional computational cognitive artifacts, used for various cognitive tasks such as translating, summarizing, answering questions, information-seeking, and much more. Phenomenologically, LLMs can be experienced as a “quasi-other”; when that happens, users anthropomorphise them. For most users, current LLMs are black boxes, i.e., for the most part, they lack data transparency and algorithmic transparency. They can, however, be phenomenologically and informationally transparent, in which case there is an interactional flow. Anthropomorphising and interactional flow can, in some users, create an attitude of (unwarranted) trust towards the output LLMs generate. We conclude this paper by drawing on the epistemology of trust and testimony to examine the epistemic implications of these dimensions. Whilst LLMs generally generate accurate responses, we observe two epistemic pitfalls. Ideally, users should be able to match the level of trust that they place in LLMs to the degree that LLMs are trustworthy. However, both their data and algorithmic opacity and their phenomenological and informational transparency can make it difficult for users to calibrate their trust correctly. The effects of these limitations are twofold: users may adopt unwarranted attitudes of trust towards the outputs of LLMs (which is particularly problematic when LLMs hallucinate), and the trustworthiness of LLMs may be undermined.
+SN  - 1572-8439
+UR  - https://doi.org/10.1007/s10676-024-09777-3
+DO  - 10.1007/s10676-024-09777-3
+ID  - Heersmink2024
+ER  - 

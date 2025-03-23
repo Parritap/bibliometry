@@ -1,0 +1,17 @@
+TY  - JOUR
+AU  - Santos, Ana Teresa
+AU  - Mendonça, Sandro
+PY  - 2022
+DA  - 2022/12/01
+TI  - Do papers (really) match journals’ “aims and scope”? A computational assessment of innovation studies
+JO  - Scientometrics
+SP  - 7449
+EP  - 7470
+VL  - 127
+IS  - 12
+AB  - Researchers, science managers and evaluation professionals face a problem when determining the alignment between research results and publication targets. How does a manuscript’s content fit a given journal’s stated purpose? We develop a framework for understanding how past published papers reveal the actual interests and editorial profile of journal. We articulate an answer to the question by using a total of 16,803 abstracts from articles published from 2010 to 2019 in 20 top innovation-oriented journals. Through a machine learning approach, we trained a text classification algorithm on these materials. The supervised model matched the published contents (abstracts) with journal blurbs with an accuracy rate of 80%. We discover that the content of 25% of the outlet sample might have been of greater interest elsewhere (i.e. to other journals), according to the official editorial positioning available in their homepages. Our conclusions suggest that more can be learned from exploring the abstract-blurb nexus.
+SN  - 1588-2861
+UR  - https://doi.org/10.1007/s11192-022-04327-4
+DO  - 10.1007/s11192-022-04327-4
+ID  - Santos2022
+ER  - 

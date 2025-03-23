@@ -1,0 +1,20 @@
+TY  - JOUR
+AU  - Priyadarshini, Sabina
+AU  - Sawant, Tukaram Namdev
+AU  - Bhimrao Yadav, Gitanjali
+AU  - Premalatha, J.
+AU  - Pawar, Sanjay R.
+PY  - 2024
+DA  - 2024/12/01
+TI  - Enhancing security and scalability by AI/ML workload optimization in the cloud
+JO  - Cluster Computing
+SP  - 13455
+EP  - 13469
+VL  - 27
+IS  - 10
+AB  - The pervasive adoption of Artificial Intelligence (AI) and Machine Learning (ML) applications has exponentially increased the demand for efficient resource allocation, workload scheduling, and parallel computing capabilities in cloud environments. This research addresses the critical need for enhancing both the scalability and security of AI/ML workloads in cloud computing settings. The study emphasizes the optimization of resource allocation strategies to accommodate the diverse requirements of AI/ML workloads. Efficient resource allocation ensures that computational resources are utilized judiciously, avoiding bottlenecks and latency issues that could hinder the performance of AI/ML applications. The research explores advanced parallel computing techniques to harness the full possible cloud infrastructure, enhancing the speed and efficiency of AI/ML computations. The integration of robust security measures is crucial to safeguard sensitive data and models processed in the cloud. The research delves into secure multi-party computation and encryption techniques like the Hybrid Heft Pso Ga algorithm, Heuristic Function for Adaptive Batch Stream Scheduling Module (ABSS) and allocation of resources parallel computing and Kuhn–Munkres algorithm tailored for AI/ML workloads, ensuring confidentiality and integrity throughout the computation lifecycle. To validate the proposed methodologies, the research employs extensive simulations and real-world experiments. The proposed ABSS_SSMM method achieves the highest accuracy and throughput values of 98% and 94%, respectively. The contributions of this research extend to the broader cloud computing and AI/ML communities. By providing scalable and secure solutions, the study aims to empower cloud service providers, enterprises, and researchers to leverage AI/ML technologies with confidence. The findings are anticipated to inform the design and implementation of next-generation cloud platforms that seamlessly support the evolving landscape of AI/ML applications, fostering innovation and driving the adoption of intelligent technologies in diverse domains.
+SN  - 1573-7543
+UR  - https://doi.org/10.1007/s10586-024-04641-x
+DO  - 10.1007/s10586-024-04641-x
+ID  - Priyadarshini2024
+ER  - 

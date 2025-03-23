@@ -1,0 +1,20 @@
+TY  - JOUR
+AU  - Bielik, Tom
+AU  - Fonio, Ehud
+AU  - Feinerman, Ofer
+AU  - Duncan, Ravit Golan
+AU  - Levy, Sharona T.
+PY  - 2021
+DA  - 2021/02/01
+TI  - Working Together: Integrating Computational Modeling Approaches to Investigate Complex Phenomena
+JO  - Journal of Science Education and Technology
+SP  - 40
+EP  - 57
+VL  - 30
+IS  - 1
+AB  - Complex systems are made up of many entities, whose interactions emerge into distinct collective patterns. Computational modeling platforms can provide a powerful means to investigate emergent phenomena in complex systems. Some research has been carried out in recent years about promoting students’ modeling practices, specifically using technologically advanced tools and approaches that allow students to create, manipulate, and test computational models. However, not much research had been carried out on the integration of several modeling approaches when investigating complex phenomena. In this paper, we describe the design principles used to develop a middle school unit about ants’ collective behavior that integrates three modeling approaches: conceptual drawn models, agent-based models, and system dynamics models. We provide results from an initial implementation of an 8th grade curricular unit, indicating that students engaged with several aspects of the modeling practice. Students’ conceptual knowledge about ant pheromone communication increased following learning the unit. We also found gains in students’ metamodeling knowledge about models as tools for investigating phenomena. We discuss the affordances and challenges of engaging students with several modeling approaches in science classroom.
+SN  - 1573-1839
+UR  - https://doi.org/10.1007/s10956-020-09869-x
+DO  - 10.1007/s10956-020-09869-x
+ID  - Bielik2021
+ER  - 

@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Hombal, Uma
+AU  - Rangapura Basavaraju, Dayananda
+AU  - Shinde, Ashwini S.
+PY  - 2024
+DA  - 2024/12/01
+TI  - Comparative research on block design-based protocol and blowfish for secured key generation and data sharing on cloud
+JO  - Soft Computing
+SP  - 13701
+EP  - 13713
+VL  - 28
+IS  - 23
+AB  - Confidentiality of maintaining the Electronic Health Records of patients is a major concern to both the patient and Doctor. Sharing the data on cloud is one of the most efficient technology infrastructures with extensive potential application, but at the same time there is a threat of hacking the data. Here we implement the concept for sharing of electronic health record on cloud that permits multiple members of the group to easily share the group data. With the increase in size of healthcare data the time and space complexity increases. The main challenge here is data security. This research article emphasis on a secured method for sharing the data on cloud and generation of the key that is safe from unauthorized user. In this Research article, we implement the soft computing approach for key agreement protocol using Block based design to support several users that can adapt it-self to upsurge the number of users in the cloud which depends on the assembly of the block design. This protocol generates a common conference key for all members. On comparing our results with some prevailing techniques, we accomplish that the results of our research have a better computational complexity.
+SN  - 1433-7479
+UR  - https://doi.org/10.1007/s00500-024-09749-1
+DO  - 10.1007/s00500-024-09749-1
+ID  - Hombal2024
+ER  - 

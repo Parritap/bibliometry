@@ -1,0 +1,19 @@
+TY  - JOUR
+AU  - Jiang, Bo
+AU  - Zhao, Wei
+AU  - Gu, Xiaoqing
+AU  - Yin, Chengjiu
+PY  - 2021
+DA  - 2021/10/01
+TI  - Understanding the relationship between computational thinking and computational participation: a case study from Scratch online community
+JO  - Educational Technology Research and Development
+SP  - 2399
+EP  - 2421
+VL  - 69
+IS  - 5
+AB  - Social learning theory posits that learning is most effective when providing learners with opportunities to observe and interact with peers. Unfortunately, current K-12 programming education overemphasizes individual learning and discourages learners from observing and interacting with others. The Scratch online community provides youth opportunities to actively participate in the community by allowing them to observe and interact with others. However, it is unclear what motivates learners’ active participation in the Scratch online community. With a large-scale database with more than two hundred thousand Scratch projects, this study explored the impact of the computational thinking reflected in Scratch projects on users’ participation. We examined Scratch’s online users’ computational thinking profile via clustering analysis on the projects they created, then studied the influence of computational thinking level reflected in projects on the users’ participation through causal analysis. The clustering analysis revealed three clusters of learners, and the advanced learners did not create more projects than others but their projects attract more participation from peers. Our statistic analysis finds a low to moderate strength of correlation between the computational thinking level reflected in projects and their popularity. However, the further causal analysis suggests that the computational thinking level reflected in projects fails to causally affect learners’ participation. Our results suggest that instructors should not only attach importance to the development of basic CT skills of youth but also do well to find ways to get youth to participate actively in social interaction activity during the programming process.
+SN  - 1556-6501
+UR  - https://doi.org/10.1007/s11423-021-10021-8
+DO  - 10.1007/s11423-021-10021-8
+ID  - Jiang2021
+ER  - 

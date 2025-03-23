@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Kapler, Thomas
+AU  - Gray, Derek
+AU  - Vasquez, Holland
+AU  - Wright, William
+PY  - 2022
+DA  - 2022/11/12
+TI  - Causeworks: a Mixed Initiative Framework for Causal Modeling
+JO  - SN Computer Science
+SP  - 54
+VL  - 4
+IS  - 1
+AB  - The construction of computational causal models for complex systems has typically been completed manually by domain experts and is a time-consuming, cumbersome process. Operational design is a method of structured team discourse used by military planners for rapidly envisioning complex systems and relationships; however, the products are typically static diagrams on whiteboards or slides. DARPAs Causal Exploration program seeks to leverage artificial intelligence (AI) assistance and causal analytics to enable rapid system modeling and analysis. We introduce Causeworks, an application in which operators “sketch” complex systems, leverage AI tools and expert knowledge to transform the sketches into computational causal models, and then apply analytics to understand how to influence the system. We walk through human–machine collaborative model building using Causeworks and discuss feedback and lessons learned about how to flexibly apply causal modeling and thinking for expert planners that are novice modelers.
+SN  - 2661-8907
+UR  - https://doi.org/10.1007/s42979-022-01452-y
+DO  - 10.1007/s42979-022-01452-y
+ID  - Kapler2022
+ER  - 

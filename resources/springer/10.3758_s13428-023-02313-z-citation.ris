@@ -1,0 +1,19 @@
+TY  - JOUR
+AU  - Yang, Tianchen
+AU  - Zhang, Qifan
+AU  - Sun, Zhaoyang
+AU  - Hou, Yubo
+PY  - 2024
+DA  - 2024/09/01
+TI  - Automatic assessment of divergent thinking in Chinese language with TransDis: A transformer-based language model approach
+JO  - Behavior Research Methods
+SP  - 5798
+EP  - 5819
+VL  - 56
+IS  - 6
+AB  - Language models have been increasingly popular for automatic creativity assessment, generating semantic distances to objectively measure the quality of creative ideas. However, there is currently a lack of an automatic assessment system for evaluating creative ideas in the Chinese language. To address this gap, we developed TransDis, a scoring system using transformer-based language models, capable of providing valid originality (novelty) and flexibility (variety) scores for Alternative Uses Task (AUT) responses in Chinese. Study 1 demonstrated that the latent model-rated originality factor, comprised of three transformer-based models, strongly predicted human originality ratings, and the model-rated flexibility strongly correlated with human flexibility ratings as well. Criterion validity analyses indicated that model-rated originality and flexibility positively correlated to other creativity measures, demonstrating similar validity to human ratings. Study 2 and 3 showed that TransDis effectively distinguished participants instructed to provide creative vs. common uses (Study 2) and participants instructed to generate ideas in a flexible vs. persistent way (Study 3). Our findings suggest that TransDis can be a reliable and low-cost tool for measuring idea originality and flexibility in Chinese language, potentially paving the way for automatic creativity assessment in other languages. We offer an open platform to compute originality and flexibility for AUT responses in Chinese and over 50 other languages (https://osf.io/59jv2/).
+SN  - 1554-3528
+UR  - https://doi.org/10.3758/s13428-023-02313-z
+DO  - 10.3758/s13428-023-02313-z
+ID  - Yang2024
+ER  - 

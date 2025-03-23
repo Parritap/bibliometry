@@ -1,0 +1,20 @@
+TY  - JOUR
+AU  - Lammers, Wouter
+AU  - Pattyn, Valérie
+AU  - Ferrari, Sacha
+AU  - Wenmackers, Sylvia
+AU  - Walle, Steven Van de
+PY  - 2024
+DA  - 2024/03/01
+TI  - Evidence for policy-makers: A matter of timing and certainty?
+JO  - Policy Sciences
+SP  - 171
+EP  - 191
+VL  - 57
+IS  - 1
+AB  - This article investigates how certainty and timing of evidence introduction impact the uptake of evidence by policy-makers in collective deliberations. Little is known about how experts or researchers should time the introduction of uncertain evidence for policy-makers. With a computational model based on the Hegselmann–Krause opinion dynamics model, we simulate how policy-makers update their opinions in light of new evidence. We illustrate the use of our model with two examples in which timing and certainty matter for policy-making: intelligence analysts scouting potential terrorist activity and food safety inspections of chicken meat. Our computations indicate that evidence should come early to convince policy-makers, regardless of how certain it is. Even if the evidence is quite certain, it will not convince all policy-makers. Next to its substantive contribution, the article also showcases the methodological innovation that agent-based models can bring for a better understanding of the science–policy nexus. The model can be endlessly adapted to generate hypotheses and simulate interactions that cannot be empirically tested.
+SN  - 1573-0891
+UR  - https://doi.org/10.1007/s11077-024-09526-9
+DO  - 10.1007/s11077-024-09526-9
+ID  - Lammers2024
+ER  - 

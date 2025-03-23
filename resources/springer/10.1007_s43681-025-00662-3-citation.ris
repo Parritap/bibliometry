@@ -1,0 +1,13 @@
+TY  - JOUR
+AU  - Swoboda, Torben
+AU  - Lauwaert, Lode
+PY  - 2025
+DA  - 2025/02/02
+TI  - Can artificial intelligence embody moral values?
+JO  - AI and Ethics
+AB  - The neutrality thesis holds that technology cannot be laden with values—it is inherently value-neutral. This long-standing view has faced critiques, but much of the argumentation against neutrality has focused on traditional, non-smart technologies like bridges and razors. In contrast, artificial intelligence (AI) is a smart technology increasingly used in high-stakes domains like healthcare, finance, and policing, where its decisions can cause moral harm. In this paper, we argue that AI, particularly artificial agents that autonomously make decisions to pursue their goals, challenge the neutrality thesis. Our central claim is that the computational models underlying artificial agents can integrate representations of moral values such as fairness, honesty and avoiding harm. We provide a conceptual framework discussing the neutrality thesis, values, and AI. Moreover, we examine two approaches to designing computational models of morality, artificial conscience and ethical prompting, and present empirical evidence from text-based game environments that artificial agents with such models exhibit more ethical behavior compared to agents without these models. The findings support that AI can embody moral values, which contradicts the claim that all technologies are necessarily value-neutral.
+SN  - 2730-5961
+UR  - https://doi.org/10.1007/s43681-025-00662-3
+DO  - 10.1007/s43681-025-00662-3
+ID  - Swoboda2025
+ER  - 

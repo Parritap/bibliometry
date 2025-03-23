@@ -1,0 +1,19 @@
+TY  - JOUR
+AU  - Zhang, Yongxiang
+AU  - Lau, Raymond Y. K.
+AU  - David Xu, Jingjun
+AU  - Rao, Yanghui
+AU  - Li, Yuefeng
+PY  - 2024
+DA  - 2024/04/11
+TI  - Business chatbots with deep learning technologies: state-of-the-art, taxonomies, and future research directions
+JO  - Artificial Intelligence Review
+SP  - 113
+VL  - 57
+IS  - 5
+AB  - With the support of advanced hardware and software technology, Artificial Intelligence (AI) techniques, especially the increasing number of deep learning algorithms, have spawned the popularization of online intelligent services and accelerated the contemporary development and applications of chatbot systems. The promise of providing 24/7 uninterrupted business services and minimizing workforce costs has made business chatbots a hot topic due to the impact of the pandemic. It has attracted considerable attention from academic researchers and business practitioners. However, a thorough technical review of advanced chatbot technologies and their relevance and applications to various business domains is rare in the literature. The main contribution of this review article is the critical analysis of various chatbot development approaches and the underlying deep learning computational methods in the context of some business applications. We first conceptualize current business chatbot architectures and illustrate the technical characteristics of two common structures. Next, we explore the mainstream deep learning technologies in chatbot design from the perspective of computational methods and usages. Then, we propose a new framework to classify chatbot construction architectures and differentiate the traditional retrieval-based and generation-based chatbots in terms of the modern pipeline and end-to-end structures. Finally, we highlight future research directions for business chatbots to enable researchers to devote their efforts to the most promising research topics and commercial scenarios and for practitioners to benefit from realizing the trend in business chatbot development and applications.
+SN  - 1573-7462
+UR  - https://doi.org/10.1007/s10462-024-10744-z
+DO  - 10.1007/s10462-024-10744-z
+ID  - Zhang2024
+ER  - 

@@ -1,0 +1,20 @@
+TY  - JOUR
+AU  - Wang, Yuchen
+AU  - Wang, Xinheng
+AU  - Liu, Ang
+AU  - Zhang, Junqing
+AU  - Zhang, Jinhua
+PY  - 2025
+DA  - 2025/01/01
+TI  - Ontology of 3D virtual modeling in digital twin: a review, analysis and thinking
+JO  - Journal of Intelligent Manufacturing
+SP  - 95
+EP  - 145
+VL  - 36
+IS  - 1
+AB  - The pervasive smart manufacturing is bringing increasing attention to digital twin. As a core part of virtual modeling, 3D virtual modeling is crucial to improve the intuitiveness of state monitoring, enhance human-cyber interactions, visualize conditions and simulations, and provide visual guides in digital twin. However, although 3D virtual modeling in digital twin has many benefits for different applications, its complex characteristics become obstacles for novice engineers to develop and utilize. Besides, research information about 3D virtual modeling in digital twin is too scattered, while there has been no literature review that specially and comprehensively summarizes and analyzes it. To help novice engineers understand and scheme 3D virtual modeling in digital twin for future research and applications, this paper reviews 106 digital twin 3D modeling cases with their characteristics, including deployment targets, purposes & roles, collaborative models, data flows, the autonomy of 3D modeling, fidelity, twinning rates, enabling technologies, and enabling tools. This paper then discusses and analyzes the review outcomes via statistics. Finally, this paper also proposes a thinking map for scheming the 3D virtual modeling in digital twin. In general, 3D virtual modeling is oriented by the motivation behind different digital twins, engineers hence should reflect on the purposes, scenarios, resources, and long-term visions of their projects. When designing characteristics of 3D virtual modeling, engineers must consider functions, capabilities of data processing and transmission, timeliness of data, applicability, and specialty of each characteristic. For future work, this paper highlights three important research issues to realize the prospect of 3D virtual modeling, including the versatility of autonomous 3D modeling, incremental updates of 3D models, and optimal planning of data collections for 3D modeling. Besides, future work will also investigate the enhancement of 3D virtual modeling via relevant information technologies, such as IoT-based data collections, machine vision-based data processing, and adaptive machine learning-based dynamic modeling.
+SN  - 1572-8145
+UR  - https://doi.org/10.1007/s10845-023-02246-6
+DO  - 10.1007/s10845-023-02246-6
+ID  - Wang2025
+ER  - 

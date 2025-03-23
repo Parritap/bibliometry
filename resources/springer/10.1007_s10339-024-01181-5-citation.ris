@@ -1,0 +1,16 @@
+TY  - JOUR
+AU  - Coward, L. Andrew
+PY  - 2024
+DA  - 2024/05/01
+TI  - Hierarchies of description enable understanding of cognitive phenomena in terms of neuron activity
+JO  - Cognitive Processing
+SP  - 333
+EP  - 347
+VL  - 25
+IS  - 2
+AB  - One objective of neuroscience is to understand a wide range of specific cognitive processes in terms of neuron activity. The huge amount of observational data about the brain makes achieving this objective challenging. Different models on different levels of detail provide some insight, but the relationship between models on different levels is not clear. Complex computing systems with trillions of components like transistors are fully understood in the sense that system features can be precisely related to transistor activity. Such understanding could not involve a designer simultaneously thinking about the ongoing activity of all the components active in the course of carrying out some system feature. Brain modeling approaches like dynamical systems are inadequate to support understanding of computing systems, because their use relies on approximations like treating all components as more or less identical. Understanding computing systems needs a much more sophisticated use of approximation, involving creation of hierarchies of description in which the higher levels are more approximate, with effective translation between different levels in the hierarchy made possible by using the same general types of information processes on every level. These types are instruction and data read/write. There are no direct resemblances between computers and brains, but natural selection pressures have resulted in brain resources being organized into modular hierarchies and in the existence of two general types of information processes called condition definition/detection and behavioral recommendation. As a result, it is possible to create hierarchies of description linking cognitive phenomena to neuron activity, analogous with but qualitatively different from the hierarchies of description used to understand computing systems. An intuitively satisfying understanding of cognitive processes in terms of more detailed brain activity is then possible.
+SN  - 1612-4790
+UR  - https://doi.org/10.1007/s10339-024-01181-5
+DO  - 10.1007/s10339-024-01181-5
+ID  - Coward2024
+ER  - 

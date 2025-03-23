@@ -1,0 +1,25 @@
+TY  - JOUR
+AU  - Sarfraz, Muhammad
+AU  - Ibrahim, Muhammad Khurrum
+AU  - Ejaz, Syeda Abida
+AU  - Attaullah, Hafiz Muhammad
+AU  - Aziz, Mubashir
+AU  - Arafat, Mosab
+AU  - Shamim, Tahira
+AU  - Elhadi, Muawya
+AU  - Ruby, Tahira
+AU  - Mahmood, Hafiz Kashif
+PY  - 2024
+DA  - 2024/09/01
+TI  - An Integrated Computational Approaches for Designing of Potential Piperidine based Inhibitors of Alzheimer Disease by Targeting Cholinesterase and Monoamine Oxidases Isoenzymes
+JO  - Applied Biochemistry and Biotechnology
+SP  - 5875
+EP  - 5902
+VL  - 196
+IS  - 9
+AB  - The study aimed to evaluate the potential of piperidine-based 2H chromen-2-one derivatives against targeted enzymes, i.e., cholinesterase’s and monoamine oxidase enzymes. The compounds were divided into three groups, i.e., 4a–m ((3,4-dimethyl-7-((1-methylpiperidin-4-yl)oxy)-2H-chromen-2-one derivatives), 5a–e (3,4-dimethyl-7-((1-methypipridin-3-yl)methoxy)-2H-chromen-2-one derivatives), and 7a–b (7-(3-(3,4-dihydroisoquinolin-2(1H)-yl)propoxy)-3,4-dimethyl-2H-chromen-2-one derivatives) with slight difference in the basic structure. The comprehensive computational investigations were conducted including density functional theories studies (DFTs), 2D-QSAR studies, molecular docking, and molecular dynamics simulations. The QSAR equation revealed that the activity of selected chromen-2-one-based piperidine derivatives is being affected by the six descriptors, i.e., Nitrogens Count, SdssCcount, SssOE-Index, T-2–2-7, ChiV6chain, and SssCH2E-Index. These descriptor values were further used for the preparation of chromen-2-one based piperidine derivatives. Based on this, 83 new derivatives were created from 7 selected parent compounds. The QSAR model predicted their IC50 values, with compound 4 k and 4kk as the most potent multi-targeted derivative. Molecular docking results exhibited these compounds as the best inhibitors; however, 4kk exhibited greater activity than the parent compounds. The results were further validated by molecular dynamic simulation studies along with the suitable physicochemical properties. These results prove to be an essential guide for the further design and development of new piperidine based chromen-2-one derivatives having better activity against neurodegenerative disorder.
+SN  - 1559-0291
+UR  - https://doi.org/10.1007/s12010-023-04815-0
+DO  - 10.1007/s12010-023-04815-0
+ID  - Sarfraz2024
+ER  - 

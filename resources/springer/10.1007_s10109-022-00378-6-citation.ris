@@ -1,0 +1,17 @@
+TY  - JOUR
+AU  - Yuan, May
+AU  - McKee, Arlo
+PY  - 2022
+DA  - 2022/07/01
+TI  - Embedding scale: new thinking of scale in machine learning and geographic representation
+JO  - Journal of Geographical Systems
+SP  - 501
+EP  - 524
+VL  - 24
+IS  - 3
+AB  - Concepts of scale are at the heart of diverse scientific endeavors that seek to understand processes and how observations and analyses influence our understanding. While disciplinary discretions exist, researchers commonly devise spatial, temporal, and organizational scales in scoping phenomena of interest and determining measurements and representational frameworks in research design. The rise of the Fourth Paradigm for science drives data-intensive computing without preconceived notions regarding at what scale the phenomena or processes of interest operate, or at which level of details meaningful patterns may emerge. While scale is the a priori consideration for theory-driven research to seek ontological and relational affirmations, big data analytics and machine learning embed scale in algorithms and model outputs. In this paper, we examine embedded scale in data-driven machine learning research, connect the embedding scale to scale operating in the general theory of geographic representation in GIS and scaffold our arguments with a study of using machine learning to detect archeological features in drone-collected high-density images.
+SN  - 1435-5949
+UR  - https://doi.org/10.1007/s10109-022-00378-6
+DO  - 10.1007/s10109-022-00378-6
+ID  - Yuan2022
+ER  - 

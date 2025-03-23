@@ -1,0 +1,16 @@
+TY  - JOUR
+AU  - Possati, Luca M.
+PY  - 2023
+DA  - 2023/12/01
+TI  - From Turing to Peirce. A semiotic interpretation of computation
+JO  - Foundations of Science
+SP  - 1085
+EP  - 1110
+VL  - 28
+IS  - 4
+AB  - The thesis of the paper is that semiotic processes are intrinsic to computation and computational systems. An explanation of computation that does not take this semiotic dimension into account is incomplete. Semiosis is essential to computation and therefore requires a rigorous definition. To prove this thesis, the author analyzes two concepts of computation: the Turing machine and the mechanistic conception of physical computation. The paper is organized in two parts. The first part (Sects. 2 and 3) develops a re-interpretation of the Turing machine starting from Peirce’s semiotics. The author shows how this reinterpretation allows overcoming the dualism between a purist and a realist version of the Turing machine. The second part of the paper (Sect. 4) shows how a mechanistic explanation of physical computation such as the one developed by Piccinini is incomplete without considering semiotic relations. The paper intends to be a contribution to the philosophical debate on computation.
+SN  - 1572-8471
+UR  - https://doi.org/10.1007/s10699-022-09878-6
+DO  - 10.1007/s10699-022-09878-6
+ID  - Possati2023
+ER  - 

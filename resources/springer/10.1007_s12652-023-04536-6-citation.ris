@@ -1,0 +1,21 @@
+TY  - JOUR
+AU  - Verma, Shradha
+AU  - Goel, Tripti
+AU  - Tanveer, M.
+AU  - Ding, Weiping
+AU  - Sharma, Rahul
+AU  - Murugan, R.
+PY  - 2023
+DA  - 2023/05/01
+TI  - Machine learning techniques for the Schizophrenia diagnosis: a comprehensive review and future research directions
+JO  - Journal of Ambient Intelligence and Humanized Computing
+SP  - 4795
+EP  - 4807
+VL  - 14
+IS  - 5
+AB  - Schizophrenia (SCZ) is a brain disorder where different people experience different symptoms, such as hallucination, delusion, flat-talk, disorganized thinking, etc. In the long term, this can cause severe effects and diminish life expectancy by more than ten years. Therefore, early and accurate diagnosis of SCZ is prevalent, and modalities like structural magnetic resonance imaging, functional MRI (fMRI), diffusion tensor imaging, and electroencephalogram assist in witnessing the brain abnormalities of the patients. Moreover, for accurate diagnosis of SCZ, researchers have used machine learning (ML) algorithms for the past decade to distinguish the brain patterns of healthy and SCZ brains using MRI and fMRI images. This paper seeks to acquaint SCZ researchers with ML and to discuss its recent applications to the field of SCZ study. This paper comprehensively reviews state-of-the-art techniques such as ML classifiers, artificial neural network, deep learning models, methodological fundamentals, and applications with previous studies. The motivation of this paper is to benefit from finding the research gaps that may lead to the development of a new model for accurate SCZ diagnosis. The paper concludes with the research finding, followed by the future scope that directly contributes to new research directions.
+SN  - 1868-5145
+UR  - https://doi.org/10.1007/s12652-023-04536-6
+DO  - 10.1007/s12652-023-04536-6
+ID  - Verma2023
+ER  - 

@@ -1,0 +1,37 @@
+TY  - JOUR
+AU  - Kanervisto, Anssi
+AU  - Bignell, Dave
+AU  - Wen, Linda Yilin
+AU  - Grayson, Martin
+AU  - Georgescu, Raluca
+AU  - Valcarcel Macua, Sergio
+AU  - Tan, Shan Zheng
+AU  - Rashid, Tabish
+AU  - Pearce, Tim
+AU  - Cao, Yuhan
+AU  - Lemkhenter, Abdelhak
+AU  - Jiang, Chentian
+AU  - Costello, Gavin
+AU  - Gupta, Gunshi
+AU  - Tot, Marko
+AU  - Ishida, Shu
+AU  - Gupta, Tarun
+AU  - Arora, Udit
+AU  - White, Ryen W.
+AU  - Devlin, Sam
+AU  - Morrison, Cecily
+AU  - Hofmann, Katja
+PY  - 2025
+DA  - 2025/02/01
+TI  - World and Human Action Models towards gameplay ideation
+JO  - Nature
+SP  - 656
+EP  - 663
+VL  - 638
+IS  - 8051
+AB  - Generative artificial intelligence (AI) has the potential to transform creative industries through supporting human creative ideation—the generation of new ideas1–5. However, limitations in model capabilities raise key challenges in integrating these technologies more fully into creative practices. Iterative tweaking and divergent thinking remain key to enabling creativity support using technology6,7, yet these practices are insufficiently supported by state-of-the-art generative AI models. Using game development as a lens, we demonstrate that we can make use of an understanding of user needs to drive the development and evaluation of generative AI models in a way that aligns with these creative practices. Concretely, we introduce a state-of-the-art generative model, the World and Human Action Model (WHAM), and show that it can generate consistent and diverse gameplay sequences and persist user modifications—three capabilities that we identify as being critical for this alignment. In contrast to previous approaches to creativity support tools that required manually defining or extracting structure for relatively narrow domains, generative AI models can learn relevant structure from available data, opening the potential for a much broader range of applications.
+SN  - 1476-4687
+UR  - https://doi.org/10.1038/s41586-025-08600-3
+DO  - 10.1038/s41586-025-08600-3
+ID  - Kanervisto2025
+ER  - 

@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Yan, Yi-Miao
+AU  - Chen, Chuang-Qi
+AU  - Hu, Yang-Bang
+AU  - Ye, Xin-Dong
+PY  - 2025
+DA  - 2025/02/07
+TI  - LLM-based collaborative programming: impact on students’ computational thinking and self-efficacy
+JO  - Humanities and Social Sciences Communications
+SP  - 149
+VL  - 12
+IS  - 1
+AB  - At present, collaborative programming is a prevalent approach in programming education, yet its effectiveness often falls short due to the varying levels of coding skills among team members. To address these challenges, Large Language Models (LLMs) can be introduced as a supportive tool to enhance both the efficiency and outcomes of collaborative programming. In this shift, the structure of collaborative teams evolves from human-to-human to a new paradigm consisting of human, human, and AI. To investigate the effectiveness of integrating LLMs into collaborative programming, this study designed a quasi-experiment. To explore the effectiveness of integrating LLMs into collaborative programming, we conducted a quasi-experiment involving 82 sixth- and seventh-grade students, who were randomly assigned to either an experimental group or a control group. The results showed that incorporating LLMs into collaborative programming significantly reduced students’ cognitive load and improved their computational thinking skills. However, no significant difference in self-efficacy was observed between the two groups, likely due to the cognitive demand students faced when transitioning from graphical programming to text-based coding. Despite this, the study remains optimistic about the potential of LLM-enhanced collaborative programming, as students learning in this way exhibit lower cognitive load than those in conventional environments.
+SN  - 2662-9992
+UR  - https://doi.org/10.1057/s41599-025-04471-1
+DO  - 10.1057/s41599-025-04471-1
+ID  - Yan2025
+ER  - 

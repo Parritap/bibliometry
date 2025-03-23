@@ -1,0 +1,15 @@
+TY  - JOUR
+AU  - Kudelić, Robert
+PY  - 2025
+DA  - 2025/02/08
+TI  - Approaching the general quantification of functional information
+JO  - Scientific Reports
+SP  - 4792
+VL  - 15
+IS  - 1
+AB  - Information is everywhere, especially in the digital, artificial intelligence, and big data worlds we live in. In fact, information has always played a pivotal role; however, that role is, as the years of history accumulate, becoming even more significant. It is, therefore, a pursuit of scientific inquiry to quantify the functionality and semantics of information—this is also the goal of the article one reads. We have constructively and critically reviewed state-of-the-art approaches, presented challenges, and suggested a new approach that deals with the issues of information quantification. The developed approach represents a method for general quantification of functional information, including the total functional information of a system and the semantics revealed by functionality. Such a general method can potentially have significance far beyond the shores of information quantification, especially considering the importance of information in computer and information science, quantum physics, and chemistry. We have also made first steps of placing functional information in a computational complexity framework, which will potentially foster algorithmics around it, especially in terms of optimality or degeneracy, and possibly even in terms of work around classes of computational complexity.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-025-89487-y
+DO  - 10.1038/s41598-025-89487-y
+ID  - Kudelić2025
+ER  - 

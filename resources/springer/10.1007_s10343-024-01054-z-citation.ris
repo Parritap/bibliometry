@@ -1,0 +1,17 @@
+TY  - JOUR
+AU  - Şener, Abdullah
+AU  - Ergen, Burhan
+PY  - 2024
+DA  - 2024/12/01
+TI  - Advanced CNN Approach for Segmentation of Diseased Areas in Plant Images
+JO  - Journal of Crop Health
+SP  - 1569
+EP  - 1583
+VL  - 76
+IS  - 6
+AB  - Early and accurate diagnosis of plant diseases in agriculture is crucial to increase productivity, reduce the use of chemicals, save costs and obtain high quality products. Conventional methods are time consuming and prone to human error in detecting diseased areas. Therefore, automatic detection of diseased regions in plant images obtained from imaging devices is becoming increasingly important in modern agriculture. In this study, a novel deep learning-based model called Plant Diseased Region Detection Segmentation Network (PDRDSegNet) is proposed to solve the problem of segmenting diseased regions in plant leaves. PDRDSegNet was developed as a semantic segmentation model specifically optimized for plant disease detection. The performance of the model was compared with common segmentation models such as UNet, SegNet, FCN8, DeepLabV3+, ENet, PSPNet and ICNet. The training and testing of PDRDSegNet and other models were performed using the “Leaf Disease Segmentation Dataset,” which is widely used in agriculture. The results show that PDRDSegNet achieved the highest score with an mIoU accuracy of 86.05%. In addition, PDRDSegNet was found to achieve higher accuracy rates with fewer parameters, optimizing computational costs. These results indicate that PDRDSegNet can be an effective tool for plant disease detection.
+SN  - 2948-2658
+UR  - https://doi.org/10.1007/s10343-024-01054-z
+DO  - 10.1007/s10343-024-01054-z
+ID  - Şener2024
+ER  - 

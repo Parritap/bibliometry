@@ -1,0 +1,16 @@
+TY  - JOUR
+AU  - Hu, Hui-Zhi
+AU  - Zhang, Li-Guo
+AU  - Zhang, Jia-Hua
+AU  - Zhang, Di
+AU  - Xie, Jia-Rui
+PY  - 2024
+DA  - 2024/12/24
+TI  - A multidimensional dynamic assessment system for competence in computer science to improve students’ academic achievements and learning potential
+JO  - Education and Information Technologies
+AB  - Computer Science (CS) is a vital subject in K-12 education, and acquiring proficiency in CS is essential for nurturing talent. However, current teaching practices often rely on standardized tests to evaluate academic performance, which may not offer a comprehensive and multidimensional assessment of students’ competency in learning CS. Furthermore, developing students’ competence is a dynamic and non-linear process. Therefore, it is essential to develop alternative assessment methods to evaluate students’ competency and learning potential in CS comprehensively. This study presents a computational model of the Zone of Proximal Development (ZPD) based on dynamic evaluation and the fuzzy evaluation method, and develops a multidimensional dynamic assessment system to measure the developmental intervals and cognitive states of learners’ different dimensions of competence in CS. A quasi-experimental study was conducted to evaluate the effectiveness of the system in a high school (K12) computer science course related to the teaching of programming. The experimental group comprised 50 students who received instruction with the assessment system, while the control group, consisting of 52 students, received traditional teaching methods. The study demonstrates that the multidimensional dynamic assessment system had a significant positive impact on students’ competence in CS, particularly in the dimensions of “learning” and “applying”. Furthermore, the results indicate students’ academic achievement and learning potential improvements. 
+SN  - 1573-7608
+UR  - https://doi.org/10.1007/s10639-024-13290-x
+DO  - 10.1007/s10639-024-13290-x
+ID  - Hu2024
+ER  - 

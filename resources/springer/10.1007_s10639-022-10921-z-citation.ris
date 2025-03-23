@@ -1,0 +1,19 @@
+TY  - JOUR
+AU  - Boom, Kay-Dennis
+AU  - Bower, Matt
+AU  - Siemon, Jens
+AU  - Arguel, Amaël
+PY  - 2022
+DA  - 2022/07/01
+TI  - Relationships between computational thinking and the quality of computer programs
+JO  - Education and Information Technologies
+SP  - 8289
+EP  - 8310
+VL  - 27
+IS  - 6
+AB  - Computational thinking – the ability to reformulate and solve problems in ways that can be undertaken by computers – has been heralded as a foundational capability for the 21st Century. However, there are potentially different ways to conceptualise and measure computational thinking, for instance, as generalized problem solving capabilities or as applied practice during computer programming tasks, and there is little evidence to substantiate whether higher computational thinking capabilities using either of these measures result in better quality computer programs. This study examines the relationship between different forms of computational thinking and two different measures of programming quality for a group of 37 pairs of pre-service teachers. General computational thinking capabilities were measured using Bebras tests, while applied computational thinking processes were measured using a Computational Thinking Behavioural Scheme. The quality of computer programs was measured using a qualitative rubric, and programs were also assessed using the Dr Scratch auto-grading platform. The Test of Nonverbal Intelligence (3rd edition, TONI-3) was used to test for confounding effects. While significant correlations between both measures of computational thinking and program quality were detected, regression analysis revealed that only applied computational thinking processes significantly predicted program quality (general computational thinking capability and non-verbal intelligence were not significant predictors). The results highlight the importance of students developing applied computational thinking procedural capabilities more than generalized computational thinking capabilities in order to improve the quality of their computer programs.
+SN  - 1573-7608
+UR  - https://doi.org/10.1007/s10639-022-10921-z
+DO  - 10.1007/s10639-022-10921-z
+ID  - Boom2022
+ER  - 

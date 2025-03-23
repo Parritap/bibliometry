@@ -1,0 +1,17 @@
+TY  - JOUR
+AU  - Jin, Hao-Yue
+AU  - Cutumisu, Maria
+PY  - 2023
+DA  - 2023/09/01
+TI  - Predicting pre-service teachers’ computational thinking skills using machine learning classifiers
+JO  - Education and Information Technologies
+SP  - 11447
+EP  - 11467
+VL  - 28
+IS  - 9
+AB  - Computational thinking (CT) skills of pre-service teachers have been explored extensively, but the effectiveness of CT training has yielded mixed results in previous studies. Thus, it is necessary to identify patterns in the relationships between predictors of CT and CT skills to further support CT development. This study developed an online CT training environment as well as compared and contrasted the predictive capacity of four supervised machine learning algorithms in classifying the CT skills of pre-service teachers using log data and survey data. First, the results show that Decision Tree outperformed K-Nearest Neighbors, Logistic Regression, and Naive Bayes in predicting pre-service teachers’ CT skills. Second, the participants’ time spent on CT training, prior CT skills, and perceptions of difficulty regarding the learning content were the top three important predictors in this model.
+SN  - 1573-7608
+UR  - https://doi.org/10.1007/s10639-023-11642-7
+DO  - 10.1007/s10639-023-11642-7
+ID  - Jin2023
+ER  - 

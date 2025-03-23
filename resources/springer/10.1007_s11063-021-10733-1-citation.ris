@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Li, Mingchun
+AU  - Chen, Dali
+AU  - Liu, Shixin
+PY  - 2022
+DA  - 2022/06/01
+TI  - Weakly Supervised Segmentation Loss Based on Graph Cuts and Superpixel Algorithm
+JO  - Neural Processing Letters
+SP  - 2339
+EP  - 2362
+VL  - 54
+IS  - 3
+AB  - In recent years, weakly supervised learning is a hot topic in the field of machine learning, especially for image segmentation. Assuming that only a small number of pixel categories are known in advance, it is worth thinking about how to achieve appropriate deep network. In this work, a series of weakly supervised segmentation losses based on graph cuts are proposed to solve this problem. Specifically, we take the objective function of the classical graph cut algorithm as the loss function of deep learning and integrate it into the back gradient propagation to update the parameters of network. Follow this route, typical region-based losses, such as IoU loss and Dice loss, could also be extended to weakly supervised versions in this work. Besides, considering the computational complexity of the pixel level graph cut algorithm, we use SLIC algorithm to extract superpixels as the vertices of the graph involved in our loss function. In the experiments, the network based on the proposed graph cut loss achieves good performance in VOC2012 dataset, which proves the effectiveness of our method.
+SN  - 1573-773X
+UR  - https://doi.org/10.1007/s11063-021-10733-1
+DO  - 10.1007/s11063-021-10733-1
+ID  - Li2022
+ER  - 

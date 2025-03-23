@@ -1,0 +1,17 @@
+TY  - JOUR
+AU  - Juchem Neto, João Plínio
+AU  - Delamare, Angelo Francisco Sirtoli
+PY  - 2021
+DA  - 2021/11/01
+TI  - The level of tolerance of individuals, individual thinking, and the formation of social norms
+JO  - Journal of Computational Social Science
+SP  - 721
+EP  - 759
+VL  - 4
+IS  - 2
+AB  - In this work, we study the impact of considering agents with distinct norm heterogeneity tolerance levels, and with distinct initial levels of thinking, in the evolution of social norms and levels of thinking in an artificial society. To this end, we generalize an agent-based model first proposed by Joshua M. Epstein to consider agents with distinct tolerance levels to norm heterogeneity in their neighborhoods. In this model, agents that are located in a cyclic network can choose between two norms, want to conform to their neighborhoods, and decide how much to think—i.e., how many neighbors to consult in deciding which norm to follow—analyzing the norm heterogeneity in their surroundings. Through computer simulations of the model, we obtain the following results: (i) when agents have distinct levels of tolerance, the society converges, for a wide range of initial levels of thinking, to a steady state showing higher global diversity (measured by the number of stable local groups formed at the steady state, where contiguous agents within each group conform to the same norm) associated with higher levels of thinking than in scenarios where all agents have the same tolerance level; (ii) for lower initial levels of thinking, more initial thinking implies in faster convergence to the steady state in the cases of heterogeneous tolerance levels, and when agents present homogeneous maximum intolerance levels; (iii) in all scenarios, more thinking is required in the process of reaching the steady state (the equilibrium of the model), than to maintain this equilibrium afterward; (iv) our model was able to generate distinct average levels of thinking across groups; and (v), higher levels of initial thinking imply in a society with less global diversity at the steady state, with this inverse relationship following a broken power law. Finally, we show that some of our results are similar to results presented in the literature.
+SN  - 2432-2725
+UR  - https://doi.org/10.1007/s42001-021-00106-y
+DO  - 10.1007/s42001-021-00106-y
+ID  - Juchem Neto2021
+ER  - 

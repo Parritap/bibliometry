@@ -1,0 +1,25 @@
+TY  - JOUR
+AU  - Founou, Luria Leslie
+AU  - Lawal, Opeyemi U.
+AU  - Djiyou, Armando
+AU  - Odih, Erkison Ewomazino
+AU  - Amoako, Daniel Gyamfi
+AU  - Fadanka, Stephane
+AU  - Aworh, Mabel Kamweli
+AU  - Lukhele, Sindiswa
+AU  - Nikolic, Dusanka
+AU  - Matimba, Alice
+AU  - Founou, Raspail Carrel
+PY  - 2025
+DA  - 2025/03/19
+TI  - Enable, empower, succeed: a bioinformatics workshop Harnessing open web-based tools for surveillance of bacterial antimicrobial resistance
+JO  - BMC Microbiology
+SP  - 156
+VL  - 25
+IS  - 1
+AB  - Antimicrobial resistance (AMR) poses a significant threat to global health, particularly in Western sub-Saharan Africa where 27.3 deaths per 100,000 lives are affected, and surveillance and control measures are often limited. Genomics research plays a crucial role in understanding the emergence, spread and containment measures of AMR. However, its implementation in such settings is particularly challenging due to limited human capacity. This manuscript outlines a three-day bioinformatics workshop in Cameroon, highlighting efforts to build human capacity for genomics research to support AMR surveillance using readily accessible and user-friendly web-based tools. The workshop introduced participants to basic next-generation sequencing concepts, data file formats used in bacterial genomics, data sharing procedures and considerations, as well as the use of web-based bioinformatics software to analyse genomic data, including in silico prediction of AMR, phylogenetics analyses, and a quick introduction to Linux© command line.
+SN  - 1471-2180
+UR  - https://doi.org/10.1186/s12866-025-03865-0
+DO  - 10.1186/s12866-025-03865-0
+ID  - Founou2025
+ER  - 

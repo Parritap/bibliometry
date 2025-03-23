@@ -1,0 +1,15 @@
+TY  - JOUR
+AU  - Crafa, Silvia
+PY  - 2024
+DA  - 2024/04/25
+TI  - Algorithmic Thinking for the Legal Writing: The Case of Italian Election Law
+JO  - Digital Society
+SP  - 18
+VL  - 3
+IS  - 2
+AB  - We examine the Italian election law as a case study to illustrate how the algorithmic thinking can productively interoperate with the legal language to increase the transparency of the legal text, and to enable better reasoning about the procedural content of the law. The effort to rephrase the text of the law in algorithmic terms revealed that the election procedure is under-specified, so that the allocation of seats between constituencies may differ depending on the actual sequence of ballot operations performed by the scrutineers. This may lead to legal uncertainty in a critical section of the election law that one would expect to be fully determined. We then discuss the difference between algorithm and software in the legal context, illustrating how the algorithmic language acts as an interface between the textual description of a legal procedure and its mathematical or computational formalization. Hence we put forward the concept of algorithmic normativity, that is the power of the algorithmic language (different from software’s code) to legally express procedures at an appropriate abstraction level, balancing transparency with scientific precision.
+SN  - 2731-4669
+UR  - https://doi.org/10.1007/s44206-024-00103-4
+DO  - 10.1007/s44206-024-00103-4
+ID  - Crafa2024
+ER  - 

@@ -1,0 +1,19 @@
+TY  - JOUR
+AU  - Meinhardt, Eric
+AU  - Mai, Anna
+AU  - Baković, Eric
+AU  - McCollum, Adam
+PY  - 2024
+DA  - 2024/08/01
+TI  - Weak determinism and the computational consequences of interaction
+JO  - Natural Language & Linguistic Theory
+SP  - 1191
+EP  - 1232
+VL  - 42
+IS  - 3
+AB  - Recent work has claimed that (non-tonal) phonological patterns are subregular (Heinz 2011a,b, 2018; Heinz and Idsardi 2013), occupying a delimited proper subregion of the regular functions—the weakly deterministic (WD) functions (Heinz and Lai 2013; Jardine 2016). Whether or not it is correct (McCollum et al. 2020a), this claim can only be properly assessed given a complete and accurate definition of WD functions. We propose such a definition in this article, patching unintended holes in Heinz and Lai’s (2013) original definition that we argue have led to the incorrect classification of some phonological patterns as WD. We start from the observation that WD patterns share a property that we call unbounded semiambience, modeled after the analogous observation by Jardine (2016) about non-deterministic (ND) patterns and their unbounded circumambience. Both ND and WD functions can be broken down into compositions of deterministic (subsequential) functions (Elgot and Mezei 1965; Heinz and Lai 2013) that read an input string from opposite directions; we show that WD functions are those for which these deterministic composands do not interact in a way that is familiar from the theoretical phonology literature. To underscore how this concept of interaction neatly separates the WD class of functions from the strictly more expressive ND class, we provide analyses of the vowel harmony patterns of two Eastern Nilotic languages, Maasai and Turkana, using bimachines, an automaton type that represents unbounded bidirectional dependencies explicitly. These analyses make clear that there is interaction between deterministic composands when (and only when) the output of a given input element of a string is simultaneously dependent on information from both the left and the right: ND functions are those that involve interaction, while WD functions are those that do not.
+SN  - 1573-0859
+UR  - https://doi.org/10.1007/s11049-023-09578-1
+DO  - 10.1007/s11049-023-09578-1
+ID  - Meinhardt2024
+ER  - 

@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Wang, Chung-Hsiang
+AU  - Wu, Ko-Chiu
+AU  - Jiang, Wan-Ting
+PY  - 2023
+DA  - 2023/07/01
+TI  - Web-based drawing for students with different learning styles and cognitive abilities
+JO  - Education and Information Technologies
+SP  - 9049
+EP  - 9079
+VL  - 28
+IS  - 7
+AB  - Image-text conversion for web-based drawing involves mental activities of reification which sometimes leads students fluent in graphical hand skills to find it difficult to learn program code drawing. 35 people completed experiments on Topics 1 and 2 and 30 people completed experiments on Topics 1 to 3 on webpage design. A pretest and posttest determined their learning style (visual or verbal), basic programming ability, and cognitive abilities (including logical reasoning, figural flexibility, and spatial perception—orientation and measurement). Statistical analyses and semi-structured interviews examined student performance. Students with different learning styles and different cognitive abilities displayed significant differences in the three topics. K-means clustering demonstrated the originality, aesthetic sophistication, and level of interaction to be critical yardsticks in measuring programming learning achievement. This research demonstrates factors that influence the learning of web-based drawing and offers new opportunities for understanding how front-end engineer novices can apply computational thinking skills to implement webpage design. Specifically, mental models may be integrated by graphical, heuristic, abstract, and sequential thinking in turn to solve problems in web-based drawing.
+SN  - 1573-7608
+UR  - https://doi.org/10.1007/s10639-022-11542-2
+DO  - 10.1007/s10639-022-11542-2
+ID  - Wang2023
+ER  - 

@@ -1,0 +1,16 @@
+TY  - JOUR
+AU  - Dobson, James E.
+PY  - 2023
+DA  - 2023/11/01
+TI  - On reading and interpreting black box deep neural networks
+JO  - International Journal of Digital Humanities
+SP  - 431
+EP  - 449
+VL  - 5
+IS  - 2
+AB  - The deep neural networks used in computer vision and in recent large language models are widely recognized as black boxes, a term that describes their complicated architectures and opaque decision-making mechanisms. This essay outlines several different strategies through which humanist researchers and critics of machine learning might better understand and interpret the class of deep learning methods known as Transformers. These strategies expose different aspects of what might be “learned” as Transformers are trained and used in the analysis of language and can help critics at least partially open the black box of machine learning. They are also especially useful for digital humanists using these models as part of a research program informed by tool criticism in which the use of computational tools is conceived of as a metainterpretive act.
+SN  - 2524-7840
+UR  - https://doi.org/10.1007/s42803-023-00075-w
+DO  - 10.1007/s42803-023-00075-w
+ID  - Dobson2023
+ER  - 

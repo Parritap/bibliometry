@@ -1,0 +1,17 @@
+TY  - JOUR
+AU  - Lodi, Michael
+AU  - Martini, Simone
+PY  - 2021
+DA  - 2021/08/01
+TI  - Computational Thinking, Between Papert and Wing
+JO  - Science & Education
+SP  - 883
+EP  - 908
+VL  - 30
+IS  - 4
+AB  - The pervasiveness of Computer Science (CS) in today’s digital society and the extensive use of computational methods in other sciences call for its introduction in the school curriculum. Hence, Computer Science Education is becoming more and more relevant. In CS K-12 education, computational thinking (CT) is one of the abused buzzwords: different stakeholders (media, educators, politicians) give it different meanings, some more oriented to CS, others more linked to its interdisciplinary value. The expression was introduced by two leading researchers, Jeannette Wing (in 2006) and Seymour Papert (much early, in 1980), each of them stressing different aspects of a common theme. This paper will use a historical approach to review, discuss, and put in context these first two educational and epistemological approaches to CT. We will relate them to today’s context and evaluate what aspects are still relevant for CS K-12 education. Of the two, particular interest is devoted to “Papert’s CT,” which is the lesser-known and the lesser-studied. We will conclude that “Wing’s CT” and “Papert’s CT,” when correctly understood, are both relevant to today’s computer science education. From Wing, we should retain computer science’s centrality, CT being the (scientific and cultural) substratum of the technical competencies. Under this interpretation, CT is a lens and a set of categories for understanding the algorithmic fabric of today’s world. From Papert, we should retain the constructionist idea that only a social and affective involvement of students into the technical content will make programming an interdisciplinary tool for learning (also) other disciplines. We will also discuss the often quoted (and often unverified) claim that CT automatically “transfers” to other broad 21st century skills. Our analysis will be relevant for educators and scholars to recognize and avoid misconceptions and build on the two core roots of CT.
+SN  - 1573-1901
+UR  - https://doi.org/10.1007/s11191-021-00202-5
+DO  - 10.1007/s11191-021-00202-5
+ID  - Lodi2021
+ER  - 

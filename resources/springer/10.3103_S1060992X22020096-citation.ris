@@ -1,0 +1,16 @@
+TY  - JOUR
+AU  - Smirnitskaya, I. A.
+PY  - 2022
+DA  - 2022/06/01
+TI  - Survey of Computational Modeling of the Functional Parts of the Brain
+JO  - Optical Memory and Neural Networks
+SP  - 145
+EP  - 162
+VL  - 31
+IS  - 2
+AB  - A review of connectionist models of the nervous system is presented. First, the information about the main elements of the models and principles of their functioning, such as the distributed nature of input signals representation, the property of associativity and others are given. Since the nervous system is a hierarchical structure, its models reflect different levels of its functioning from cellular to cross-structural. The examples of models of different levels are analyzed, from single neurons to functional parts, such as basal ganglia, cerebellum, hippocampus, etc. It is shown that models built from universal basic elements, with intrinsic organization made under anatomical information, reproduce the basic neurophysiological data about the relationship of animal’s behavior and neural activity of respective part of the brain.
+SN  - 1934-7898
+UR  - https://doi.org/10.3103/S1060992X22020096
+DO  - 10.3103/S1060992X22020096
+ID  - Smirnitskaya2022
+ER  - 

@@ -1,0 +1,16 @@
+TY  - JOUR
+AU  - Stratton, Peter
+PY  - 2024
+DA  - 2024/09/01
+TI  - Convolutionary, Evolutionary, and Revolutionary: What’s Next for Brains, Bodies, and AI?
+JO  - Cognitive Computation
+SP  - 2420
+EP  - 2427
+VL  - 16
+IS  - 5
+AB  - The flexibility, adaptability, and resilience of even simple brains are unmatched by any current technology. Recent unexpected difficulties in realising truly autonomous vehicles, making reliable medical diagnoses, detecting offensive online content and even just recognising faces, show that brains remain significantly functionally more capable than we can currently emulate. Fittingly, in recent years we have made significant progress identifying computational principles that underlie neural function. We are beginning to dispense with the overly simplistic stimulus-driven encode/transmit/decode doctrine. Instead we must embrace the brain’s inherent dynamic complexity and emergent properties and explain how plasticity moulds the dynamics to capture useful couplings across brain regions and between the brain, the body, and the world. While certainly not complete, we have sufficient evidence that a synthesis of these ideas could result in a deeper understanding of neural computation and which could potentially be used to construct new AI technologies with unique capabilities. I discuss the relevant neuroscientific principles, the advantages they have for computation, and how they can benefit AI. Limitations of current AI are now generally recognised. I postulate that we understand enough about the brain to immediately offer novel AI formulations.
+SN  - 1866-9964
+UR  - https://doi.org/10.1007/s12559-023-10181-0
+DO  - 10.1007/s12559-023-10181-0
+ID  - Stratton2024
+ER  - 

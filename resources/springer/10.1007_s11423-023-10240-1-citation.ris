@@ -1,0 +1,21 @@
+TY  - JOUR
+AU  - Jiang, Xina
+AU  - Harteveld, Casper
+AU  - Yang, Yuqin
+AU  - Fung, Anthony
+AU  - Huang, Xinyuan
+AU  - Chen, Shihong
+PY  - 2023
+DA  - 2023/08/01
+TI  - “If it’s sunny, don’t take an umbrella”: a systematic evaluation of design principles for CT teaching games
+JO  - Educational technology research and development
+SP  - 1725
+EP  - 1763
+VL  - 71
+IS  - 4
+AB  - Computational thinking (CT) has become an important skill for the new generation, and CT teaching games have been introduced to lower the barriers that novices face in learning programming. However, despite the prevalence of and demand for these games, little is known about the effectiveness of their design or about the principles that are conducive to learning using these games. In this article, we present a project in which we triangulated design research with controlled experiments to evaluate the effectiveness of a computational puzzle design (CPD) framework in guiding the development of CT teaching games for children. Using CT tests, game logs, and a survey, we evaluated the learning outcomes of and engagement with various versions of the game LittleWorld, designed based on various principles of the CPD framework and implemented in Chinese elementary education (n = 202). The results validate the CPD framework and demonstrate that it is a practical and systematic tool for designing CT teaching games. The findings of this study provide design implications concerning (1) the application of meta-gaming and (2) how serious game design research should be conducted.
+SN  - 1556-6501
+UR  - https://doi.org/10.1007/s11423-023-10240-1
+DO  - 10.1007/s11423-023-10240-1
+ID  - Jiang2023
+ER  - 

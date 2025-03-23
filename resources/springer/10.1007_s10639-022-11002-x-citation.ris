@@ -1,0 +1,16 @@
+TY  - JOUR
+AU  - Urhan, Selin
+PY  - 2022
+DA  - 2022/09/01
+TI  - Using Habermas’ construct of rationality to analyze students’ computational thinking: The case of series and vector
+JO  - Education and Information Technologies
+SP  - 10869
+EP  - 10948
+VL  - 27
+IS  - 8
+AB  - The aim of this study is to explore the computational thinking (CT) processes of university students with the integration of CAS and ACODESA method within the context of problem-solving. The participants of the study are 22 university students. The embedded design was used in the study. The qualitative data consists of the written products of the students, the Maple files, and the transcriptions of argumentations while the quantitative data consists of the pre and post-test scores of the students in CT practices. The implementation was based on ACODESA method. The pre and post-test scores were compared through the Wilcoxon signed-rank test. It was concluded that ACODESA method had a statistically significant effect on students’ CT performances in the problem-solving process, cognitive processes and transposition. The qualitative data were analyzed within the framework of Habermas' construct of rationality. It was seen that in the series problem, the students showed improvement in constructing factorial concept and exponential expressions with a for loop, defining events and using them as conditionals within the if–then comparison statement. In the vector problem, the students showed improvement in constructing the components of n-dimensional vectors, constructing a for loop to find the angle between these vectors, using the if–then comparison statement to check the equality of the dimensions. The students were able to act more rationally in choosing and using the CT concepts suitable for the purpose and transferring the CT process to the others, thanks to productive argumentations and the semiotic mediational role of the Maple.
+SN  - 1573-7608
+UR  - https://doi.org/10.1007/s10639-022-11002-x
+DO  - 10.1007/s10639-022-11002-x
+ID  - Urhan2022
+ER  - 

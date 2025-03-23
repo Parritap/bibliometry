@@ -1,0 +1,17 @@
+TY  - JOUR
+AU  - Robson, Adam
+AU  - Mistry, Kamlesh
+AU  - Woo, Wai-Lok
+PY  - 2025
+DA  - 2025/01/15
+TI  - A novel group-based framework for nature-inspired optimization algorithms with adaptive movement behavior
+JO  - Complex & Intelligent Systems
+SP  - 141
+VL  - 11
+IS  - 2
+AB  - This paper proposes two novel group-based frameworks that can be implemented into almost any nature-inspired optimization algorithm. The proposed Group-Based (GB) and Cross Group-Based (XGB) framework implements a strategy which modifies the attraction and movement behaviors of base nature-inspired optimization algorithms and a mechanism that creates a continuing variance within population groupings, while attempting to maintain levels of computational simplicity that have helped nature-inspired optimization algorithms gain notoriety within the field of feature selection. Through this functionality, the proposed framework seeks to increase search diversity within the population swarm to address issues such as premature convergence, and oscillations within the swarm. The proposed frameworks have shown promising results when implemented into the Bat algorithm (BA), Firefly algorithm (FA), and Particle Swarm Optimization algorithm (PSO), all of which are popular when applied to the field of feature selection, and have been shown to perform well in a variety of domains, gaining notoriety due to their powerful search capabilities.
+SN  - 2198-6053
+UR  - https://doi.org/10.1007/s40747-024-01763-y
+DO  - 10.1007/s40747-024-01763-y
+ID  - Robson2025
+ER  - 

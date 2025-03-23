@@ -1,0 +1,17 @@
+TY  - JOUR
+AU  - Zhu, Sha
+AU  - Guo, Qing
+AU  - Yang, Sa
+AU  - Yang, Harrison Hao
+AU  - Li, Huan
+AU  - Sun, Zejun
+PY  - 2025
+DA  - 2025/03/03
+TI  - Assessing Chinese middle school students’ computational thinking: an evidence-centered design approach
+JO  - Educational technology research and development
+AB  - Computational thinking (CT) is a core skill for students in the digital age, which refers to the use of fundamental concepts of computer science to analyze and solve real-world problems. However, it is a challenging task to accurately measure the CT levels of the students. The goal of this study is to explore a new CT assessment paradigm that combines a data-driven approach with evidence-based reasoning, and to verify the reliability and validity of this paradigm through an empirical study. Specifically, we examined middle school students’ CT by adopting an Evidence-Centered Design (ECD) approach. We first developed a CT evaluation framework based on ECD which included student, task, and evidence models. We then created several simulation-based tasks to gather evidence of CT levels; with these tasks, we extracted the observable variables in ECD model from clickstream data during the students’ answer process. Finally, a Bayesian network model was used for CT level prediction. Findings suggest that students’ clickstream data provide fine-grained, time-variant information on their interactions with tasks, thus promising more objective and richer insight into the performances of students with different CT levels. This study provides a paradigm reference for future CT measurement studies and proposes ideas for using process data in teaching to promote students’ CT development.
+SN  - 1556-6501
+UR  - https://doi.org/10.1007/s11423-025-10475-0
+DO  - 10.1007/s11423-025-10475-0
+ID  - Zhu2025
+ER  - 

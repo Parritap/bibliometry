@@ -1,0 +1,22 @@
+TY  - JOUR
+AU  - Jiang, Shiyan
+AU  - Qian, Yingxiao
+AU  - Tang, Hengtao
+AU  - Yalcinkaya, Rabia
+AU  - Rosé, Carolyn P.
+AU  - Chao, Jie
+AU  - Finzer, William
+PY  - 2023
+DA  - 2023/04/01
+TI  - Examining computational thinking processes in modeling unstructured data
+JO  - Education and Information Technologies
+SP  - 4309
+EP  - 4333
+VL  - 28
+IS  - 4
+AB  - As artificial intelligence (AI) technologies are increasingly pervasive in our daily lives, the need for students to understand the working mechanisms of AI technologies has become more urgent. Data modeling is an activity that has been proposed to engage students in reasoning about the working mechanism of AI technologies. While Computational thinking (CT) has been conceptualized as critical processes that students engage in during data modeling, much remains unexplored regarding how students created features from unstructured data to develop machine learning models. In this study, we examined high school students’ patterns of iterative model development and themes of CT processes in iterative model development. Twenty-eight students from a journalism class engaged in refining machine learning models iteratively for classifying negative and positive reviews of ice cream stores. This study draws on a theoretical framework of CT processes to examine students’ model development processes. The results showed that students (1) demonstrated three patterns of iterative model development, including incremental, filter-based, and radical feature creation; (2) engaged in complex reasoning about language use in diverse contexts in trial and error, (3) leveraged multiple data representations when applying mathematical and computational techniques. The results provide implications for designing accessible AI learning experiences for students to understand the role and responsibility of modelers in creating AI technologies and studying AI learning experiences from the angle of CT processes.
+SN  - 1573-7608
+UR  - https://doi.org/10.1007/s10639-022-11355-3
+DO  - 10.1007/s10639-022-11355-3
+ID  - Jiang2023
+ER  - 

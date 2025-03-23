@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Patil, Suman A.
+AU  - Patil, Shivleela
+AU  - Tadkal, Vijayalaxmi V.
+PY  - 2024
+DA  - 2024/12/01
+TI  - Enhanced Personality Prediction Using Knowledge Distillation with BERT: A Focus on MBTI
+JO  - Optical Memory and Neural Networks
+SP  - 455
+EP  - 465
+VL  - 33
+IS  - 4
+AB  - A person’s personality comprises a range of behaviours, attitudes, and emotional patterns that shift throughout time due to ecological and biological influences. Personality prediction from the MBTI dataset poses computational efficiency, memory utilisation, and class imbalance challenges. This study proposes a novel approach leveraging Knowledge Distillation-based BERT to address these challenges. The process involves three stages: pre-processing, feature extraction, and classification. Initially, data is cleaned by removing irrelevant characters and URLs, followed by tokenisation and conversion to lowercase for consistency. The padding ensures uniform input size for DistilBERT, with attention masks aiding focus on relevant tokens. DistilBERT extracts contextual embeddings, enhanced by segment and positional embeddings, capturing semantic meaning via multi-head self-attention. A fully connected layer with GELU activation and batch normalisation mitigates overfitting, followed by a classification layer with Sparsemax activation, addressing the class imbalance. Fine-tuning pre-trained DistilBERT maximises detection accuracy while excluding irrelevant learning objectives. Dynamic masking during inference replaces static masking, and the Radam optimiser optimises hyperparameters for improved convergence. Our approach offers a robust solution that achieves 93% accuracy and 95% F1-score for accurate personality prediction while mitigating computational complexities and class imbalance issues.
+SN  - 1934-7898
+UR  - https://doi.org/10.3103/S1060992X2470084X
+DO  - 10.3103/S1060992X2470084X
+ID  - Patil2024
+ER  - 

@@ -1,0 +1,22 @@
+TY  - JOUR
+AU  - Liu, Cheng
+AU  - Zhuang, Kaixiang
+AU  - Zeitlen, Daniel C.
+AU  - Chen, Qunlin
+AU  - Wang, Xueyang
+AU  - Feng, Qiuyang
+AU  - Beaty, Roger E.
+AU  - Qiu, Jiang
+PY  - 2024
+DA  - 2024/10/15
+TI  - Neural, genetic, and cognitive signatures of creativity
+JO  - Communications Biology
+SP  - 1324
+VL  - 7
+IS  - 1
+AB  - Creativity is typically operationalized as divergent thinking (DT) ability, a form of higher-order cognition which relies on memory, attention, and other component processes. Despite recent advances, creativity neuroscience lacks a unified framework to model its complexity across neural, genetic, and cognitive scales. Using task-based fMRI from two independent samples and MVPA, we identified a neural pattern that predicts DT, validated through cognitive decoding, genetic data, and large-scale resting-state fMRI. Our findings reveal that DT neural patterns span brain regions associated with diverse cognitive functions, with positive weights in the default mode and frontoparietal control networks and negative weights in the visual network. The high correlation with the primary gradient of functional connectivity suggests that DT involves extensive integration from concrete sensory information to abstract, higher-level cognition, distinguishing it from other advanced cognitive functions. Moreover, neurobiological analyses show that the DT pattern is positively correlated with dopamine-related neurotransmitters and genes influencing neurotransmitter release, advancing the neurobiological understanding of creativity.
+SN  - 2399-3642
+UR  - https://doi.org/10.1038/s42003-024-07007-6
+DO  - 10.1038/s42003-024-07007-6
+ID  - Liu2024
+ER  - 

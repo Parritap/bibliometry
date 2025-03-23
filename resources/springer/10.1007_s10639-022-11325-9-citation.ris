@@ -1,0 +1,17 @@
+TY  - JOUR
+AU  - Ozyurt, Ozcan
+AU  - Ozyurt, Hacer
+PY  - 2023
+DA  - 2023/03/01
+TI  - A large-scale study based on topic modeling to determine the research interests and trends on computational thinking
+JO  - Education and Information Technologies
+SP  - 3557
+EP  - 3579
+VL  - 28
+IS  - 3
+AB  - Computational thinking (CT) has started to attract attention as an important research topic in recent years. It is important to describe the CT field in detail and to determine the research interests and trends of studies in this field. In this most comprehensive and first topic modeling based study in the field of CT, it was aimed to determine the current situation and research interests and trends in the articles on CT from past to present. For this aim, articles containing the term “computational thinking” in the title, keywords and abstract were retrieved by a search on January 18, 2022 from Scopus database. As a result of the search, a total of 1083 articles related to CT published in the Scopus database as of the end of 2021 were obtained. The bibliometric analysis findings of the study showed that there has been a significant increase in the number of publications in this field, especially since 2015. Studies are mostly of United States origin. Although the studies are interdisciplinary, they have been published mainly in journals in the field of educational technologies. The topic modeling analysis showed that the articles in this field were grouped under 13 topics. The first three of these topics, in order of volume, are “Game based learning”, “Programming skills” and “Early child coding”, respectively. When the acceleration of the topics is examined, the first three, whose weight increased over time compared to other topics, came to the fore as “Programming skills”, “Early child coding” and “robotic programming”, respectively. As a result, it is expected that this study will guide future studies in terms of determining research interests and trends in the field of CT.
+SN  - 1573-7608
+UR  - https://doi.org/10.1007/s10639-022-11325-9
+DO  - 10.1007/s10639-022-11325-9
+ID  - Ozyurt2023
+ER  - 

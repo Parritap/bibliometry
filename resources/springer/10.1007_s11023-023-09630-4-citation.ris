@@ -1,0 +1,16 @@
+TY  - JOUR
+AU  - Waszek, David
+PY  - 2024
+DA  - 2024/02/01
+TI  - Informational Equivalence but Computational Differences? Herbert Simon on Representations in Scientific Practice
+JO  - Minds and Machines
+SP  - 93
+EP  - 116
+VL  - 34
+IS  - 1
+AB  - To explain why, in scientific problem solving, a diagram can be “worth ten thousand words,” Jill Larkin and Herbert Simon (1987) relied on a computer model: two representations can be “informationally” equivalent but differ “computationally,” just as the same data can be encoded in a computer in multiple ways, more or less suited to different kinds of processing. The roots of this proposal lay in cognitive psychology, more precisely in the “imagery debate” of the 1970s on whether there are image-like mental representations. Simon (1972, 1978) hoped to solve this debate by thoroughly reducing the differences between forms of mental representations (e.g., between images and sentences) to differences in computational efficiency; to carry out this reduction, he borrowed from computer science the concepts of data type and of data structure. I argue that, in the end, his account amounted to nothing more than characterizing representations by the fast operations on them. This analysis then allows me to assess what Simon’s approach actually achieves when transported from psychology to the study of scientific representations, as in Larkin and Simon (1987): it allows comparing, not representations in and of themselves, but rather the computational roles they play in particular problem-solving processes—that is, representations together with a particular way of using them.
+SN  - 1572-8641
+UR  - https://doi.org/10.1007/s11023-023-09630-4
+DO  - 10.1007/s11023-023-09630-4
+ID  - Waszek2024
+ER  - 

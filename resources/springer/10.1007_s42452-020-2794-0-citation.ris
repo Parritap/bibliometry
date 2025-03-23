@@ -1,0 +1,16 @@
+TY  - JOUR
+AU  - Jalali, Zahra
+AU  - Esmaeili Charkhab, Mehrzad
+PY  - 2020
+DA  - 2020/06/09
+TI  - Computational form-finding of a pavilion inspired by crystallization
+JO  - SN Applied Sciences
+SP  - 1190
+VL  - 2
+IS  - 7
+AB  - Designers and architects usually take inspiration from nature’s forms to develop their designs. Many of nature’s forms are highly sophisticated which only computational and algorithmic designs can be a solution. The purpose of this paper is to create a method and a tool for converting one of crystallization form-finding rules in nature into its use in the architectural style with the digital design approach. For this purpose, the rules of crystallization are modeled geometrically through an algorithm in the visual programing language software. To illustrate the results of this research, a pavilion has been designed using the developed algorithm. In the process of transforming the rules of form-finding of a natural phenomenon into an algorithm, the gap might be too large that the form is no longer similar to the original idea. Nature-based algorithms are so complicated and converting them to mathematical algorithms causes inevitable changes in form-finding. In order to create algorithms inspired by nature, it is not necessary to exactly mimic form-finding in nature. Using this design method, the required function of the form may be affected, and its esthetics and shape will prevail. Therefore, there is a need for a balance between form, function and structure.
+SN  - 2523-3971
+UR  - https://doi.org/10.1007/s42452-020-2794-0
+DO  - 10.1007/s42452-020-2794-0
+ID  - Jalali2020
+ER  - 

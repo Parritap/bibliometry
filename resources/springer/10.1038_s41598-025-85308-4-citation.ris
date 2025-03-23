@@ -1,0 +1,17 @@
+TY  - JOUR
+AU  - Wang, Jun
+AU  - Wang, Xiulai
+AU  - Yu, Airong
+PY  - 2025
+DA  - 2025/01/07
+TI  - Tackling misinformation in mobile social networks a BERT-LSTM approach for enhancing digital literacy
+JO  - Scientific Reports
+SP  - 1118
+VL  - 15
+IS  - 1
+AB  - The rapid proliferation of mobile social networks has significantly accelerated the dissemination of misinformation, posing serious risks to social stability, public health, and democratic processes. Early detection of misinformation is essential yet challenging, particularly in contexts where initial content propagation lacks user feedback and engagement data. This study presents a novel hybrid model that combines Bidirectional Encoder Representations from Transformers (BERT) with Long Short-Term Memory (LSTM) networks to enhance the detection of misinformation using only textual content. Extensive evaluations revealed that the BERT-LSTM model achieved an accuracy of 93.51%, a recall of 91.96%, and an F1 score of 92.73% in identifying misinformation. A controlled user study with 100 participants demonstrated the model’s effectiveness as an educational tool, with the experimental group achieving 89.4% accuracy in misinformation detection compared to 74.2% in the control group, while showing increased confidence levels and reduced decision-making time. Beyond its technical efficacy, the model exhibits significant potential in fostering critical thinking skills necessary for digital literacy. The findings underscore the transformative potential of advanced AI techniques in addressing the challenges of misinformation in the digital age.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-025-85308-4
+DO  - 10.1038/s41598-025-85308-4
+ID  - Wang2025
+ER  - 

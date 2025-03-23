@@ -1,0 +1,12 @@
+TY  - JOUR
+AU  - Hsu, Hsiao-Ping
+PY  - 2025
+DA  - 2025/02/17
+TI  - From Programming to Prompting: Developing Computational Thinking through Large Language Model-Based Generative Artificial Intelligence
+JO  - TechTrends
+AB  - The advancement of large language model-based generative artificial intelligence (LLM-based GenAI) has sparked significant interest in its potential to address challenges in computational thinking (CT) education. CT, a critical problem-solving approach in the digital age, encompasses elements such as abstraction, iteration, and generalisation. However, its abstract nature often poses barriers to meaningful teaching and learning. This paper proposes a constructionist prompting framework that leverages LLM-based GenAI to foster CT development through natural language programming and prompt engineering. By engaging learners in crafting and refining prompts, the framework aligns CT elements with five prompting principles, enabling learners to apply and develop CT in contextual and organic ways. A three-phase workshop is proposed to integrate the framework into teacher education, equipping future teachers to support learners in developing CT through interactions with LLM-based GenAI. The paper concludes by exploring the framework’s theoretical, practical, and social implications, advocating for its implementation and validation.
+SN  - 1559-7075
+UR  - https://doi.org/10.1007/s11528-025-01052-6
+DO  - 10.1007/s11528-025-01052-6
+ID  - Hsu2025
+ER  - 

@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Pei, Xintong
+AU  - Zhang, Zhenjiang
+AU  - Zhang, Yaochen
+PY  - 2024
+DA  - 2024/06/01
+TI  - Cost-efficient Hierarchical Federated Edge Learning for Satellite-terrestrial Internet of Things
+JO  - Mobile Networks and Applications
+SP  - 922
+EP  - 934
+VL  - 29
+IS  - 3
+AB  - With the widespread deployment of dense Low Earth Orbit (LEO) constellations, satellites can serve as an alternative solution to the lack of proximal multi-access edge computing (MEC) servers for mobile Internet of Things (IoT) devices in remote areas. Simultaneously, leveraging federated learning (FL) to address data privacy concerns in the context of satellite-terrestrial cooperative IoT is a prudent choice. However, in the traditional satellite-ground FL framework where model aggregation occurs solely on satellite onboard terminals, challenges of insufficient satellite computational resources and congested core networks are encountered. Hence, we propose a cost-efficient satellite-terrestrial assisted hierarchical federated edge learning (STA-HFEL) architecture in which the satellite edge server performs as intermediaries for partial FL aggregation between IoT devices and the remote cloud. We further introduced an innovative communication scheme between satellites based on Intra-plane ISLs in this paper. Accordingly, considering the resource constraints of battery-limited devices, we define a joint computation and communication resource optimization problem for device users to achieve global cost minimization. By decomposing it into local training computational resource allocation subproblem and local model uploading communication resource subproblem, we used a distributed Jacobi-Proximal ADMM (JPADMM) algorithm to tackle the formulated problem iteratively. Extensive performance evaluations demonstrate that the potential of STA-HFEL as a cost-efficient and privacy-preserving approach for machine learning tasks across distributed remote environments.
+SN  - 1572-8153
+UR  - https://doi.org/10.1007/s11036-024-02352-6
+DO  - 10.1007/s11036-024-02352-6
+ID  - Pei2024
+ER  - 

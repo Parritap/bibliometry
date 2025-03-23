@@ -1,0 +1,15 @@
+TY  - JOUR
+AU  - Zheng, Qi
+PY  - 2022
+DA  - 2022/10/27
+TI  - Integrating computational thinking into a longitudinal data analysis course for public health students
+JO  - Discover Education
+SP  - 15
+VL  - 1
+IS  - 1
+AB  - After completing an introductory biostatistics course, public health students often need to take one or more follow-on courses focusing on specialized areas of biostatistics. While there exists decades’ worth of pedagogical research on teaching introductory statistics to non-statistics majors, few systematic attempts have been made to explore innovative ways to teaching follow-on courses to non-statistics majors such as public health students. Extending previous research on teaching categorical data analysis to public health students, this paper explores ways to harness the power of computational thinking in teaching conceptual knowledge in a follow-on course on longitudinal data analysis. The proposed approach aims to keep students in their zone of proximal development by using computational experiments as a tool for developing understanding of conceptual knowledge. Learning activities center on experiments that explore the likelihood function. Illustrative examples of actual student work are used to demonstrate a practical way of integrating computational thinking into biostatistics course content.
+SN  - 2731-5525
+UR  - https://doi.org/10.1007/s44217-022-00015-w
+DO  - 10.1007/s44217-022-00015-w
+ID  - Zheng2022
+ER  - 

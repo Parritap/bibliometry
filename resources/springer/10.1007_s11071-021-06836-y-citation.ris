@@ -1,0 +1,19 @@
+TY  - JOUR
+AU  - Machado, J. A. Tenreiro
+AU  - Rocha-Neves, J. M.
+AU  - Azevedo, Filipe
+AU  - Andrade, J. P.
+PY  - 2021
+DA  - 2021/10/01
+TI  - Advances in the computational analysis of SARS-COV2 genome
+JO  - Nonlinear Dynamics
+SP  - 1525
+EP  - 1555
+VL  - 106
+IS  - 2
+AB  - Given a data-set of Ribonucleic acid (RNA) sequences we can infer the phylogenetics of the samples and tackle the information for scientific purposes. Based on current data and knowledge, the SARS-CoV-2 seemingly mutates much more slowly than the influenza virus that causes seasonal flu. However, very recent evolution poses some doubts about such conjecture and shadows the out-coming light of people vaccination. This paper adopts mathematical and computational tools for handling the challenge of analyzing the data-set of different clades of the severe acute respiratory syndrome virus-2 (SARS-CoV-2). On one hand, based on the mathematical paraphernalia of tools, the concept of distance associated with the Kolmogorov complexity and Shannon information theories, as well as with the Hamming scheme, are considered. On the other, advanced data processing computational techniques, such as, data compression, clustering and visualization, are borrowed for tackling the problem. The results of the synergistic approach reveal the complex time dynamics of the evolutionary process and may help to clarify future directions of the SARS-CoV-2 evolution.
+SN  - 1573-269X
+UR  - https://doi.org/10.1007/s11071-021-06836-y
+DO  - 10.1007/s11071-021-06836-y
+ID  - Machado2021
+ER  - 

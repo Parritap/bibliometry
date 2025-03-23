@@ -1,0 +1,17 @@
+TY  - JOUR
+AU  - Gu, Peidi
+AU  - Wu, Jiaming
+AU  - Cheng, Zui
+AU  - Xia, Yu
+AU  - Cheng, Miaoting
+AU  - Dong, Yan
+PY  - 2025
+DA  - 2025/02/26
+TI  - Scaffolding self-regulation in project-based programming learning through online collaborative diaries to promote computational thinking
+JO  - Education and Information Technologies
+AB  - Teaching computational thinking skills to novice college students via programming poses considerable challenges. It involves learning programming language syntax and commands, along with fostering higher-order skills crucial for both computational thinking proficiency and future careers. To address this, we proposed a pedagogical approach integrating project-based learning with self-regulated learning in a C programming course. Guided by the higher-order computational thinking framework, this quasi-experimental study enrolled 173 students divided into three groups, a group with project-based learning design alone, a group with both project-based learning design and self-regulated learning scaffolding, and a control group with traditional teacher centered teaching. One-way analysis of covariance results showed the group with both project-based learning design and self-regulated learning scaffolding presented the most advancement of problem-solving and metacognitive skills. Paired samples t-tests showed this group also displayed the most significant improvements in computational thinking tendency and other higher-order skills. While the students’ cognitive knowledge gain in the group with both pedagogical supports didn't surpass students of the control group, it did outperform students from the group with project-based learning design alone. Overall, our findings supported the effectiveness of this integrated method in boosting computational thinking and other higher-order skills in novice programming students. This warranted further research to refine and enhance the proposed pedagogical strategy.
+SN  - 1573-7608
+UR  - https://doi.org/10.1007/s10639-025-13367-1
+DO  - 10.1007/s10639-025-13367-1
+ID  - Gu2025
+ER  - 

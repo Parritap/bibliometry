@@ -1,0 +1,16 @@
+TY  - JOUR
+AU  - Hooshyar, Danial
+PY  - 2024
+DA  - 2024/01/01
+TI  - Temporal learner modelling through integration of neural and symbolic architectures
+JO  - Education and Information Technologies
+SP  - 1119
+EP  - 1146
+VL  - 29
+IS  - 1
+AB  - Neural and symbolic architectures are key techniques in AI for learner modelling, enhancing adaptive educational services. Symbolic models offer explanation and reasoning for decisions but require significant human effort. On the other hand, neural architectures demand less human input and yield better predictions, yet lack interpretability. Given the high-risk nature of education and that incorrectly tailored support can negatively affect learning outcomes, the integration of neural and symbolic architectures becomes crucial. This research proposes a novel neural-symbolic AI approach for temporal learner modelling, called TemporaLM, that leverages unsupervised deep neural networks (i.e., autoencoders enriched with symbolic educational knowledge) and dynamic Bayesian networks for learners’ knowledge tracing over time. The approach employs a dynamic Bayesian network for temporal knowledge tracking in learners' computational thinking and employs a knowledge-based autoencoder to enhance predictive performance through synthetic data augmentation. Our findings from both cross-validation and practical application demonstrate that the TemporaLM approach, trained on the neural-symbolic AI augmented dataset, achieves better generalizability, yielding an accuracy of 85% and an F1 score of 87%. This surpasses the dynamic Bayesian network trained solely on original and autoencoder-augmented data. Notably, by leveraging the transformed dataset for model training, improvements of up to 8% in F1 score and 5% in accuracy were achieved compared to the original dataset, observed in both cross-validation and application stages. The augmented prediction capabilities, coupled with interpretable knowledge tracing, cultivate trust among educators and learners in data-driven decisions. These findings underline the potential of neural-symbolic family of AI to improve limitation of existing (symbolic) AI methods in education, advancing AI's potential in education and enabling trustworthy and interpretable applications.
+SN  - 1573-7608
+UR  - https://doi.org/10.1007/s10639-023-12334-y
+DO  - 10.1007/s10639-023-12334-y
+ID  - Hooshyar2024
+ER  - 

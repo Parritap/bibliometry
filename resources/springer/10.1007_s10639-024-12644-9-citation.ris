@@ -1,0 +1,16 @@
+TY  - JOUR
+AU  - Ezeamuzie, Ndudi O.
+PY  - 2024
+DA  - 2024/10/01
+TI  - Influence of school characteristics on computational thinking: A supervised machine learning approach
+JO  - Education and Information Technologies
+SP  - 20077
+EP  - 20101
+VL  - 29
+IS  - 15
+AB  - This study explores the influence of schools’ general characteristics, and their information and communication technology (ICT) capabilities on students’ computational thinking. The computational thinking achievements of 31,823 students who participated in a large-scale comparative study in 1412 schools and across nine countries/regions were analyzed using supervised machine learning. Five classification rules were triangulated to determine how 22 schools’ general characteristics and their ICT capabilities predicted students’ computational thinking achievements. Data analysis showed no predictive relationship between schools’ ICT capabilities and computational thinking. However, some classification rules predicted higher computational thinking achievement for students from affluent schools. The discussion amplifies the need for proper incorporation of ICT in schools with recommendations for more research on the nuanced relationship between schools’ characteristics and computational thinking development.
+SN  - 1573-7608
+UR  - https://doi.org/10.1007/s10639-024-12644-9
+DO  - 10.1007/s10639-024-12644-9
+ID  - Ezeamuzie2024
+ER  - 

@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Yehudi, Yo
+AU  - Hughes-Noehrer, Lukas
+AU  - Goble, Carole
+AU  - Jay, Caroline
+PY  - 2023
+DA  - 2023/11/02
+TI  - Subjective data models in bioinformatics and how wet lab and computational biologists conceptualise data
+JO  - Scientific Data
+SP  - 756
+VL  - 10
+IS  - 1
+AB  - Biological science produces “big data” in varied formats, which necessitates using computational tools to process, integrate, and analyse data. Researchers using computational biology tools range from those using computers for communication, to those writing analysis code. We examine differences in how researchers conceptualise the same data, which we call “subjective data models”. We interviewed 22 people with biological experience and varied levels of computational experience, and found that many had fluid subjective data models that changed depending on circumstance. Surprisingly, results did not cluster around participants’ computational experience levels. People did not consistently map entities from abstract data models to the real-world entities in files, and certain data identifier formats were easier to infer meaning from than others. Real-world implications: 1) software engineers should design interfaces for task performance, emulating popular user interfaces, rather than targeting professional backgrounds; 2) when insufficient context is provided, people may guess what data means, whether or not they are correct, emphasising the importance of contextual metadata to remove the need for erroneous guesswork.
+SN  - 2052-4463
+UR  - https://doi.org/10.1038/s41597-023-02627-9
+DO  - 10.1038/s41597-023-02627-9
+ID  - Yehudi2023
+ER  - 

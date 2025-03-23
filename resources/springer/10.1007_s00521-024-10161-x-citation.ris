@@ -1,0 +1,19 @@
+TY  - JOUR
+AU  - Alam, Tanweer
+AU  - Gupta, Ruchi
+AU  - Ahamed, N. Nasurudeen
+AU  - Ullah, Arif
+PY  - 2024
+DA  - 2024/12/01
+TI  - A decision-making model for self-driving vehicles based on GPT-4V, federated reinforcement learning, and blockchain
+JO  - Neural Computing and Applications
+SP  - 21545
+EP  - 21560
+VL  - 36
+IS  - 34
+AB  - Decision-making is crucial in fully autonomous vehicle operations and is expected to greatly influence future transportation systems. Observing the current driving status of autonomous vehicles is vital for its decision-making process. The autonomous connected vehicles on the road send significant data about their movements to the server to maintain continuous training. With the Proof of Authority (PoA) consensus process, blockchain technology provides a valid, decentralised and secure option to improve transactions throughput and minimise delay. The limited computational capacity of vehicles poses a challenge in achieving high accuracy and low latency while training self-driving algorithms. GPT-4V surpassed challenging autonomous systems in scene interpretation and causal thinking. GPT-4V has ability to navigate circumstances without access to database, interpret intentions, and make sound decisions in real-world driving scenarios. The reward function and different driving conditions are organised to allow an optimal search to find the most efficient driving style while ensuring safety. The consequences of the Blockchain-enabled decision-making model (DMM) for Self-Driving Vehicles (SDV) primarily based on GPT-4V and Federated Reinforcement Learning (FRL) would, likely, upgrades in decision-making accuracy, operational performance, statistics integrity, and potentially enhanced learning skills in SDV. Integrating blockchain technology, superior language modelling GPT-4V and FRL may lead to multiplied safety, reliability, and decision-making ability in SDV. This study utilised the Simulation of Urban MObility (SUMO) simulator to assess the ability of SDV to maintain its desired speed consistently and securely in a highway setting using proposed DMM. This study indicates that the suggested DMM, utilising the driving state evaluation approach for SDV, can help these vehicles operate safely and effectively. The performance of the proposed model, such as CPU utilisation, bandwidth and latency, are evaluated through multiple tests.
+SN  - 1433-3058
+UR  - https://doi.org/10.1007/s00521-024-10161-x
+DO  - 10.1007/s00521-024-10161-x
+ID  - Alam2024
+ER  - 

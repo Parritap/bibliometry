@@ -1,6 +1,8 @@
 from playwright.sync_api import sync_playwright
 import os
 import sys
+import random
+import time
 
 
 # For springer
@@ -32,28 +34,39 @@ def download_files(link, download_path):
                         f"Advertencia: No se encontró el enlace para el contador {contador}"
                     )
                     continue
-
+                
+                
+                page.wait_for_timeout(random.randint(2000, 5000))  # 2-5 second delay
                 link.click()
-                page.wait_for_selector(
-                    "div.c-bibliographic-information__column p.c-bibliographic-information__download-citation",
-                    timeout=60000,
-                )
+                try:
+                    page.wait_for_selector(
+                        "div.c-bibliographic-information__column p.c-bibliographic-information__download-citation",
+                        timeout=20000,
+                    )
 
-                download_button = page.query_selector(
-                    "div.c-bibliographic-information__column p.c-bibliographic-information__download-citation a"
-                )
-                if not download_button:
-                    print("Advertencia: No se encontró el botón de descarga.")
-                    page.go_back()
-                    page.wait_for_load_state("load")
-                    continue
+                    download_button = page.query_selector(
+                        "div.c-bibliographic-information__column p.c-bibliographic-information__download-citation a"
+                    )
+                    if not download_button:
+                        print("Advertencia: No se encontró el botón de descarga.")
+                        page.go_back()
+                        page.wait_for_load_state("load")
+                        continue
 
-                with page.expect_download() as download_info:
-                    download_button.click()
-                    download = download_info.value
-                    filename = os.path.join(download_path, download.suggested_filename)
-                    download.save_as(filename)
-
+                    with page.expect_download() as download_info:
+                        page.wait_for_timeout(random.randint(2000, 5000))  # 2-5 second delay
+                        download_button.click()
+                        download = download_info.value
+                        filename = os.path.join(download_path, download.suggested_filename)
+                        download.save_as(filename)
+                except Exception as e:
+                    print(f"Error en el artículo {pagina * 20 + contador}: {e}")
+                    # Take screenshot for debugging
+                    screenshot_path = os.path.join(download_path, f"error_article_{pagina * 20 + contador}.png")
+                    page.screenshot(path=screenshot_path)
+                    print(f"Screenshot guardado en: {screenshot_path}")
+                
+                # Always go back to results page
                 page.go_back()
                 page.wait_for_load_state("load")
 
@@ -64,7 +77,7 @@ def download_files(link, download_path):
                 print("No hay más páginas disponibles.")
                 break
 
-            page.wait_for_timeout(2000)  # Pequeña pausa antes de hacer click
+            page.wait_for_timeout(random.randint(2000, 5000))  # 2-5 second delay  # Pequeña pausa antes de hacer click
             next_page.click()
             page.wait_for_load_state("load")
 

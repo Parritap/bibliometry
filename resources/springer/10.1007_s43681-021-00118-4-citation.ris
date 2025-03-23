@@ -1,0 +1,21 @@
+TY  - JOUR
+AU  - Obafemi-Ajayi, Tayo
+AU  - Perkins, Andy
+AU  - Nanduri, Bindu
+AU  - Wunsch II, Donald C.
+AU  - Foster, James A.
+AU  - Peckham, Joan
+PY  - 2022
+DA  - 2022/11/01
+TI  - No-boundary thinking: a viable solution to ethical data-driven AI in precision medicine
+JO  - AI and Ethics
+SP  - 635
+EP  - 643
+VL  - 2
+IS  - 4
+AB  - Today Artificial Intelligence (AI) supports difficult decisions about policy, health, and our personal lives. The AI algorithms we develop and deploy to make sense of information, are informed by data, and based on models that capture and use pertinent details of the population or phenomenon being analyzed. For any application area, more importantly in precision medicine which directly impacts human lives, the data upon which algorithms are run must be procured, cleaned, and organized well to assure reliable and interpretable results, and to assure that they do not perpetrate or amplify human prejudices. This must be done without violating basic assumptions of the algorithms in use. Algorithmic results need to be clearly communicated to stakeholders and domain experts to enable sound conclusions. Our position is that AI holds great promise for supporting precision medicine, but we need to move forward with great care, with consideration for possible ethical implications. We make the case that a no-boundary or convergent approach is essential to support sound and ethical decisions. No-boundary thinking supports problem definition and solving with teams of experts possessing diverse perspectives. When dealing with AI and the data needed to use AI, there is a spectrum of activities that needs the attention of a no-boundary team. This is necessary if we are to draw viable conclusions and develop actions and policies based on the AI, the data, and the scientific foundations of the domain in question.
+SN  - 2730-5961
+UR  - https://doi.org/10.1007/s43681-021-00118-4
+DO  - 10.1007/s43681-021-00118-4
+ID  - Obafemi-Ajayi2022
+ER  - 

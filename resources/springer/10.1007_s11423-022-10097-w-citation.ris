@@ -1,0 +1,19 @@
+TY  - JOUR
+AU  - Yin, Yue
+AU  - Khaleghi, Soroush
+AU  - Hadad, Roxana
+AU  - Zhai, Xiaoming
+PY  - 2022
+DA  - 2022/06/01
+TI  - Developing effective and accessible activities to improve and assess computational thinking and engineering learning
+JO  - Educational technology research and development
+SP  - 951
+EP  - 988
+VL  - 70
+IS  - 3
+AB  - Computational thinking (CT) skills are critical for the science, technology, engineering, and mathematics (STEM) fields, thus drawing increasing attention in STEM education. More curricula and assessments, however, are needed to cultivate and measure CT for different learning goals. Maker activities have the potential to improve student CT, but more validated assessments are needed for maker activities. We developed a set of activities for students to improve and assess essential CT skills by creating real-life applications using Arduino, a microcontroller often used in maker activities. We examined the psychometric features of CT performance assessments with rubrics and the effectiveness of the maker activities on improving CT. Two high school physics teachers implemented these Arduino activities and assessments with fifteen high school students during three days in a summer program. The participating students took an internal content-involved and an external CT tests before and after participating in the program. The students also took the performance-based CT assessment at the end of the program. The data provide reliability and validity evidence of the Arduino assessment as a tool to measure CT. The pre- and post-test comparison indicates that students significantly improved their scores on the content-involved assessment aligned with the Arduino activities, but not on the content-free CT assessment. It shows that Arduino, or some equipment similar, can be used to improve students’ CT skills and the Arduino maker activities can be used as performance assessments to measure students’ engineering involving CT skills.
+SN  - 1556-6501
+UR  - https://doi.org/10.1007/s11423-022-10097-w
+DO  - 10.1007/s11423-022-10097-w
+ID  - Yin2022
+ER  - 

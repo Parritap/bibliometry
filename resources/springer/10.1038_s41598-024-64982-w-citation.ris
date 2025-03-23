@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Liu, Shiwei
+AU  - Yue, Wenwen
+AU  - Guo, Zhiqing
+AU  - Wang, Liejun
+PY  - 2024
+DA  - 2024/07/01
+TI  - Multi-branch CNN and grouping cascade attention for medical image classification
+JO  - Scientific Reports
+SP  - 15013
+VL  - 14
+IS  - 1
+AB  - Visual Transformers(ViT) have made remarkable achievements in the field of medical image analysis. However, ViT-based methods have poor classification results on some small-scale medical image classification datasets. Meanwhile, many ViT-based models sacrifice computational cost for superior performance, which is a great challenge in practical clinical applications. In this paper, we propose an efficient medical image classification network based on an alternating mixture of CNN and Transformer tandem, which is called Eff-CTNet. Specifically, the existing ViT-based method still mainly relies on multi-head self-attention (MHSA). Among them, the attention maps of MHSA are highly similar, which leads to computational redundancy. Therefore, we propose a group cascade attention (GCA) module to split the feature maps, which are provided to different attention heads to further improves the diversity of attention and reduce the computational cost. In addition, we propose an efficient CNN (EC) module to enhance the ability of the model and extract the local detail information in medical images. Finally, we connect them and design an efficient hybrid medical image classification network, namely Eff-CTNet. Extensive experimental results show that our Eff-CTNet achieves advanced classification performance with less computational cost on three public medical image classification datasets.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-024-64982-w
+DO  - 10.1038/s41598-024-64982-w
+ID  - Liu2024
+ER  - 

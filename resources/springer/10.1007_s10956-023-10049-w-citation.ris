@@ -1,0 +1,19 @@
+TY  - JOUR
+AU  - Bowers, Jonathan
+AU  - Eidin, Emanuel
+AU  - Stephens, Lynn
+AU  - Brennan, Linsey
+PY  - 2023
+DA  - 2023/08/01
+TI  - Examining Student Testing and Debugging Within a Computational Systems Modeling Context
+JO  - Journal of Science Education and Technology
+SP  - 607
+EP  - 628
+VL  - 32
+IS  - 4
+AB  - Interpreting and creating computational systems models is an important goal of science education. One aspect of computational systems modeling that is supported by modeling, systems thinking, and computational thinking literature is “testing, evaluating, and debugging models.” Through testing and debugging, students can identify aspects of their models that either do not match external data or conflict with their conceptual understandings of a phenomenon. This disconnect encourages students to make model revisions, which in turn deepens their conceptual understanding of a phenomenon. Given that many students find testing and debugging challenging, we set out to investigate the various testing and debugging behaviors and behavioral patterns that students use when building and revising computational system models in a supportive learning environment. We designed and implemented a 6-week unit where students constructed and revised a computational systems model of evaporative cooling using SageModeler software. Our results suggest that despite being in a common classroom, the three groups of students in this study all utilized different testing and debugging behavioral patterns. Group 1 focused on using external peer feedback to identify flaws in their model, group 2 used verbal and written discourse to critique their model’s structure and suggest structural changes, and group 3 relied on systemic analysis of model output to drive model revisions. These results suggest that multiple aspects of the learning environment are necessary to enable students to take these different approaches to testing and debugging.
+SN  - 1573-1839
+UR  - https://doi.org/10.1007/s10956-023-10049-w
+DO  - 10.1007/s10956-023-10049-w
+ID  - Bowers2023
+ER  - 

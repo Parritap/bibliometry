@@ -1,0 +1,17 @@
+TY  - JOUR
+AU  - Saariluoma, Pertti
+AU  - Karvonen, Antero
+PY  - 2024
+DA  - 2024/10/01
+TI  - Theory languages in designing artificial intelligence
+JO  - AI & SOCIETY
+SP  - 2249
+EP  - 2258
+VL  - 39
+IS  - 5
+AB  - The foundations of AI design discourse are worth analyzing. Here, attention is paid to the nature of theory languages used in designing new AI technologies because the limits of these languages can clarify some fundamental questions in the development of AI. We discuss three types of theory language used in designing AI products: formal, computational, and natural. Formal languages, such as mathematics, logic, and programming languages, have fixed meanings and no actual-world semantics. They are context- and practically content-free. Computational languages use terms referring to the actual world, i.e., to entities, events, and thoughts. Thus, computational languages have actual-world references and semantics. They are thus no longer context- or content-free. However, computational languages always have fixed meanings and, for this reason, limited domains of reference. Finally, unlike formal and computational languages, natural languages are creative, dynamic, and productive. Consequently, they can refer to an unlimited number of objects and their attributes in an unlimited number of domains. The differences between the three theory languages enable us to reflect on the traditional problems of strong and weak AI.
+SN  - 1435-5655
+UR  - https://doi.org/10.1007/s00146-023-01716-y
+DO  - 10.1007/s00146-023-01716-y
+ID  - Saariluoma2024
+ER  - 

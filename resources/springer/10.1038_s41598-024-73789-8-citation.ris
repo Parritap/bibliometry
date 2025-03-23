@@ -1,0 +1,15 @@
+TY  - JOUR
+AU  - Madl, Tamas
+PY  - 2024
+DA  - 2024/10/16
+TI  - Exploring neural markers of dereification in meditation based on EEG and personalized models of electrophysiological brain states
+JO  - Scientific Reports
+SP  - 24264
+VL  - 14
+IS  - 1
+AB  - With mounting evidence for the benefits of meditation, there has been a growing interest in measuring and quantifying meditative states. This study introduces the Inner Dereification Index (IDI), a class of personalized models designed to quantify the distance from non-meditative states such as mind wandering based on a single individual’s neural activity. In addition to demonstrating high classification accuracy (median AUC: 0.996) at distinguishing meditation from thinking states moment by moment, IDI can accurately stratify meditator cohorts by experience, and correctly identify the practices most effective at training the dereification aspect of meditation (decentering from immersion with thoughts and perceptions and recognizing them as mental constructs). These results suggest that IDI models may be a useful real-time proxy for dereification and meditation progress, requiring only 1 min of mind wandering data (and no meditation data) during model training. Thus, they show promise for applications such as real-time meditation feedback, progress tracking, personalization of practices, and potential therapeutic applications of neurofeedback-assisted generation of positive states of consciousness.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-024-73789-8
+DO  - 10.1038/s41598-024-73789-8
+ID  - Madl2024
+ER  - 

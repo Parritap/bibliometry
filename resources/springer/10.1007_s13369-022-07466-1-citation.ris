@@ -1,0 +1,21 @@
+TY  - JOUR
+AU  - Rahab, Hichem
+AU  - Haouassi, Hichem
+AU  - Souidi, Mohammed El Habib
+AU  - Bakhouche, Abdelaali
+AU  - Mahdaoui, Rafik
+AU  - Bekhouche, Maamar
+PY  - 2023
+DA  - 2023/08/01
+TI  - A Modified Binary Rat Swarm Optimization Algorithm for Feature Selection in Arabic Sentiment Analysis
+JO  - Arabian Journal for Science and Engineering
+SP  - 10125
+EP  - 10152
+VL  - 48
+IS  - 8
+AB  - This work focuses on feature selection in Arabic sentiment analysis (ASA) via a swarm-based approach. The importance of swarm intelligence methods comes from their optimization ability and implementation simplicity. The novel algorithm rat swarm optimization (RSO) proves its superiority in both exploitation and exploration capabilities allowing it to achieve good optimization results. A binary version of RSO (BRSO) is applied for the first time in this context. Despite the significant results achieved by BRSO, and like most optimization algorithms, it can entrap in the local optimum and slow convergence problems. A modified binary rat swarm optimization (M-BRSO) algorithm is proposed to overcome these limitations. On the one hand, the M-BRSO algorithm uses the opposite-based learning strategy in the initialization phase to improve the convergence rate of the population. On the other hand, the private thinking mechanism is enhanced by replacing the current rat’s position with its personal best (Pbest) found so far to prevent it from trapping in the local optimum. Four criteria were adopted to measure the performance of the proposed algorithms: fitness value, classification accuracy, percentage of selected features, and elapsed time. The application of the proposed algorithms on different benchmark datasets for ASA gives promising results regarding reducing the feature space with important accuracy compared to the state-of-the-art swarm-based algorithms.
+SN  - 2191-4281
+UR  - https://doi.org/10.1007/s13369-022-07466-1
+DO  - 10.1007/s13369-022-07466-1
+ID  - Rahab2023
+ER  - 

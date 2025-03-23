@@ -1,0 +1,15 @@
+TY  - JOUR
+AU  - Owhadi, Houman
+PY  - 2022
+DA  - 2022/04/18
+TI  - Computational graph completion
+JO  - Research in the Mathematical Sciences
+SP  - 27
+VL  - 9
+IS  - 2
+AB  - We introduce a framework for generating, organizing, and reasoning with computational knowledge. It is motivated by the observation that most problems in Computational Sciences and Engineering (CSE) can be described as that of completing (from data) a computational graph (or hypergraph) representing dependencies between functions and variables. In that setting nodes represent variables and edges (or hyperedges) represent functions (or functionals). Functions and variables may be known, unknown, or random. Data come in the form of observations of distinct values of a finite number of subsets of the variables of the graph (satisfying its functional dependencies). The underlying problem combines a regression problem (approximating unknown functions) with a matrix completion problem (recovering unobserved variables in the data). Replacing unknown functions by Gaussian processes and conditioning on observed data provides a simple but efficient approach to completing such graphs. Since the proposed framework is highly expressive, it has a vast potential application scope. Since the completion process can be automatized, as one solves $$\sqrt{\sqrt{2}+\sqrt{3}}$$on a pocket calculator without thinking about it, one could, with the proposed framework, solve a complex CSE problem by drawing a diagram. Compared to traditional regression/kriging, the proposed framework can be used to recover unknown functions with much scarcer data by exploiting interdependencies between multiple functions and variables. The computational graph completion (CGC) problem addressed by the proposed framework could therefore also be interpreted as a generalization of that of solving linear systems of equations to that of approximating unknown variables and functions with noisy, incomplete, and nonlinear dependencies. Numerous examples illustrate the flexibility, scope, efficacy, and robustness of the CGC framework and show how it can be used as a pathway to identifying simple solutions to classical CSE problems. These examples include the seamless CGC representation of known methods (for solving/learning PDEs, surrogate/multiscale modeling, mode decomposition, deep learning) and the discovery of new ones (digital twin modeling, dimension reduction).
+SN  - 2197-9847
+UR  - https://doi.org/10.1007/s40687-022-00320-8
+DO  - 10.1007/s40687-022-00320-8
+ID  - Owhadi2022
+ER  - 

@@ -1,0 +1,17 @@
+TY  - JOUR
+AU  - Ramya, S. P.
+AU  - Eswari, R.
+PY  - 2024
+DA  - 2024/09/01
+TI  - A regularization based simple shallow perceptron network for detection of fake news in social networks
+JO  - Multimedia Tools and Applications
+SP  - 77617
+EP  - 77637
+VL  - 83
+IS  - 32
+AB  - There is an ever-increasing number of public users of the internet just to remain learned and updated as well as distribute millions of posts, articles, and videos across platforms such as Twitter, Facebook and YouTube etc. The speedy acceptance of social media has forced to an explosive growth in information-distribution among users, with fake news becoming a fundamental intrusion of our digital day-to-day life. The spread of disinformation is in part associated to social media failing to verify the correctness of a news item. Although it is technically possible, it is challenging for a deep neural network to "attend to" the false alone portions of each news piece because the linguistics of fake news will approximate that of true news. In this paper, a Simple Shallow Perceptron Network (SSPN) has been proposed and will reduce the complications such as the curse of high dimensionality, high training time of Deep Neural Networks, over-fitting and over-thinking problem during network training. The effectiveness of the proposed SSPN model for false news identification using the benchmark LIAR dataset and the more recent FakeNewsNet dataset have also been examined. The proposed model outperformed all other existing models, with an F1-score of 0.73 for the LIAR dataset and 0.90 for the FakeNewsNet dataset.
+SN  - 1573-7721
+UR  - https://doi.org/10.1007/s11042-024-18320-x
+DO  - 10.1007/s11042-024-18320-x
+ID  - Ramya2024
+ER  - 

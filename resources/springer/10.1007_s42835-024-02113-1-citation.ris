@@ -1,0 +1,22 @@
+TY  - JOUR
+AU  - Latha, M.
+AU  - Sathiya, M.
+AU  - Selvakumarasamy, K.
+AU  - Shanmuganathan, V. K.
+AU  - Yuvaraj, N.
+AU  - Raja, R. Arshath
+AU  - Srihari, K.
+PY  - 2025
+DA  - 2025/03/01
+TI  - Levy Flight-Based Bee Swarm Optimized Optimal Transmission Sequence for PAPR Reduction in 5G NOMA Systems
+JO  - Journal of Electrical Engineering & Technology
+SP  - 1827
+EP  - 1840
+VL  - 20
+IS  - 3
+AB  - 5G wireless technology has fundamentally revolutionized the way in which the users communicate as a result of its -fast speeds, increased latency, and dependable connections. The Non-Orthogonal Multiple Access, or NOMA, protocol is an essential component of 5G since it enables the dynamic allocation of resources to multiple users at the same time. However, issues with peak-to-average power ratio (PAPR) and increasing bit error rate (BER) prevent the transmission from functioning to its full capacity. The aim of this research is to enhance the transmission sequence of 5G NOMA networks. Conventional methods reduce lower PAPR by utilizing a variety of optimization methods resulted in failure due to the computational complexity of the problem. This research offers the Levy Flight-based Bee Swarm Optimized Optimal Transmission Sequence (LFBBSOPTS) Method for 5G wireless communication by leveraging the Non-Orthogonal Multiple Access (NOMA) approach. Levy Flight is a stochastic process with lengthy jumps that is motivated by natural foraging habits. The Bee Swarm Optimization model takes advantage of this process to determine optimal transmission sequences. This technique aims to reduce the load of computing while accelerating the reduction of PAPR to the greatest extent possible in the shortest amount of time. Bees, which stand for sequential data input, perform the function of search agents in this technique by wandering the search space in real time in an effort to find the solutions that are the most appropriate. The incorporation of Levy Flight ensures that a thorough examination of the solution space will take place, which helps to avoid the issues that are connected with early convergence. The results of the simulation demonstrate that the LFBBSOPTS method is superior to more conventional ways in terms of reducing PAPR, BER, and the amount of complexity required.
+SN  - 2093-7423
+UR  - https://doi.org/10.1007/s42835-024-02113-1
+DO  - 10.1007/s42835-024-02113-1
+ID  - Latha2025
+ER  - 

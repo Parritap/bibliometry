@@ -1,0 +1,17 @@
+TY  - JOUR
+AU  - Qian, Yingxiao
+AU  - Choi, Ikseon
+PY  - 2023
+DA  - 2023/06/01
+TI  - Tracing the essence: ways to develop abstraction in computational thinking
+JO  - Educational technology research and development
+SP  - 1055
+EP  - 1078
+VL  - 71
+IS  - 3
+AB  - Echoing the increasing emphasis on STEM literacy, computational thinking has become a national priority in K-12 schools. Scholars have acknowledged abstraction as the keystone of computational thinking. To foster K-12 students’ computational thinking and STEM literacy, students’ ability to think abstractly should be enhanced. However, the existing curriculum in K-12 education may not adequately equip learners with the proper abstraction needed for the STEM workforce. Given the absence of a synthesized understanding of abstraction, effective instructional guidance for fostering student abstraction is also elusive. To overcome the gap in understanding abstraction, we attempted to conceptualize a synthesized framework of abstraction in computational thinking and proposed a set of design guidelines that may enhance students’ uptake of abstraction. In this paper, we describe the importance of abstraction in computational thinking and existing challenges in developing students’ ability to perform abstraction. Then, by reviewing the cognitive dimensions of abstraction and the role of abstraction in computing education, we identify three cognitive processes underlying abstraction in computational thinking (e.g., filtering information, locating similarities, and mapping problem structures). We thereby propose a conceptual framework of abstraction in computational thinking. Finally, design guidelines for fostering abstraction in computational thinking are provided with illustrated examples of a tailored STEM-integrative learning environment.
+SN  - 1556-6501
+UR  - https://doi.org/10.1007/s11423-022-10182-0
+DO  - 10.1007/s11423-022-10182-0
+ID  - Qian2023
+ER  - 

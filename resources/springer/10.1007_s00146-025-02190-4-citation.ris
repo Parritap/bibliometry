@@ -1,0 +1,12 @@
+TY  - JOUR
+AU  - Douglas, David M.
+PY  - 2025
+DA  - 2025/01/29
+TI  - Researchers’ perceptions of automating scientific research
+JO  - AI & SOCIETY
+AB  - Science is being transformed by the increasing capabilities of automation technologies and artificial intelligence (AI). Integrating AI and machine learning (ML) into scientific practice requires changing established research methods while maintaining a scientific understanding of research findings. Researchers are at the forefront of this change, but there is currently little understanding of how they are experiencing these upheavals in scientific practice. In this paper, we examine how researchers working in several research fields (automation engineering, computational design, conservation decision-making, materials science, and synthetic biology) perceive AI/ML technologies used in their work, such as laboratory automation, automated design of experiments, computational design, and computer experiments. We find that researchers emphasised the need for AI/ML technologies to have practical benefits (such as efficiency and improved safety) to justify their use. Researchers were also hesitant to automate data analysis, and the importance of explainability differed between researchers working with laboratory automation and those using AI/ML directly in their research. This difference is due to the different role AI/ML plays in different research fields: laboratory automation performs processes already defined by the researcher and the actions are visible or recorded, while in AI/ML applications the decisions that produced the result may be obscure to the researcher. Understanding the role AI/ML plays in scientific practice is important for ensuring that scientific knowledge continues to grow.
+SN  - 1435-5655
+UR  - https://doi.org/10.1007/s00146-025-02190-4
+DO  - 10.1007/s00146-025-02190-4
+ID  - Douglas2025
+ER  - 

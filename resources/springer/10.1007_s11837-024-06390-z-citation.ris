@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Kramer, Sharlotte
+AU  - LeBrun, Tyler
+AU  - Pegues, Jonathan
+PY  - 2024
+DA  - 2024/04/01
+TI  - Scientific Foundations and Approaches for Qualification of Additively Manufactured Structural Components
+JO  - JOM
+SP  - 1890
+EP  - 1896
+VL  - 76
+IS  - 4
+AB  - Additive manufacturing (AM) maintains a wide process window that enables complex designs otherwise unattainable via conventional production technologies. However, the lack of confidence in qualifying AM parts that leverage AM process–structure–property–performance (PSPP) relationships stymies design optimization and adoption of AM. While continuing efforts to map fundamental PSPP relationships that cover the potential design space, we first need pragmatic and then long-term solutions that overcome challenges associated with qualifying AM-designed parts. Two pragmatic solutions include: (1) AM material specifications to substantiate process reproducibility, and (2) component risk categorization to associate system risk relative to part performance and required part quality. A novel qualification paradigm under development involves efficient prediction of part performance over wide-ranging PSPP relationships through targeted testing and computational simulation. This paper describes projects at Sandia National Laboratories on PSPP relationship discovery, these pragmatic approaches, and the novel qualification approach.
+SN  - 1543-1851
+UR  - https://doi.org/10.1007/s11837-024-06390-z
+DO  - 10.1007/s11837-024-06390-z
+ID  - Kramer2024
+ER  - 

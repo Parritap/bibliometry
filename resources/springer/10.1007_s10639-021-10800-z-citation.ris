@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Yildiz, Mustafa
+AU  - Shi, Ran
+AU  - Kara, Mehmet
+PY  - 2022
+DA  - 2022/05/01
+TI  - How to improve the design of experimental studies in computing education: Evidence from the international assessments
+JO  - Education and Information Technologies
+SP  - 5075
+EP  - 5102
+VL  - 27
+IS  - 4
+AB  - Cluster randomized trials are frequently used in educational research for methodological reasons. This study aims to improve the efficiency of cluster randomized trials on computer/information literacy and computational thinking. The study employs a two-level hierarchical linear model to estimate (i) intraclass correlation coefficients, (ii) the amount of explained variances given selected predictors, and (iii) minimum detectable effect sizes given the set of plausible scenarios. Two data cycles from the International Computer and Information Study were used. The covariates at the student level are gender, interest in ICT, parents’ highest education level, ICT self-efficacy, and experience with computers. The covariates at school/teacher level are teacher’s ICT use, ratio of school size to the number of computers for student use, availability of ICT resources at school, approximate teacher age, and ICT self-efficacy. Findings showed that the most precise effect could be measured when student and teacher/school covariates are both adopted. Lastly, it was revealed that increasing the number of schools is effective to get the most precise effect.
+SN  - 1573-7608
+UR  - https://doi.org/10.1007/s10639-021-10800-z
+DO  - 10.1007/s10639-021-10800-z
+ID  - Yildiz2022
+ER  - 

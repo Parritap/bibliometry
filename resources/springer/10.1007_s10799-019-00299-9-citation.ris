@@ -1,0 +1,17 @@
+TY  - JOUR
+AU  - Lee, Youngseok
+AU  - Cho, Jungwon
+PY  - 2020
+DA  - 2020/03/01
+TI  - Knowledge representation for computational thinking using knowledge discovery computing
+JO  - Information Technology and Management
+SP  - 15
+EP  - 28
+VL  - 21
+IS  - 1
+AB  - Modern society needs to think of new approaches for solving problems with computing. Computational thinking is the process of abstracting and automating a variety of problems using computational technology. A system that expresses, manages, and processes knowledge such as computational thinking is called a knowledge-based system. This paper proposes to examine students’ knowledge about computational thinking when they want to develop a Python project, and the correlation/association between these concepts. To achieve our goal, a field study was designed and data were collected from a computer programming lecture. Through this data analysis, we try to identify the factors through the correlation between data and clustering technique in order to express and discover the knowledge about the learner’s computational thinking. For the verification of the factors identified, we analyzed the correlation between computational thinking and the pre- and post-test results of the LightBot. In addition to the regression analysis of the proven factors, the probability of the research model was analyzed through the structural equation to process the knowledge discovered. In this paper, we present various problems in the domain of programming education and analyze the means to diagnose and improve knowledge based on computational thinking by finding various problem-solving methods. To pre-examine the learner; he/she was diagnosed using a test paper and the LightBot execution test. We checked the learner’s current knowledge state by analyzing the correlation between the test site and the results of the LightBot. To analyze the level of knowledge improvement of learners, we designed an experiment to analyze the correlation between learning and the actual test results through a system that applied the problem-solving learning method. An analysis of the experimental results demonstrated that there was a correlation between the test results for a learner and the pre-test results of the LightBot. Additionally, the group mean scores of the learners who learned as per the proposed technique were observed to be significant. During this process, we analyzed the effects of problem-solving and system application on academic achievement through factor analysis, regression analysis, and structural equation modeling. The ability to pinpoint various problem scenarios and solve problems more effectively using computational technologies will become more important in future. For this purpose, applying our proposed technique for deriving and improving knowledge based on computational thinking to software education will induce the interest of students and increase the learning effect.
+SN  - 1573-7667
+UR  - https://doi.org/10.1007/s10799-019-00299-9
+DO  - 10.1007/s10799-019-00299-9
+ID  - Lee2020
+ER  - 

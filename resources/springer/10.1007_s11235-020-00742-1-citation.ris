@@ -1,0 +1,22 @@
+TY  - JOUR
+AU  - Zhu, Biaokai
+AU  - Luo, Cuixian
+AU  - Liu, Sanman
+AU  - Zhao, Jumin
+AU  - Dong, Meiya
+AU  - Bai, Ruiqin
+AU  - Li, Deng-ao
+PY  - 2021
+DA  - 2021/04/01
+TI  - Lama: Link characteristic aware multicast data dissemination for computational RFIDs
+JO  - Telecommunication Systems
+SP  - 595
+EP  - 611
+VL  - 76
+IS  - 4
+AB  - Computational radio frequency identification can be successfully employed in a range of applications. The efficient data dissemination is a building block for useful functions such as parameter configuration, code debug fixing, and wireless reprogramming. Many recent data dissemination protocols have adopted transmission methods from a reader to a single tag following EPC C1G2. Even if the same data need to be transmitted to multiple tags, they can only be distributed individually; however, tags in the reader antenna coverage area can hear commands from the reader, which motivates us to pursue a multicast data dissemination scheme that is compatible with the existing protocol. In this paper, we propose Lama, an efficient multicast data dissemination protocol that considers tag link characteristics (link quality and charging efficiency). This method improves the efficiency of data dissemination by selecting an appropriate master tag. Experiments based on a commercial reader demonstrate that Lama reduces the dissemination delay compared with state-of-the-art protocols.
+SN  - 1572-9451
+UR  - https://doi.org/10.1007/s11235-020-00742-1
+DO  - 10.1007/s11235-020-00742-1
+ID  - Zhu2021
+ER  - 

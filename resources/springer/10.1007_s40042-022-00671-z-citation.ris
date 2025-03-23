@@ -1,0 +1,17 @@
+TY  - JOUR
+AU  - Cho, Myoung Won
+AU  - Choi, M. Y.
+PY  - 2022
+DA  - 2022/12/01
+TI  - Principles for the emergence of computational properties in a complex system
+JO  - Journal of the Korean Physical Society
+SP  - 1300
+EP  - 1313
+VL  - 81
+IS  - 12
+AB  - Understanding how a natural computing system like the brain works or learns requires an approach from a different point of view than an artificially developed computing system. Such a natural computing system may first acquire computational properties, which are often not warranted to be computational abilities or intelligence; those properties emerge spontaneously as physical properties in a physics system. The general mechanisms and principles leading to the emergence are worthy of investigation, which may help understand how the brain works or build a computing system artificially inspired by the natural computing system. In this paper, we explore the mechanisms and principles, which provide the grounds for natural computation. Finally, we discuss the difficulties and limitations of a statistical-mechanics-based or reverse-engineering-based approach and suggest the factors to consider in understanding or building a system with high-level computing abilities or intelligence.
+SN  - 1976-8524
+UR  - https://doi.org/10.1007/s40042-022-00671-z
+DO  - 10.1007/s40042-022-00671-z
+ID  - Cho2022
+ER  - 

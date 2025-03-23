@@ -1,0 +1,17 @@
+TY  - JOUR
+AU  - Ruiz-Dolz, Ramon
+AU  - Heras, Stella
+AU  - García-Fornes, Ana
+PY  - 2025
+DA  - 2025/02/13
+TI  - An introduction to computational argumentation research from a human argumentation perspective
+JO  - Autonomous Agents and Multi-Agent Systems
+SP  - 11
+VL  - 39
+IS  - 1
+AB  - Computational Argumentation studies how human argumentative reasoning can be approached from a computational viewpoint. Human argumentation is a complex process that has been studied from different perspectives (e.g., philosophical or linguistic) and that involves many different aspects beyond pure reasoning, such as the role of emotions, values, social contexts, and practical constraints, which are often overlooked in computational approaches to argumentation. The heterogeneity of human argumentation is present in Computational Argumentation research, in the form of various tasks that approach the main phases of argumentation individually. With the increasing interest of researchers in Artificial Intelligence, we consider that it is of great importance to provide guidance on the Computational Argumentation research area. Thus, in this paper, we present a general overview of Computational Argumentation, from the perspective of how humans argue. For that purpose, the following contributions are produced: (i) a consistent structure for Computational Argumentation research mapped with the human argumentation process; (ii) a collective understanding of the tasks approached by Computational Argumentation and their synergies; (iii) a thorough review of important advances in each of these tasks; and (iv) an analysis and a classification of the future trends in Computational Argumentation research and relevant open challenges in the area.
+SN  - 1573-7454
+UR  - https://doi.org/10.1007/s10458-025-09692-x
+DO  - 10.1007/s10458-025-09692-x
+ID  - Ruiz-Dolz2025
+ER  - 

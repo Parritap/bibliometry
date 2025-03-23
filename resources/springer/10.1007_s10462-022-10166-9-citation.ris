@@ -1,0 +1,19 @@
+TY  - JOUR
+AU  - Zheng, Wenbo
+AU  - Yan, Lan
+AU  - Gou, Chao
+AU  - Wang, Fei-Yue
+PY  - 2022
+DA  - 2022/12/01
+TI  - Computational knowledge vision: paradigmatic knowledge based prescriptive learning and reasoning for perception and vision
+JO  - Artificial Intelligence Review
+SP  - 5917
+EP  - 5952
+VL  - 55
+IS  - 8
+AB  - This paper outlines a novel advanced framework that combines structurized knowledge and visual models—Computational Knowledge Vision. In advanced studies of image and visual perception, a visual model’s understanding and reasoning ability often determines whether it works well in complex scenarios. This paper presents the state-of-the-art mainstream of vision models for visual perception. This paper then proposes a concept and basic framework of Computational Knowledge Vision that extends the knowledge engineering methodology to the computer vision field. In this paper, we first retrospect prior work related to Computational Knowledge Vision in the light of the connectionist and symbolist streams. We discuss neural network models, meta-learning models, graph models, and Transformer models in detail. We then illustrate a basic framework for Computational Knowledge Vision, whose essential techniques include structurized knowledge, knowledge projection, and conditional feedback. The goal of the framework is to enable visual models to gain the ability of representation, understanding, and reasoning. We also describe in-depth works in Computational Knowledge Vision and its extensions in other fields.
+SN  - 1573-7462
+UR  - https://doi.org/10.1007/s10462-022-10166-9
+DO  - 10.1007/s10462-022-10166-9
+ID  - Zheng2022
+ER  - 

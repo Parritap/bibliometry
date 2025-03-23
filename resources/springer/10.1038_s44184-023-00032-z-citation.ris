@@ -1,0 +1,17 @@
+TY  - JOUR
+AU  - Sikström, Sverker
+AU  - Kelmendi, Bleona
+AU  - Persson, Ninni
+PY  - 2023
+DA  - 2023/07/24
+TI  - Assessment of depression and anxiety in young and old with a question-based computational language approach
+JO  - npj Mental Health Research
+SP  - 11
+VL  - 2
+IS  - 1
+AB  - Middle aged adults experience depression and anxiety differently than younger adults. Age may affect life circumstances, depending on accessibility of social connections, jobs, physical health, etc, as these factors influence the prevalence and symptomatology. Depression and anxiety are typically measured using rating scales; however, recent research suggests that such symptoms can be assessed by open-ended questions that are analysed by question-based computational language assessments (QCLA). Here, we study middle aged and younger adults’ responses about their mental health using open-ended questions and rating scales about their mental health. We then analyse their responses with computational methods based on natural language processing (NLP). The results demonstrate that: (1) middle aged adults describe their mental health differently compared to younger adults; (2) where, for example, middle aged adults emphasise depression and loneliness whereas young adults list anxiety and financial concerns; (3) different semantic models are warranted for younger and middle aged adults; (4) compared to young participants, the middle aged participants described their mental health more accurately with words; (5) middle-aged adults have better mental health than younger adults as measured by semantic measures. In conclusion, NLP combined with machine learning methods may provide new opportunities to identify, model, and describe mental health in middle aged and younger adults and could possibly be applied to the older adults in future research. These semantic measures may provide ecological validity and aid the assessment of mental health.
+SN  - 2731-4251
+UR  - https://doi.org/10.1038/s44184-023-00032-z
+DO  - 10.1038/s44184-023-00032-z
+ID  - Sikström2023
+ER  - 

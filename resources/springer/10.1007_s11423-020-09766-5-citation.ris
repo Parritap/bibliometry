@@ -1,0 +1,16 @@
+TY  - JOUR
+AU  - Katai, Zoltan
+PY  - 2020
+DA  - 2020/10/01
+TI  - Promoting computational thinking of both sciences- and humanities-oriented students: an instructional and motivational design perspective
+JO  - Educational Technology Research and Development
+SP  - 2239
+EP  - 2261
+VL  - 68
+IS  - 5
+AB  - We proposed to investigate whether properly calibrated e-learning environments can efficiently promote computational thinking of both sciences- and humanities-oriented people. We invited two groups of students (sciences- vs. humanities-oriented members) to participate in a six-stage learning session: to watch a folk-dance illustration (s1) and an animation (s2) of the bubble-sort algorithm; to reconstruct the algorithm on the same input (s3); to orchestrate the algorithm on a random input stored in a white(s4)/black(s5) array (visible/invisible sequence) and to watch a parallel simulation of several sorting algorithms as they work side-by-side on different color-scale bars (s6). To assess the current motivation of students we created nine specific questionnaires (Q1–9). The experiment we conducted included the following task sequence: Q1–2, s1, Q3, s2, Q4, s3, Q5, s4, Q6, s5, Q7, s6, Q8–9. We focused on assessing the motivational contributions of the generated (situational factors) emotions, challenge and active involvement during the e-learning experience. Research results revealed that there are no unbridgeable differences in the way these two groups relate to e-learning processes that aim to promote computational thinking. Although sciences-oriented students’ motivational-scores were consistently superior to their humanities-oriented colleagues, there was strong correlation between them; furthermore, differences diminished as both groups advanced with their learning tasks.
+SN  - 1556-6501
+UR  - https://doi.org/10.1007/s11423-020-09766-5
+DO  - 10.1007/s11423-020-09766-5
+ID  - Katai2020
+ER  - 

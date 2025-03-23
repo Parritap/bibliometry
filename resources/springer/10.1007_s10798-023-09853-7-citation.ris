@@ -1,0 +1,19 @@
+TY  - JOUR
+AU  - Mentzer, Nathan
+AU  - Lee, Wonki
+AU  - Jackson, Andrew
+AU  - Bartholomew, Scott
+PY  - 2024
+DA  - 2024/07/01
+TI  - Learning by Evaluating (LbE): promoting meaningful reasoning in the context of engineering design thinking using Adaptive Comparative Judgment (ACJ)
+JO  - International Journal of Technology and Design Education
+SP  - 1145
+EP  - 1169
+VL  - 34
+IS  - 3
+AB  - Adaptive comparative judgment (ACJ) has been widely used to evaluate classroom artifacts with reliability and validity. In the ACJ experience we examined, students were provided a pair of images related to backpack design. For each pair, students were required to select which image could help them ideate better. Then, they were prompted to provide a justification for their decision. Data were from 15 high school students taking engineering design courses. The current study investigated how students’ reasoning differed based on selection. Researchers analyzed the comments in two ways: (1) computer-aided quantitative content analysis and (2) qualitative content analysis. In the first analysis, we performed sentiment analysis and word frequency analysis using natural language processing. Based on the findings, we explored how the design thinking process was embedded in student reasoning, and if the reasoning varied depending on the claim. Results from sentiment analysis showed that students tend to reveal more strong positive sentiment with short comments when providing reasoning for the selected design. In contrast, when providing reasoning for those items not chosen, results showed a weaker negative sentiment with more detailed reasons. Findings from word frequency analysis showed that students valued the function of design as well as the user perspective, specifically, convenience. Additionally, students took aesthetic features of each design into consideration when identifying the best of the two pairs. Within the engineering design thinking context, we found students empathize by identifying themselves as users, define user’s needs, and ideate products from provided examples.
+SN  - 1573-1804
+UR  - https://doi.org/10.1007/s10798-023-09853-7
+DO  - 10.1007/s10798-023-09853-7
+ID  - Mentzer2024
+ER  - 

@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Gaeta, Angelo
+AU  - Loia, Vincenzo
+AU  - Orciuoli, Francesco
+PY  - 2021
+DA  - 2021/09/01
+TI  - A comprehensive model and computational methods to improve Situation Awareness in Intelligence scenarios
+JO  - Applied Intelligence
+SP  - 6585
+EP  - 6608
+VL  - 51
+IS  - 9
+AB  - This paper presents a comprehensive model for representing and reasoning on situations to support decision makers in Intelligence analysis activities. The main result presented in the paper stems from a work of refinement and abstraction of previous results of the authors related to the use of Situation Awareness and Granular Computing for the development of analysis methods and techniques to support Intelligence. This work made it possible to derive the characteristics of the model from previous case studies and applications with real data, and to link the reasoning techniques to concrete approaches used by intelligence analysts such as, for example, the Structured Analytic Techniques. The model allows to represent an operational situation according to three complementary perspectives: descriptive, relational and behavioral. These three perspectives are instantiated on the basis of the principles and methods of Granular Computing, mainly based on the theories of fuzzy and rough sets, and with the help of further structures such as graphs. As regards the reasoning on the situations thus represented, the paper presents four methods with related case studies and applications validated on real data.
+SN  - 1573-7497
+UR  - https://doi.org/10.1007/s10489-021-02673-z
+DO  - 10.1007/s10489-021-02673-z
+ID  - Gaeta2021
+ER  - 

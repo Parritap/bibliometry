@@ -1,0 +1,21 @@
+TY  - JOUR
+AU  - Kokou-Kpolou, Cyrille Kossigan
+AU  - Park, Sunyoung
+AU  - Bet, Quentin
+AU  - Iorfa, Steven Kator
+AU  - Chinweuba, Doris Chinelo
+AU  - Chukwuorji, JohnBosco Chika
+PY  - 2023
+DA  - 2023/12/01
+TI  - Towards a more comprehensive understanding of depressive symptoms among young adults using Gaussian graphical and directed acyclic graph models
+JO  - Current Psychology
+SP  - 31579
+EP  - 31589
+VL  - 42
+IS  - 35
+AB  - In populations from sub-Saharan African countries, depression is underdiagnosed and undertreated. Depressive symptoms are particularly prevalent and heterogeneous among young adults. In this study conducted among Nigerian young adults, we used computational network approaches to disclose the most central depressive symptoms and the probabilistic dependencies among them. Precisely, two distinct computational network approaches were used: a Gaussian graphical model (i.e., undirected, GGM) and a directed acyclic graph (DAG). Participants (N = 502, Mage = 22.10, range: 17–40 years) completed the Center for Epidemiologic Studies Depression Scale–Revised, which accords with the DSM-5 criteria for major depression disorder. Within the GGM, depressed mood emerged as the most central symptom, followed by sleep disturbance, fatigue, anhedonia, and feelings of worthlessness as indexed by Expected Influence values. The strongest edge was between anhedonia and feelings of worthlessness. In the DAG, anhedonia topped the model and directly activated depressed mood, feelings of worthlessness, fatigue and sleep disturbance. These findings from both computational network approaches offer novel data-driven insights on the set of the core symptoms constitutive of depression network among Nigerian young adults. Findings confirm the existing depression network literature. For solid clinical utility, future network research using both clinical and non-clinical samples from sub-Saharan Africa may constitute an important step forward to consolidating the present study’s findings.
+SN  - 1936-4733
+UR  - https://doi.org/10.1007/s12144-022-04192-7
+DO  - 10.1007/s12144-022-04192-7
+ID  - Kokou-Kpolou2023
+ER  - 

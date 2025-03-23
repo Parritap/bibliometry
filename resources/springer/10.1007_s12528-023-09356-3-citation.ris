@@ -1,0 +1,17 @@
+TY  - JOUR
+AU  - Xu, Fan
+AU  - Correia, Ana-Paula
+PY  - 2024
+DA  - 2024/08/01
+TI  - Adopting distributed pair programming as an effective team learning activity: a systematic review
+JO  - Journal of Computing in Higher Education
+SP  - 320
+EP  - 349
+VL  - 36
+IS  - 2
+AB  - As online learning has become an inevitable trend in the post-peak era of the COVID-19 pandemic, distributed pair programming (DPP) is gaining momentum in both education and industry. DDP serves as a collaborative programming approach and also benefits the development of computational thinking, a fundamental skill in today’s world. This study conducted a systematic review of studies on DPP published after 2010 to understand the themes and factors that impact the team effectiveness of DPP and thus inform future research and practices on how to better leverage this approach for teaching and learning. The results showed that individual characteristics attracted major investigations in the selected 23 studies, including prior programming experience, actual skill, perceived skill, gender, personality, time management, confidence, and self-esteem, with pair compatibility identified as a critical team design factor that significantly affects programmers’ satisfaction. Although the feel-good factor in the team process was investigated, no significant impact was found. Under the team environment theme, we compared different opinions on the orientation (e.g., scripted roles) and the use of technology (e.g., integrated development environment tools). Future research should investigate how task structure influences team effectiveness of DPP and relates to computational thinking education. Additionally, because most studies were conducted in higher education contexts, more research in primary and secondary educational contexts is also needed.
+SN  - 1867-1233
+UR  - https://doi.org/10.1007/s12528-023-09356-3
+DO  - 10.1007/s12528-023-09356-3
+ID  - Xu2024
+ER  - 

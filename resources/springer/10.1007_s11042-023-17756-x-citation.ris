@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Dash, Ajaya Kumar
+AU  - Behera, Santosh Kumar
+AU  - Dogra, Debi Prosad
+PY  - 2024
+DA  - 2024/06/01
+TI  - PlutoAR: a scalable marker-based augmented reality application for interactive and inclusive education
+JO  - Multimedia Tools and Applications
+SP  - 57685
+EP  - 57708
+VL  - 83
+IS  - 19
+AB  - Various studies have suggested that computational thinking needs to be highlighted as one of the essential abilities and it should be taught in the standard K-10 curriculum. However, the standard K-10 curriculum does not always contain accessible technology that uses interactive teaching methods and efficient analytical skill development. Also, most practical computational thinking applications that are being created seem to be complex and expensive for educational settings. In this work, we introduce PlutoAR, a marker-based augmented reality (AR) interpreter that is scalable, inexpensive, portable, and can be used as a platform for kids to enhance their skills in an inclusive way. PlutoAR incorporates AR through an interactive toolkit to give students the experiences of both the real and virtual worlds, overcoming the limitations of traditional and non-interactive setups. With the help of technology-based solutions, this effort intends to enable students from all demographic groups to engage in the learning process, regardless of their level of competence. The PlutoAR mobile application presently runs on any Android device with a camera. It creates inbuilt AR experiences like stories, basic elementary mathematics, navigating mazes utilising conditional loops to solve them, and the intuition of gravity. The usability of the PutoAR application is verified by performing the qualitative and quantitative analysis through user feedback. The application seems to be acceptable by users with a System Usability Scale (SUS) score of more than 80. In future, we intend to provide flexibility to the user for adding new content inside the application whenever needed and to promote AR-based collaboration among the students.
+SN  - 1573-7721
+UR  - https://doi.org/10.1007/s11042-023-17756-x
+DO  - 10.1007/s11042-023-17756-x
+ID  - Dash2024
+ER  - 

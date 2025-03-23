@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Moghadam, Peyman Z.
+AU  - Chung, Yongchul G.
+AU  - Snurr, Randall Q.
+PY  - 2024
+DA  - 2024/02/01
+TI  - Progress toward the computational discovery of new metal–organic framework adsorbents for energy applications
+JO  - Nature Energy
+SP  - 121
+EP  - 133
+VL  - 9
+IS  - 2
+AB  - Metal–organic frameworks (MOFs) are a class of nanoporous material precisely synthesized from molecular building blocks. MOFs could have a critical role in many energy technologies, including carbon capture, separations and storage of energy carriers. Molecular simulations can improve our molecular-level understanding of adsorption in MOFs, and it is now possible to use realistic models for these complicated materials and predict their adsorption properties in quantitative agreement with experiments. Here we review the predictive design and discovery of MOF adsorbents for the separation and storage of energy-relevant molecules, with a view to understanding whether we can reliably discover novel MOFs computationally prior to laboratory synthesis and characterization. We highlight in silico approaches that have discovered new adsorbents that were subsequently confirmed by experiments, and we discuss the roles of high-throughput computational screening and machine learning. We conclude that these tools are already accelerating the discovery of new applications for existing MOFs, and there are now several examples of new MOFs discovered by computational modelling.
+SN  - 2058-7546
+UR  - https://doi.org/10.1038/s41560-023-01417-2
+DO  - 10.1038/s41560-023-01417-2
+ID  - Moghadam2024
+ER  - 

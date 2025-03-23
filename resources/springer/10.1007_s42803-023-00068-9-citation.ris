@@ -1,0 +1,16 @@
+TY  - JOUR
+AU  - Burrows, Toby
+PY  - 2023
+DA  - 2023/11/01
+TI  - Reproducibility, verifiability, and computational historical research
+JO  - International Journal of Digital Humanities
+SP  - 283
+EP  - 298
+VL  - 5
+IS  - 2
+AB  - Digital humanities methods have been at the heart of a recent series of high-profile historical research projects. But these approaches raise new questions about reproducibility and verifiability in a field of research where grounding one’s conclusions in a body of historical evidence is crucial. While there have been extensive debates about the nature and methods of historical research since the nineteenth century, the underlying assumption has generally been that documenting one’s sources in a series of footnotes is essential to enable other researchers to test the validity of the research. Even if this approach never amounted to “reproducibility” in the sense of scientific experimentation, it might still be seen as broadly analogous, since the evidence can be reassembled to see the basis for the explanations that were offered and to test their validity. This essay examines how new digital methods like topic modelling, network analysis, knowledge graphs, species models, and various kinds of visualizations are affecting the process of reproducing and verifying historical research. Using examples drawn from recent research projects, it identifies a need for thorough documentation and publication of the different layers of digital research: digital and digitized collections, descriptive metadata, the software used for analysis and visualizations, and the various settings and configurations.
+SN  - 2524-7840
+UR  - https://doi.org/10.1007/s42803-023-00068-9
+DO  - 10.1007/s42803-023-00068-9
+ID  - Burrows2023
+ER  - 

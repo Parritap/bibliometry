@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Zhang, Wei
+AU  - Zeng, Xinyao
+AU  - Song, Lingling
+PY  - 2025
+DA  - 2025/02/01
+TI  - Towards an assessment model of college students’ computational thinking with text-based programming
+JO  - Education and Information Technologies
+SP  - 1363
+EP  - 1385
+VL  - 30
+IS  - 2
+AB  - Computational thinking (CT) assessment is crucial for testing the effectiveness of CT skills development. However, the exploration of CT assessment in the context of text-based programming is in its initial stages. The intrinsic relationship between the core skills of text-based programming and the core elements of CT isn’t analyzed in depth in the CT assessment. This shortfall hinders the construction of a more scientific and effective CT assessment model for evaluating college students’ CT skills. In this paper, we established the mapping relationship between the core skills of text-based programming and the core elements of CT through a comprehensive analysis and reasoned arguments, and proposed a CT assessment model that includes a parsing layer, a mapping layer, and a measurement layer. The parsing layer is designed to extract implicit programming skills from the program code. The mapping layer aligns the programming skills with the core elements of CT based on predefined mapping rules. The measurement layer processes data from the mapping layer using normalization methods to derive CT assessment results. In the final analysis, 52 college students’ CT skills and sample code were analyzed through text-based programming tasks. The CT assessment results, subjected to the test analysis, revealed that the consistency test ICC coefficient was 0.684 (95% CI: 0.507 ~ 0.806) and the Pearson correlation coefficient was 0.845. This indicates that the proposed assessment model in this paper is applicable for evaluating college students’ CT skills, and the assessment results exhibit high scientific validity and credibility. This study can serve as a valuable reference for researching the relationship between programming behavior and CT skills.
+SN  - 1573-7608
+UR  - https://doi.org/10.1007/s10639-024-12872-z
+DO  - 10.1007/s10639-024-12872-z
+ID  - Zhang2025
+ER  - 

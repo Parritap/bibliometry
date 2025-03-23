@@ -1,0 +1,17 @@
+TY  - JOUR
+AU  - Muggleton, Naomi
+AU  - Rahal, Charles
+AU  - Reeves, Aaron
+PY  - 2025
+DA  - 2025/02/07
+TI  - Capitalizing on a crisis: a computational analysis of all five million British firms during the Covid-19 pandemic
+JO  - Journal of Computational Social Science
+SP  - 29
+VL  - 8
+IS  - 2
+AB  - The Covid-19 pandemic brought unprecedented changes to business ownership in the UK which affects a generation of entrepreneurs and their employees. Nonetheless, the impact remains poorly understood. This is because research on capital accumulation has typically lacked high-quality, individualized, population-level data. We overcome these barriers to examine who benefits from economic crises through a computationally orientated lens of firm creation. Leveraging a comprehensive cache of administrative data on every UK firm and all nine million people running them, combined with probabilistic algorithms, we conduct individual-level analyzis to understand who became Covid entrepreneurs. Using these techniques, we explore characteristics of entrepreneurs—such as age, gender, region, business experience, and industry—which potentially predict Covid entrepreneurship. By employing an automated time series model selection procedure to generate counterfactuals, we show that Covid entrepreneurs were typically aged 35–49 (40.4%), men (73.1%), and had previously held roles in existing firms (59.4%). For most industries, growth was disproportionately concentrated around London. It was therefore existing corporate elites who were most able to capitalize on the Covid crisis and not, as some hypothesized, young entrepreneurs who were setting up their first businesses. In this respect, the pandemic will likely impact future wealth inequalities. Our work offers methodological guidance for future policymakers during economic crises and highlights the long-term consequences for capital and wealth inequality.
+SN  - 2432-2725
+UR  - https://doi.org/10.1007/s42001-025-00360-4
+DO  - 10.1007/s42001-025-00360-4
+ID  - Muggleton2025
+ER  - 

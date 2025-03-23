@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Jha, Nitesh Kumar
+AU  - Bhowmik, Plaban Kumar
+AU  - Bhagat, Kaushal Kumar
+PY  - 2024
+DA  - 2024/12/01
+TI  - Investigating the effect of multiple try-feedback on students computational thinking skills through online inquiry-based learning platform
+JO  - Educational technology research and development
+SP  - 3295
+EP  - 3347
+VL  - 72
+IS  - 6
+AB  - A majority of research in Computational Thinking (CT) mainly focuses on teaching coding to school students. However, CT involves more than just coding and includes other skills like algorithmic thinking. The current study developed an Online Inquiry-based Learning Platform for Computational Thinking (CT-ONLINQ) that follows Inquiry-Based Learning (IBL) pedagogy to support CT activities. IBL-based CT steps include algorithm design, analysis, and comparison of algorithms. Also, the platform allows students to explore multiple solutions to a problem and provides multiple-try feedback with hints as support during problem-solving activities. The hint generation strategy uses a Knowledge Graph that captures knowledge about the problem's solution in a machine-processible form. A six-week quasi-experimental study was conducted to determine the effectiveness of multiple-try feedback with hints on students’ CT skills. The study included 79 high school students: 41 students as part of the experimental group (EG) were provided problem-specific hints, and 38 as part of the control group (CG) with CT-general hints. The results showed that the students in the EG group improved their CT skills significantly more than those in the CG group. In addition, the study also evaluates the effectiveness of intervention considering biases in gender and prior coding experience. Female students performed better than male students in both groups after the intervention. Furthermore, in EG group, observations showed that students without coding experience performed better than their counterparts with experience. The findings suggest that the IBL-based CT activity on CT-ONLINQ can be deployed to improve the CT skills of school students.
+SN  - 1556-6501
+UR  - https://doi.org/10.1007/s11423-024-10397-3
+DO  - 10.1007/s11423-024-10397-3
+ID  - Jha2024
+ER  - 

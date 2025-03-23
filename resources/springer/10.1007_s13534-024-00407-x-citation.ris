@@ -1,0 +1,20 @@
+TY  - JOUR
+AU  - Kim, Kideok
+AU  - Lee, Kunhee
+AU  - Hwang, Jiyoung
+AU  - Lee, Ui-Lyong
+AU  - Park, Joong Yull
+PY  - 2024
+DA  - 2024/11/01
+TI  - Computational analysis on 3D airway model of obstructive sleep apnea patient for optimal maxillomandibular advancement
+JO  - Biomedical Engineering Letters
+SP  - 1335
+EP  - 1346
+VL  - 14
+IS  - 6
+AB  - Obstructive sleep apnea (OSA) can have many adverse effects on people’s health, including cognitive decline and high blood pressure. Typical surgical treatment methods include the commonly performed uvulopalatopharyngoplasty and the highly successful maxillomandibular advancement (MMA). These surgical methods are more effective than non-surgical methods because they widen the airway where a collapse has occurred through direct treatment. However, few studies has shown that moving the upper and lower jaws in a specific manner is the most efficient way to treat OSA during an MMA surgery. In this study, the airway of an OSA patient was reproduced digitally, and computational fluid dynamics analysis was performed on various models with changed airway shapes, including the original model based on an actual CT image and three resizing models of the retropalatal (RP) and retroglossal (RG) regions of the airway. Consequently, it was possible to provide more quantitative predicted flow data, which could be helpful in performing sophisticated OSA surgery. Among the four airway models of the OSA patient, a reduction in the epiglottis regional pressure difference of up to 40.2% was evident in the model with an expanded RG region, and a reduction in the wall shear stress of up to 25.8% was confirmed. The proposed process could be an important aid for surgeons in determining the optimal surgical method suitable for an individual patient’s uniquely-shaped airway.
+SN  - 2093-985X
+UR  - https://doi.org/10.1007/s13534-024-00407-x
+DO  - 10.1007/s13534-024-00407-x
+ID  - Kim2024
+ER  - 

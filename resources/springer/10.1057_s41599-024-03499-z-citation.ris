@@ -1,0 +1,27 @@
+TY  - JOUR
+AU  - Royse, Emily A.
+AU  - Manzanares, Amanda D.
+AU  - Wang, Heqiao
+AU  - Haudek, Kevin C.
+AU  - Azzarello, Caterina Belle
+AU  - Horne, Lydia R.
+AU  - Druckenbrod, Daniel L.
+AU  - Shiroda, Megan
+AU  - Adams, Sol R.
+AU  - Fairchild, Ennea
+AU  - Vincent, Shirley
+AU  - Anderson, Steven W.
+AU  - Romulo, Chelsie
+PY  - 2024
+DA  - 2024/08/13
+TI  - FEW questions, many answers: using machine learning to assess how students connect food–energy–water (FEW) concepts
+JO  - Humanities and Social Sciences Communications
+SP  - 1033
+VL  - 11
+IS  - 1
+AB  - There is growing support and interest in postsecondary interdisciplinary environmental education, which integrates concepts and disciplines in addition to providing varied perspectives. There is a need to assess student learning in these programs as well as rigorous evaluation of educational practices, especially of complex synthesis concepts. This work tests a text classification machine learning model as a tool to assess student systems thinking capabilities using two questions anchored by the Food-Energy-Water (FEW) Nexus phenomena by answering two questions (1) Can machine learning models be used to identify instructor-determined important concepts in student responses? (2) What do college students know about the interconnections between food, energy, and water, and how have students assimilated systems thinking into their constructed responses about FEW? Reported here is a broad range of model performances across 26 text classification models associated with two different assessment items, with model accuracy ranging from 0.755 to 0.992. Expert-like responses were infrequent in our dataset compared to responses providing simpler, incomplete explanations of the systems presented in the question. For those students moving from describing individual effects to multiple effects, their reasoning about the mechanism behind the system indicates advanced systems thinking ability. Specifically, students exhibit higher expertise in explaining changing water usage than discussing trade-offs for such changing usage. This research represents one of the first attempts to assess the links between foundational, discipline-specific concepts and systems thinking ability. These text classification approaches to scoring student FEW Nexus Constructed Responses (CR) indicate how these approaches can be used, in addition to several future research priorities for interdisciplinary, practice-based education research. Development of further complex question items using machine learning would allow evaluation of the relationship between foundational concept understanding and integration of those concepts as well as a more nuanced understanding of student comprehension of complex interdisciplinary concepts.
+SN  - 2662-9992
+UR  - https://doi.org/10.1057/s41599-024-03499-z
+DO  - 10.1057/s41599-024-03499-z
+ID  - Royse2024
+ER  - 

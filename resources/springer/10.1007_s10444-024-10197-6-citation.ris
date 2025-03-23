@@ -1,0 +1,16 @@
+TY  - JOUR
+AU  - Kotiuga, P. Robert
+AU  - Lahtinen, Valtteri
+PY  - 2024
+DA  - 2024/10/01
+TI  - An electrical engineering perspective on naturality in computational physics
+JO  - Advances in Computational Mathematics
+SP  - 103
+VL  - 50
+IS  - 5
+AB  - We look at computational physics from an electrical engineering perspective and suggest that several concepts of mathematics, not so well-established in computational physics literature, present themselves as opportunities in the field. We discuss elliptic complexes and highlight the category theoretical background and its role as a unifying language between algebraic topology, differential geometry, and modelling software design. In particular, the ubiquitous concept of naturality is central. Natural differential operators have functorial analogues on the cochains of triangulated manifolds. In order to establish this correspondence, we derive formulas involving simplices and barycentric coordinates, defining discrete vector fields and a discrete Lie derivative as a result of a discrete analogue of Cartan’s magic formula. This theorem is the main mathematical result of the paper.
+SN  - 1572-9044
+UR  - https://doi.org/10.1007/s10444-024-10197-6
+DO  - 10.1007/s10444-024-10197-6
+ID  - Kotiuga2024
+ER  - 

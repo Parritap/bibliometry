@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Yousaf, Mahwish
+AU  - Shakoor Khan, Muhammad Saadat
+AU  - Ullah, Shamsher
+PY  - 2024
+DA  - 2024/11/01
+TI  - An Extended-Isomap for high-dimensional data accuracy and efficiency: a comprehensive survey
+JO  - Multimedia Tools and Applications
+SP  - 85523
+EP  - 85574
+VL  - 83
+IS  - 38
+AB  - Manifold learning is a widely adopted nonlinear dimensionality reduction technique employed to discover low-dimensional representations from high-dimensional data and to explore the intrinsic data structure. It encompasses a range of nonlinear techniques, including Isomap, Local Linear Embedding (LLE), Local Tangent Space Alignment (LTSA), and Multidimensional Scaling (MDS), among others. Isomap, as a popular method in manifold learning, has exhibited promising results. However, it encounters several challenges, such as the Topological Stability Problem, Shortest Path Distance, and noise sensitivity, which compromise its accuracy and elevate its computational demands. This survey paper presents three novel existing approaches to address these challenges and enhance the performance of Isomap. Firstly, the FastIsomap method, an existing approach that combines state-of-the-art algorithms like the KD tree and NN-descent to increase graph accuracy while reducing computational cost. Secondly, the FastIsomapVis method, also an existing technique, employs a hierarchical divide-and-conquer strategy employing the KD tree and Dijkstra Buckets Double, which enhances accuracy and reduces computational time in Isomap. Lastly, the NR-Isomap method, another existing approach, used the Local Tangent Space Alignment algorithm to remove noise sensitivity and short-circuit edge problems. The existing methods improve the accuracy of Isomap but also streamline its computational requirements. Furthermore, this survey paper discusses the open issues and future research directions for Isomap and manifold learning methods. It can be a valuable resource for researchers seeking insights across diverse domains.
+SN  - 1573-7721
+UR  - https://doi.org/10.1007/s11042-024-19917-y
+DO  - 10.1007/s11042-024-19917-y
+ID  - Yousaf2024
+ER  - 

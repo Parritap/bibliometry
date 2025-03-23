@@ -1,0 +1,21 @@
+TY  - JOUR
+AU  - Alhazov, Artiom
+AU  - Freund, Rudolf
+AU  - Ivanov, Sergiu
+AU  - Orellana-Martín, David
+AU  - Ramírez-de-Arellano, Antonio
+AU  - Rodríguez-Gallego, José-Antonio
+PY  - 2024
+DA  - 2024/06/01
+TI  - P systems with reactive membranes
+JO  - Journal of Membrane Computing
+SP  - 82
+EP  - 93
+VL  - 6
+IS  - 2
+AB  - Membranes are one of the key concepts in P systems and membrane computing, and a lot of research activities focus on their properties and possible extensions: membrane division, membrane dissolution, mobile membranes, etc. In this work, we explore the possibility of using membranes for thinking about the emergence of milieu separations at the origins of life. We propose a new variant of P systems with reactive membranes, in which every symbol is initially surrounded by an elementary membrane, and in which membranes can non-deterministically merge and split, leading to the formation of bigger and more complicated membranes. We show that such non-deterministic splitting and merging does not seem to radically affect the computational power: P systems with reactive membranes and non-cooperative rules generate at least all semilinear languages, and cooperative rules allow for simulating partially blind register machines. We briefly discuss using P systems with reactive membranes for illustrating the emergence of autocatalytic cycles, but actual constructions are left for future work.
+SN  - 2523-8914
+UR  - https://doi.org/10.1007/s41965-024-00144-1
+DO  - 10.1007/s41965-024-00144-1
+ID  - Alhazov2024
+ER  - 

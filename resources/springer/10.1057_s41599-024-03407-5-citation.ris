@@ -1,0 +1,19 @@
+TY  - JOUR
+AU  - Tong, Song
+AU  - Mao, Kai
+AU  - Huang, Zhen
+AU  - Zhao, Yukun
+AU  - Peng, Kaiping
+PY  - 2024
+DA  - 2024/07/09
+TI  - Automating psychological hypothesis generation with AI: when large language models meet causal graph
+JO  - Humanities and Social Sciences Communications
+SP  - 896
+VL  - 11
+IS  - 1
+AB  - Leveraging the synergy between causal knowledge graphs and a large language model (LLM), our study introduces a groundbreaking approach for computational hypothesis generation in psychology. We analyzed 43,312 psychology articles using a LLM to extract causal relation pairs. This analysis produced a specialized causal graph for psychology. Applying link prediction algorithms, we generated 130 potential psychological hypotheses focusing on “well-being”, then compared them against research ideas conceived by doctoral scholars and those produced solely by the LLM. Interestingly, our combined approach of a LLM and causal graphs mirrored the expert-level insights in terms of novelty, clearly surpassing the LLM-only hypotheses (t(59) = 3.34, p = 0.007 and t(59) = 4.32, p < 0.001, respectively). This alignment was further corroborated using deep semantic analysis. Our results show that combining LLM with machine learning techniques such as causal knowledge graphs can revolutionize automated discovery in psychology, extracting novel insights from the extensive literature. This work stands at the crossroads of psychology and artificial intelligence, championing a new enriched paradigm for data-driven hypothesis generation in psychological research.
+SN  - 2662-9992
+UR  - https://doi.org/10.1057/s41599-024-03407-5
+DO  - 10.1057/s41599-024-03407-5
+ID  - Tong2024
+ER  - 

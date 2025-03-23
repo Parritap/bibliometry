@@ -1,0 +1,15 @@
+TY  - JOUR
+AU  - Alserhani, Faeiz Mohammed
+PY  - 2025
+DA  - 2025/01/21
+TI  - Provisioning, authentication, and integrity-preserving communication scheme for Internet of things-enabled devices
+JO  - Peer-to-Peer Networking and Applications
+SP  - 78
+VL  - 18
+IS  - 2
+AB  - The Internet of Things (IoT) is a relatively new idea that describes the interconnection of the web with many types of physical items through wired or wireless connections. As the information transmitted and received by these mobile hand-held devices travels via the air, it is vulnerable to eavesdropping, manipulation, and replay attacks. The computational requirements of security protocols and cryptographic algorithms used to offer authentication frameworks lead to an increase in power consumption. This study introduces RSAECI, a novel cryptographic algorithm designed to enhance security and efficiency for IoT applications. The RSAECI algorithm integrates the principles of traditional RSA with elliptic curve cryptography (ECC) to achieve a balance between strong encryption and reduced computational overhead. Through comprehensive experimental evaluations, the study compares RSAECI with traditional RSA and ECC across various performance metrics, including security strength, computational overhead, communication overhead, energy consumption, and encryption/decryption time. The results demonstrate that RSAECI offers significant improvement in efficiency, with a 57% reduction in computational overhead, a 59% decrease in communication overhead, and a 25% reduction in energy consumption compared to traditional RSA. These enhancements are particularly beneficial for resource-constrained IoT environments, where efficiency and security are paramount. The study’s findings highlight RSAECI’s potential as a robust solution for secure communication in IoT, combining high-level security with practical efficiency, making it a viable alternative to existing cryptographic methods. 
+SN  - 1936-6450
+UR  - https://doi.org/10.1007/s12083-024-01896-4
+DO  - 10.1007/s12083-024-01896-4
+ID  - Alserhani2025
+ER  - 

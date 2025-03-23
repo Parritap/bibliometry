@@ -1,0 +1,20 @@
+TY  - JOUR
+AU  - Wang, Xi
+AU  - Ley, Andreas
+AU  - Koch, Sebastian
+AU  - Hays, James
+AU  - Holmqvist, Kenneth
+AU  - Alexa, Marc
+PY  - 2020
+DA  - 2020/08/03
+TI  - Computational discrimination between natural images based on gaze during mental imagery
+JO  - Scientific Reports
+SP  - 13035
+VL  - 10
+IS  - 1
+AB  - When retrieving image from memory, humans usually move their eyes spontaneously as if the image were in front of them. Such eye movements correlate strongly with the spatial layout of the recalled image content and function as memory cues facilitating the retrieval procedure. However, how close the correlation is between imagery eye movements and the eye movements while looking at the original image is unclear so far. In this work we first quantify the similarity of eye movements between recalling an image and encoding the same image, followed by the investigation on whether comparing such pairs of eye movements can be used for computational image retrieval. Our results show that computational image retrieval based on eye movements during spontaneous imagery is feasible. Furthermore, we show that such a retrieval approach can be generalized to unseen images.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-020-69807-0
+DO  - 10.1038/s41598-020-69807-0
+ID  - Wang2020
+ER  - 

@@ -1,0 +1,27 @@
+TY  - JOUR
+AU  - Ramstead, Maxwell J. D.
+AU  - Seth, Anil K.
+AU  - Hesp, Casper
+AU  - Sandved-Smith, Lars
+AU  - Mago, Jonas
+AU  - Lifshitz, Michael
+AU  - Pagnoni, Giuseppe
+AU  - Smith, Ryan
+AU  - Dumas, Guillaume
+AU  - Lutz, Antoine
+AU  - Friston, Karl
+AU  - Constant, Axel
+PY  - 2022
+DA  - 2022/12/01
+TI  - From Generative Models to Generative Passages: A Computational Approach to (Neuro) Phenomenology
+JO  - Review of Philosophy and Psychology
+SP  - 829
+EP  - 857
+VL  - 13
+IS  - 4
+AB  - This paper presents a version of neurophenomenology based on generative modelling techniques developed in computational neuroscience and biology. Our approach can be described as computational phenomenology because it applies methods originally developed in computational modelling to provide a formal model of the descriptions of lived experience in the phenomenological tradition of philosophy (e.g., the work of Edmund Husserl, Maurice Merleau-Ponty, etc.). The first section presents a brief review of the overall project to naturalize phenomenology. The second section presents and evaluates philosophical objections to that project and situates our version of computational phenomenology with respect to these projects. The third section reviews the generative modelling framework. The final section presents our approach in detail. We conclude by discussing how our approach differs from previous attempts to use generative modelling to help understand consciousness. In summary, we describe a version of computational phenomenology which uses generative modelling to construct a computational model of the inferential or interpretive processes that best explain this or that kind of lived experience.
+SN  - 1878-5166
+UR  - https://doi.org/10.1007/s13164-021-00604-y
+DO  - 10.1007/s13164-021-00604-y
+ID  - Ramstead2022
+ER  - 

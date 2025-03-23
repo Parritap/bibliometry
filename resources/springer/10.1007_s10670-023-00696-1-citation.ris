@@ -1,0 +1,16 @@
+TY  - JOUR
+AU  - Poth, Nina
+PY  - 2025
+DA  - 2025/01/01
+TI  - Same but Different: Providing a Probabilistic Foundation for the Feature-Matching Approach to Similarity and Categorization
+JO  - Erkenntnis
+SP  - 237
+EP  - 261
+VL  - 90
+IS  - 1
+AB  - The feature-matching approach pioneered by Amos Tversky remains a groundwork for psychological models of similarity and categorization but is rarely explicitly justified considering recent advances in thinking about cognition. While psychologists often view similarity as an unproblematic foundational concept that explains generalization and conceptual thought, long-standing philosophical problems challenging this assumption suggest that similarity derives from processes of higher-level cognition, including inference and conceptual thought. This paper addresses three specific challenges to Tversky’s approach: (i) the feature-selection problem, (ii) the problem of cognitive implausibility, and (iii) the problem of unprincipled tweaking. It subsequently supports key insights from Tversky’s account based on recent developments in Bayesian modeling of cognition. A novel computational view of similarity as inference is proposed that addresses each challenge by considering the contrast class as constitutive of similarity and selecting for highly informative features. In so doing, this view illustrates the ongoing promise of the feature-matching approach in explaining perception, generalization and conceptual thought by grounding them in principles of probabilistic inference.
+SN  - 1572-8420
+UR  - https://doi.org/10.1007/s10670-023-00696-1
+DO  - 10.1007/s10670-023-00696-1
+ID  - Poth2025
+ER  - 

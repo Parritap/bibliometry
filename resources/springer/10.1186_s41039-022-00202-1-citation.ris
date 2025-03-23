@@ -1,0 +1,16 @@
+TY  - JOUR
+AU  - Hsu, Ting-Chia
+AU  - Chen, Mu-Sheng
+PY  - 2022
+DA  - 2022/07/16
+TI  - The engagement of students when learning to use a personal audio classifier to control robot cars in a computational thinking board game
+JO  - Research and Practice in Technology Enhanced Learning
+SP  - 27
+VL  - 17
+IS  - 1
+AB  - This research explored the creative thinking, learning achievement, and engagement of students when they integrated the application of the personal audio classifier (PAC) into the competition of a computational thinking (CT) board game (i.e., the experimental group), or did not integrate it into the competition but only collaborated with peers to test the function of the program which they had developed (i.e., the control group). The students had experienced popular speech recognition usage in their daily life, such as Siri and Google Assistant; therefore, this study developed instructional material for university freshmen to learn to develop their own artificial intelligence (AI) application (app) on a smart phone with PAC in MIT App Inventor. The PAC platform and the learning material cultivated students to train their own voice classification model, which is a form of supervised machine learning in the AI domain. The results showed that both groups, who had successfully trained computers to distinguish received voice commands with PAC receiving the human voice spectrogram via the cloud platform developed by MIT, made significant progress in their learning effectiveness in AI education. When the students employed the AI app on smartphones in the CT board game, the students’ voice commands could be classified, and then the corresponding command could be executed through the program to control the action of the robot car on the map, regardless of whether they were competing or not. This study not only successfully provided the students with simple AI learning material, but also cultivated their creative thinking, as identified in the survey of the computational thinking self-efficacy scale. During the process of completing a mobile phone application with AI, students should know and use the function of voice classification to achieve goals and expand their cognition of AI applications. This study concluded that the AI learning material for general students rather than students in the department of computer science facilitated the students’ engagement.
+SN  - 1793-7078
+UR  - https://doi.org/10.1186/s41039-022-00202-1
+DO  - 10.1186/s41039-022-00202-1
+ID  - Hsu2022
+ER  - 

@@ -1,0 +1,24 @@
+TY  - JOUR
+AU  - Tan, Li Mei
+AU  - Wan Muhamad, Wan Zuki Azman
+AU  - Yahya, Zainor Ridzuan
+AU  - Junoh, Ahmad Kadri
+AU  - Azziz, Nor Hizamiyani Abdul
+AU  - Ramlie, Faizir
+AU  - Harudin, Nolia
+AU  - Abu, Mohd Yazid
+AU  - Tan, Xiao Jian
+PY  - 2023
+DA  - 2023/11/01
+TI  - A survey on improvement of Mahalanobis Taguchi system and its application
+JO  - Multimedia Tools and Applications
+SP  - 43865
+EP  - 43881
+VL  - 82
+IS  - 28
+AB  - Mahalanobis Taguchi System (MTS) is used for pattern recognition and classification, diagnosis, and prediction of a multivariate data set. Mahalanobis Distance (MD), orthogonal array (OA), and signal-to-noise ratio (SNR) are used in traditional MTS in order to identify and optimize the variables. However, the high correlation among variables shows an effect on the inverse of the correlation matrix that uses in the calculation of MD and hence affects the accuracy of the MD. Therefore, Mahalanobis-Taguchi-Gram-Schmidt (MTGS) system is proposed in order to solve the problem of multicollinearity. The value of MD can be calculated by using the Gram-Schmidt Orthogonalization Process (GSOP). Besides, the computational speed and the accuracy in optimization using OA and SNR are other issues that are concerned the authors. Hence, the combination of MTS and other methods such as Binary Particles Swarm Optimization (BPSO) and Binary Ant Colony Optimization (NBACO) is proposed to improve the computational speed and the accuracy in optimization. The purpose of this paper is to review and summarize some works that developed and used the hybrid methodology of MTS as well as its application in several fields. Moreover, a discussion about the future work that can be done related to MTS is carried out.
+SN  - 1573-7721
+UR  - https://doi.org/10.1007/s11042-023-15257-5
+DO  - 10.1007/s11042-023-15257-5
+ID  - Tan2023
+ER  - 

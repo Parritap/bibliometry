@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Xu, Enwei
+AU  - Wang, Wei
+AU  - Wang, Qingxia
+PY  - 2023
+DA  - 2023/06/01
+TI  - A meta-analysis of the effectiveness of programming teaching in promoting K-12 students’ computational thinking
+JO  - Education and Information Technologies
+SP  - 6619
+EP  - 6644
+VL  - 28
+IS  - 6
+AB  - Computational thinking is considered to be an important competence in the intelligent era, and the incorporation of computational thinking as an integral part of school education beginning in childhood has been proposed. However, the ways in which computational thinking can be taught more effectively the context of in K-12 programming teaching remain unclear. This paper reports the results of a meta-analysis of 28 empirical studies on K-12 programming teaching that were published in international education journals in the 21st century to determine which teaching methods and programming tools are most effective in promoting the computational thinking of K-12 students. The results show that (1) programming teaching can promote the improvement of K-12 students’ computational thinking (ES = 0.72, z = 9.9, P < 0.01), with an overall effect at the upper-middle level (95% CI[0.60,0.83]); (2) scaffolding programming (ES = 1.84, z = 11.9, P < 0.01) and problem-based programming (ES = 1.14, z = 5.57, P < 0.01) are the most effective teaching methods and can significantly promote the development of K-12 students’ computational thinking (chi2 = 40.58, P < 0.01); (3) since differences in the effect of programming tools between groups are not significant (Chi2 = 6.47, P = 0.09), it is impossible to determine which programming tools are most effective; and (4) intervention duration (ES = 0.72, z = 11.9, P < 0.05, 95% CI[0.60, 0.83]) and learning scaffold (ES = 0.83, z = 6.27, P < 0.05, 95% CI[0.57, 1.09]) are both key moderating variables that affect the improvement of computational thinking. Based on these results, suggestions are provided for future research and practice.
+SN  - 1573-7608
+UR  - https://doi.org/10.1007/s10639-022-11445-2
+DO  - 10.1007/s10639-022-11445-2
+ID  - Xu2023
+ER  - 

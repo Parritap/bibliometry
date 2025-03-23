@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Mecca, Giansalvatore
+AU  - Santoro, Donatello
+AU  - Sileno, Nazzareno
+AU  - Veltri, Enzo
+PY  - 2021
+DA  - 2021/03/05
+TI  - Diogene-CT: tools and methodologies for teaching and learning coding
+JO  - International Journal of Educational Technology in Higher Education
+SP  - 12
+VL  - 18
+IS  - 1
+AB  - Computational thinking is the capacity of undertaking a problem-solving process in various disciplines (including STEM, i.e. science, technology, engineering and mathematics) using distinctive techniques that are typical of computer science. It is nowadays considered a fundamental skill for students and citizens, that has the potential to affect future generations. At the roots of computational-thinking abilities stands the knowledge of computer programming, i.e. coding. With the goal of fostering computational thinking in young students, we address the challenging and open problem of using methods, tools and techniques to support teaching and learning of computer-programming skills in school curricula of the secondary grade and university courses. This problem is made complex by several factors. In fact, coding requires abstraction capabilities and complex cognitive skills such as procedural and conditional reasoning, planning, and analogical reasoning. In this paper, we introduce a new paradigm called ACME (“Code Animation by Evolved Metaphors”) that stands at the foundation of the Diogene-CT code visualization environment and methodology. We develop consistent visual metaphors for both procedural and object-oriented programming. Based on the metaphors, we introduce a playground architecture to support teaching and learning of the principles of coding. To the best of our knowledge, this is the first scalable code visualization tool using consistent metaphors in the field of the Computing Education Research (CER). It might be considered as a new kind of tools named as code visualization environments.
+SN  - 2365-9440
+UR  - https://doi.org/10.1186/s41239-021-00246-1
+DO  - 10.1186/s41239-021-00246-1
+ID  - Mecca2021
+ER  - 

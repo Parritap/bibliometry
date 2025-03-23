@@ -1,0 +1,17 @@
+TY  - JOUR
+AU  - Shamir, Gilad
+AU  - Levin, Ilya
+PY  - 2021
+DA  - 2021/06/01
+TI  - Neural Network Construction Practices in Elementary School
+JO  - KI - Künstliche Intelligenz
+SP  - 181
+EP  - 189
+VL  - 35
+IS  - 2
+AB  - This paper describes an artificial intelligence (AI) educational project conducted with a small number of 12-year-old students. It is a preliminary step to add AI learning in a city-wide program consisting of elementary school students who learn computational thinking and digital literacy. Today children grow up in an age of AI which significantly affects how we live, work, and solve problems therefore AI should be taught in schools. Children usually employ AI models as black boxes without understanding the computational concepts, underlying assumptions, nor limitations of AI models. The hypothesis of this study is that to understand how machines learn, students should actively construct a neural network. To address this issue a dedicated curriculum and appropriate scaffolds were created for this study. It includes a programmable learning environment for elementary school students to construct AI agents. Findings show high engagement during the constructionist learning and that the novel learning environment helped make machine learning understandable.
+SN  - 1610-1987
+UR  - https://doi.org/10.1007/s13218-021-00729-3
+DO  - 10.1007/s13218-021-00729-3
+ID  - Shamir2021
+ER  - 

@@ -1,0 +1,24 @@
+TY  - JOUR
+AU  - Hahlbrock, David
+AU  - Braun, Michael
+AU  - Heidel, Robin
+AU  - Lemmen, Patrik
+AU  - Boumann, Roland
+AU  - Bruckmann, Tobias
+AU  - Schramm, Dieter
+AU  - Helm, Volker
+AU  - Willmann, Jan
+PY  - 2022
+DA  - 2022/12/01
+TI  - Cable Robotic 3D-printing: additive manufacturing on the construction site
+JO  - Construction Robotics
+SP  - 305
+EP  - 318
+VL  - 6
+IS  - 3
+AB  - This paper outlines an important step in characterizing a novel field of robotic construction research where a cable-driven parallel robot is used to extrude cementitious material in three-dimensional space, and thus offering a comprehensive new approach to computational design and construction, and to robotic fabrication at larger scales. Developed by the Faculty of Art and Design at Bauhaus-University Weimar (Germany), the faculty of Architecture at the University of Applied Sciences Dortmund (Germany) and the Chair of Mechatronics at the University of Duisburg-Essen (Germany), this approach offers unique advantages over existing additive manufacturing methods: the system is easily transportable and scalable, it does not require additional formwork or scaffolding, and it offers digital integration and informational oversight across the entire design and building process. This paper considers 1) key research components of cable robotic 3D-printing (such as computational design, material exploration, and robotic control), and 2) the integration of these parameters into a unified design and building process. The demonstration of the approach at full-scale is of particular concern.
+SN  - 2509-8780
+UR  - https://doi.org/10.1007/s41693-022-00082-3
+DO  - 10.1007/s41693-022-00082-3
+ID  - Hahlbrock2022
+ER  - 

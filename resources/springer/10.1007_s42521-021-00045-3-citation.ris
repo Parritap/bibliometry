@@ -1,0 +1,19 @@
+TY  - JOUR
+AU  - Chen, Yuting
+AU  - Bredin, Don
+AU  - Potì, Valerio
+AU  - Matkovskyy, Roman
+PY  - 2022
+DA  - 2022/03/01
+TI  - COVID risk narratives: a computational linguistic approach to the econometric identification of narrative risk during a pandemic
+JO  - Digital Finance
+SP  - 17
+EP  - 61
+VL  - 4
+IS  - 1
+AB  - In this paper, we study the role of narratives in stock markets with a particular focus on the relationship with the ongoing COVID-19 pandemic. The pandemic represents a natural setting for the development of viral financial market narratives. We thus treat the pandemic as a natural experiment on the relation between prevailing narratives and financial markets. We adopt natural language processing (NLP) on financial news to characterize the evolution of important narratives. Doing so, we reduce the high-dimensional narrative information to few interpretable and important features while avoiding over-fitting. In addition to the common features, we consider virality as a novel feature of narratives, inspired by Shiller (Am Econ Rev 107:967–1004, 2017). Our aim is to establish whether the prevailing narratives drive or are driven by stock market conditions. Focusing on the coronavirus narratives, we document some stylized facts about its evolution around a severe event-driven stock market decline. We find the pandemic-relevant narratives are influenced by stock market conditions and act as a cellar for brewing a perennial economic narrative. We successfully identified a perennial risk narrative, whose shock is followed by a severe market drop and a long-term increase of market volatility. In the out-of-sample test, this narrative went viral since the start of the global COVID-19 pandemic, when the pandemic-relevant narratives dominate news media, show negative sentiment and were more linked to “crisis” context. Our findings encourage the use of narratives to evaluate long-term market conditions and to early warn event-driven severe market declines.
+SN  - 2524-6186
+UR  - https://doi.org/10.1007/s42521-021-00045-3
+DO  - 10.1007/s42521-021-00045-3
+ID  - Chen2022
+ER  - 

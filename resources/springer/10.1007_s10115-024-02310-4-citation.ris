@@ -1,0 +1,17 @@
+TY  - JOUR
+AU  - Annepaka, Yadagiri
+AU  - Pakray, Partha
+PY  - 2025
+DA  - 2025/03/01
+TI  - Large language models: a survey of their development, capabilities, and applications
+JO  - Knowledge and Information Systems
+SP  - 2967
+EP  - 3022
+VL  - 67
+IS  - 3
+AB  - Large language models can generate text, respond to queries, and translate between languages, as recent research demonstrates. As a new and essential part of computational linguistics, LLMs can understand complex speech patterns and respond appropriately and rationally in the given context. Research contributions have significantly increased as a result of LLMs growing popularity. Nevertheless, the rate of increase has been so quick that evaluating the cumulative impact of these developments is challenging. Keeping abreast with all the LLM research that has surfaced in such a short time and gaining a thorough understanding of the present state of the field’s study has become challenging. The scientific community would gain from a succinct but thorough LLM summary covering their history, architecture, applications, issues, influence, and resources. This paper covers many model types while reviewing LLMs’ fundamental principles and notions. It summarizes earlier research, the evolution of LLMs throughout time, transformer history, and the range of tools and training methods applied to these models. The study also looks at the many fields in which LLMs are used, including business, social work, education, healthcare, and agriculture. Furthermore, it illustrates how LLMs impact society, mold AI’s future, and find valuable uses in problem-solving. This review article aims to provide a comprehensive overview of the history of LLMs, pre-trained architectures, applications, problems, and future directions for practitioners, researchers, and experts.
+SN  - 0219-3116
+UR  - https://doi.org/10.1007/s10115-024-02310-4
+DO  - 10.1007/s10115-024-02310-4
+ID  - Annepaka2025
+ER  - 

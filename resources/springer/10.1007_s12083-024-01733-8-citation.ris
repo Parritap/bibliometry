@@ -1,0 +1,19 @@
+TY  - JOUR
+AU  - Vellingiri, J.
+AU  - Vedhavathy, T.R.
+AU  - Senthil Pandi, S.
+AU  - Bala Subramanian, C.
+PY  - 2024
+DA  - 2024/09/01
+TI  - Fuzzy logic and CPSO-optimized key management for secure communication in decentralized IoT networks: A lightweight solution
+JO  - Peer-to-Peer Networking and Applications
+SP  - 2979
+EP  - 2997
+VL  - 17
+IS  - 5
+AB  - The act of implementing specific measures to ensure the security of cryptographic keys within an organization is referred to as key management. Securing communication in a decentralized IoT network presents many challenges due to the abundance of devices and the dynamic nature of the network. For this purpose, A Decentralized lightweight group key management (DLGKM) system is proposed in this paper, that leverages fuzzy logic and Crossover boosted Particle Swarm Optimization (CPSO) named FLCPSO-KM to enhance decisions and settle disputes in IoT environments. DLGKM system uses fuzzy logic and CPSO in decision-making and dispute resolution, this allows for qualitative and quantitative optimization, leading to reliable outcomes. The system provides a lightweight and effective solution for secure communication in a decentralized IoT network. It employs a Crossover-boosted particle swarm optimization (PSO) algorithm for secure key revocation from unauthorized devices, ensuring the security of the network and resources. Overall, the proposed DLGKM system provides an effective and efficient solution for secure communication in a decentralized IoT network. The advantages of utilizing fuzzy logic and CPSO in the system include enhanced decision-making and the ability to solve key revocation issues, thus minimizing communication and computational overheads. The proposed approach was compared to existing approaches such as Blockchain-Based Distributed Key Management Architecture (BDKMA), Cognitive Key Management Technique (CKMT), Healthcare Key Management Approach (HCKM), and Hash-Based Key Management Mechanism (AHKM) based on metrics such as security, encryption and decryption time, computational time, throughput, and fitness value. The proposed approach achieved greater efficiency with 98.7% security, encryption, and decryption time of 0.2 s and 0.3 s, throughput of 250 bits per second, and fitness values ranging from 0 to 1 respectively.
+SN  - 1936-6450
+UR  - https://doi.org/10.1007/s12083-024-01733-8
+DO  - 10.1007/s12083-024-01733-8
+ID  - Vellingiri2024
+ER  - 

@@ -1,0 +1,19 @@
+TY  - JOUR
+AU  - Zhao, Xiaoyong
+AU  - Leng, Xingxin
+AU  - Wang, Lei
+AU  - Wang, Ningning
+AU  - Liu, Yanqiong
+PY  - 2025
+DA  - 2025/01/27
+TI  - Efficient anomaly detection in tabular cybersecurity data using large language models
+JO  - Scientific Reports
+SP  - 3344
+VL  - 15
+IS  - 1
+AB  - In cybersecurity, anomaly detection in tabular data is essential for ensuring information security. While traditional machine learning and deep learning methods have shown some success, they continue to face significant challenges in terms of generalization. To address these limitations, this paper presents an innovative method for tabular data anomaly detection based on large language models, called “Tabular Anomaly Detection via Guided Prompts” (TAD-GP). This approach utilizes a 7-billion-parameter open-source model and incorporates strategies such as data sample introduction, anomaly type recognition, chain-of-thought reasoning, multi-turn dialogue, and key information reinforcement. Experimental results indicate that the TAD-GP framework improves F1 scores by 79.31%, 97.96%, and 59.09% on the CICIDS2017, KDD Cup 1999, and UNSW-NB15 datasets, respectively. Furthermore, the smaller-scale TAD-GP model outperforms larger models across multiple datasets, demonstrating its practical potential in environments with constrained computational resources and requirements for private deployment. This method addresses a critical gap in research on anomaly detection in cybersecurity, specifically using small-scale open-source models.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-025-88050-z
+DO  - 10.1038/s41598-025-88050-z
+ID  - Zhao2025
+ER  - 
