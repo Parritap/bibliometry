@@ -19,7 +19,3 @@ done
 
 echo "Script finished"
 return 0
-
-
-
-
