@@ -8,14 +8,17 @@
 declare inp=$1 #Debe ser la ruta absoluta del lugar donde están los archivos .ris
 declare out=$2 #Debe ser la ruta abosluta del lugar donde deberán estar los nuevos archibos .bib
 
+# Get the directory where the automation script is located
+SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+
 #Usa el Script the python por cada archivo dentro de la carpeta
 #especificada en los argumentos, i.e $inp.
 for file in "$inp"/*; do
       if [ -f "$file" ]; then
-          python3 ./RIStoBIB.py "$file" "$out/$(basename "$file").bib"
-          echo  "$(basename file) converted!"
+          python3 "$SCRIPT_DIR/RIStoBIB.py" "$file" "$out/$(basename "$file").bib"
+          echo "$(basename "$file") converted!"
       fi
 done
 
 echo "Script finished"
-return 0
+exit 0
