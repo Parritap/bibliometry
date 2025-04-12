@@ -1,12 +1,11 @@
- 
 # Conversor RIS a BibTeX
 
-Este script convierte archivos en formato **RIS** a **BibTeX**, extrayendo y organizando campos clave como autores, título, revista, año, volumen, número, DOI, URL, editorial, ISSN y páginas.
+Este script convierte archivos en formato **RIS** a **BibTeX**, asegurando que todos los valores en la salida estén correctamente formateados y encerrados entre llaves `{}`.
 
 ## 📌 Requisitos
 
 - Python 3.x  
-- La librería **[rispy](https://pypi.org/project/rispy/)**
+- La librería **[pybtex](https://pypi.org/project/pybtex/)**
 
 ## 📥 Instalación
 
@@ -14,7 +13,7 @@ Este script convierte archivos en formato **RIS** a **BibTeX**, extrayendo y org
 2. Instala las dependencias ejecutando en la terminal:
 
    ```bash
-   pip install rispy
+   pip install pybtex
    ```
 
 ## 🚀 Uso
@@ -26,46 +25,46 @@ Este script convierte archivos en formato **RIS** a **BibTeX**, extrayendo y org
    Abre el script y modifica las variables correspondientes para definir el nombre del archivo de entrada y el de salida. Por ejemplo:
 
    ```python
-   input_ris = "ejemplo.ris"  # Archivo RIS de entrada
-   output_bib = "referencias_final.bib"  # Archivo BibTeX que se generará
+   txt_input = "ejemplo.ris"  # Archivo RIS de entrada
+   txt_output = "referencias.bib"  # Archivo BibTeX que se generará
    ```
 
 3. **Ejecución:**  
    Ejecuta el script en la terminal con:
 
    ```bash
-   risTObib.py
+   python RIStoBIB.py
    ```
 
-   Se generará el archivo BibTeX (por ejemplo, `referencias_final.bib`) con las entradas convertidas.
+   Se generará el archivo BibTeX (por ejemplo, `referencias.bib`) con las entradas correctamente convertidas y formateadas.
 
 ## 🔍 Descripción del Script
 
 El script realiza lo siguiente:
 
 - **Lectura del archivo RIS:**  
-  - Usa `rispy` para interpretar el contenido estructurado.
-  - Extrae información complementaria para mejorar el formato.
+  - Usa `re` para interpretar el contenido estructurado.
+  - Extrae y organiza la información para convertirla a BibTeX.
 
 - **Mapeo de campos:**  
   Convierte los campos RIS a los equivalentes en BibTeX:
 
   | **Campo RIS**      | **Campo BibTeX** |
   |--------------------|-----------------|
-  | authors           | author          |
-  | title            | title           |
-  | secondary_title  | journal         |
-  | year             | year            |
-  | volume           | volume          |
-  | issue (IS)       | number          |
-  | doi              | doi             |
-  | url              | url             |
-  | publisher        | publisher       |
-  | issn             | issn            |
-  | start_page - end_page | pages   |
+  | AU (Autor)        | author          |
+  | TI (Título)       | title           |
+  | JO (Revista)      | journal         |
+  | PY (Año)         | year            |
+  | VL (Volumen)      | volume          |
+  | IS (Número)       | number          |
+  | SP (Página inicio) - EP (Página fin) | pages   |
+  | DO (DOI)          | doi             |
+  | UR (URL)          | url             |
+  | PB (Editorial)    | publisher       |
+  | SN (ISSN)         | issn            |
 
 - **Formato de salida:**  
-  Genera un archivo BibTeX limpio y estructurado correctamente.
+  Genera un archivo BibTeX con todos los valores encerrados en `{}` para garantizar compatibilidad con gestores de referencias.
 
 ## 📌 Ejemplo de Salida
 
@@ -76,7 +75,7 @@ TY  - JOUR
 AU  - Gadolin, Christian
 AU  - Andersson, Thomas
 TI  - Healthcare quality improvement work: a professional employee perspective
-T2  - International Journal of Health Care Quality Assurance
+JO  - International Journal of Health Care Quality Assurance
 PY  - 2017
 VL  - 30
 IS  - 5
@@ -106,3 +105,4 @@ El archivo `.bib` generado será:
   pages = {410--423}
 }
 ```
+

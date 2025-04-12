@@ -1,103 +1,62 @@
 #!/usr/bin/python3
 import re
-import sys
-import rispy
+from pybtex.database import BibliographyData, Entry
 
-def extract_issue_for_entry(doi, raw_entries):
-    """
-    Busca en los bloques de texto del RIS el campo IS (issue) para el DOI dado.
-    """
-    for raw in raw_entries:
-        if doi in raw:
-            match = re.search(r'^IS\s+-\s+(.*)$', raw, re.MULTILINE)
-            if match:
-                return match.group(1).strip()
-    return None
+def ris_to_bib(ris_file, bib_file):
+    with open(ris_file, 'r', encoding='utf-8') as f:
+        ris_content = f.readlines()
 
+    entries = []
+    entry = {}
+    for line in ris_content:
+        match = re.match(r'^(\w{2})  - (.*)', line)
+        if match:
+            key, value = match.groups()
+            if key == 'TY':  # Start of a new entry
+                if entry:
+                    entries.append(entry)
+                entry = {'type': value.lower()}
+            elif key == 'ER':  # End of entry
+                entries.append(entry)
+                entry = {}
+            else:
+                entry.setdefault(key, []).append(value)
 
-def convert_ris_to_bib(ris_file, bib_file):
-    """Convierte un archivo .ris a .bib en el orden deseado e incluyendo URL y número (issue)."""
-    # Leer el contenido bruto del archivo RIS y separar en bloques (cada entrada termina con 'ER  -')
-    with open(ris_file, "r", encoding="utf-8") as f:
-        raw_content = f.read()
-    raw_entries = raw_content.strip().split("ER  -")
+    if entry:
+        entries.append(entry)
 
-    # Cargar las entradas con rispy
-    with open(ris_file, "r", encoding="utf-8") as f:
-        entries = rispy.load(f)
+    bib_entries = {}
+    for entry in entries:
+        if not entry:
+            continue
 
-    with open(bib_file, "w", encoding="utf-8") as f:
-        for entry in entries:
-            # Usar DOI si está disponible, o el título, como identificador
-            doi = entry.get('doi', None)
-            entry_id = doi or entry.get('title', 'unknown')
-            entry_id = entry_id.replace(" ", "_").replace(",", "")
+        bib_key = entry.get('DO', ['unknown'])[0]
+        bib_type = 'article' if entry.get('TY', [''])[0] == 'JOUR' else 'misc'
 
-            bib_entry = f"@article{{{entry_id},\n"
+        bib_entries[bib_key] = Entry(
+            bib_type,
+            fields={
+                'title': f"{{{entry.get('TI', [''])[0]}}}",
+                'author': f"{{{' and '.join(entry.get('AU', []))}}}",
+                'journal': f"{{{entry.get('JO', [''])[0]}}}",
+                'year': f"{{{entry.get('PY', [''])[0]}}}",
+                'volume': f"{{{entry.get('VL', [''])[0]}}}",
+                'number': f"{{{entry.get('IS', [''])[0]}}}",
+                'pages': f"{{{entry.get('SP', [''])[0]}--{entry.get('EP', [''])[0]}}}",
+                'doi': f"{{{entry.get('DO', [''])[0]}}}",
+                'url': f"{{{entry.get('UR', [''])[0]}}}",
+                'publisher': f"{{{entry.get('PB', [''])[0]}}}",
+                'issn': f"{{{entry.get('SN', [''])[0]}}}",
+                'keywords': f"{{{', '.join(entry.get('KW', []))}}}",
+                'abstract': f"{{{entry.get('AB', [''])[0]}}}"
+            }
+        )
 
-            # Definir el orden deseado de campos:
-            # (clave en rispy, clave en BibTeX)
-            ordered_fields = [
-                ("authors", "author"),
-                ("title", "title"),
-                ("secondary_title", "journal"),
-                ("year", "year"),
-                ("volume", "volume"),
-                # "issue" se maneja aparte para el número
-                ("doi", "doi"),
-                ("url", "url"),
-                ("publisher", "publisher"),
-                ("issn", "issn")
-            ]
+    bib_data = BibliographyData(entries=bib_entries)
+    with open(bib_file, 'w', encoding='utf-8') as f:
+        f.write(bib_data.to_string('bibtex'))
 
-            # Recorrer los campos en orden
-            for ris_key, bib_key in ordered_fields:
-                if ris_key in entry:
-                    value = entry[ris_key]
-                    if isinstance(value, list):
-                        value = " and ".join(value)
-                    bib_entry += f"  {bib_key} = {{{value}}},\n"
-                else:
-                    # Para el campo URL: si no se encuentra y hay DOI, lo generamos
-                    if bib_key == "url" and doi:
-                        generated_url = f"https://doi.org/{doi}"
-                        bib_entry += f"  url = {{{generated_url}}},\n"
-
-            # Manejar el campo "number" (issue)
-            issue_value = entry.get("issue")
-            if not issue_value and doi:
-                issue_value = extract_issue_for_entry(doi, raw_entries)
-            if issue_value:
-                bib_entry += f"  number = {{{issue_value}}},\n"
-
-            # Manejar las páginas usando 'start_page' y 'end_page'
-            start_page = entry.get("start_page", "")
-            end_page = entry.get("end_page", "")
-            if start_page and end_page:
-                bib_entry += f"  pages = {{{start_page}--{end_page}}},\n"
-            elif start_page:
-                bib_entry += f"  pages = {{{start_page}}},\n"
-
-            # Eliminar la coma final y cerrar la entrada
-            bib_entry = bib_entry.rstrip(",\n") + "\n"
-            bib_entry += "}\n\n"
-            f.write(bib_entry)
-
-    print(f"✅ Conversión completada. Archivo generado: {bib_file}")
-
-
-
-
-
-#El siguiente bloque hace posible la ejecución mediante la linea de comandos.
-if __name__ == '__main__':
-    if len(sys.argv) != 3:
-        print("Usage: python3 script.py [ruta de .ris] [ruta the output.bib]")
-        sys.exit(1)
-
-    # Get the two arguments
-    input_path = sys.argv[1]
-    output_path = sys.argv[2]
-    convert_ris_to_bib(input_path, output_path)
-
-
+# Uso de la función
+txt_input = "nombre1.ris"
+txt_output = "nombre2.bib"
+ris_to_bib(txt_input, txt_output)
