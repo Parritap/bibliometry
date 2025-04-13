@@ -202,6 +202,20 @@
       <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-launcher/1.11.3/a49b9aa3ddd206121b643ba556bc3420129c47d/junit-platform-launcher-1.11.3.jar" />
       <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-engine/1.11.3/b2b5f1af958609110c1f4ce055b9050fec77fbda/junit-platform-engine-1.11.3.jar" />
       <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-engine/5.11.3/78392fae7f493f92618b837610c2915d0528b4fa/junit-jupiter-engine-5.11.3.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.9.20/e58b4816ac517e9cc5df1db051120c63d4cde669/kotlin-stdlib-1.9.20.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/31.1-jre/60458f877d055d0c9114d9e1a2efb737b4bc282c/guava-31.1-jre.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/failureaccess/1.0.1/1dcf1de382a0bf95a3d8b0849546c88bac1292c9/failureaccess-1.0.1.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.checkerframework/checker-qual/3.12.0/d5692f0526415fcc6de94bb5bfbd3afd9dd3b3e5/checker-qual-3.12.0.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.11.0/c5a0ace696d3f8b1c1d8cc036d8c03cc0cbe6b69/error_prone_annotations-2.11.0.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.j2objc/j2objc-annotations/1.3/ba035118bc8bac37d7eff77700720999acd9986d/j2objc-annotations-1.3.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter/5.9.3/72e840501e1550e9799c9a5cc9483d7d6b29e0ba/junit-jupiter-5.9.3.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-params/5.9.3/9e2a4bf6016a1975f408a73523392875cff7c26f/junit-jupiter-params-5.9.3.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-api/5.9.3/815818ad6ffcc8d320d8fbdf3d748c753cf83201/junit-jupiter-api-5.9.3.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-commons/1.9.3/36b2e26a90c41603be7f0094bee80e3f8a2cd4d4/junit-platform-commons-1.9.3.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.opentest4j/opentest4j/1.2.0/28c11eb91f9b6d8e200631d46e20a7f407f2a046/opentest4j-1.2.0.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-launcher/1.9.3/485650bfe2a2f39b606a6ca013285afda2eaee79/junit-platform-launcher-1.9.3.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-engine/1.9.3/8616734a190f8d307376aeb7353dba0a2c037a09/junit-platform-engine-1.9.3.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-engine/5.9.3/355322b03bf39306a183162cd06626c206f0286b/junit-jupiter-engine-5.9.3.jar" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
