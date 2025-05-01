@@ -1,0 +1,19 @@
+TY  - JOUR
+AU  - Adorni, Giorgia
+AU  - Piatti, Alberto
+AU  - Bumbacher, Engin
+AU  - Negrini, Lucio
+AU  - Mondada, Francesco
+AU  - Assaf, Dorit
+AU  - Mangili, Francesca
+AU  - Gambardella, Luca Maria
+PY  - 2025
+DA  - 2025/03/10
+TI  - FADE-CTP: A Framework for the Analysis and Design of Educational Computational Thinking Problems
+JO  - Technology, Knowledge and Learning
+AB  - In recent years, the emphasis on computational thinking (CT) has intensified as an effect of accelerated digitalisation. While most researchers are concentrating on defining CT and developing tools for its instruction and assessment, we focus on the characteristics of computational thinking problems (CTPs)- activities requiring CT to be solved-and how they influence the skills students can develop. In this paper, we present a comprehensive framework for systematically profiling CTPs by identifying specific components and characteristics, while establishing a link between these attributes and a structured catalogue of CT competencies. The purposes of this framework are (i) facilitating the analysis of existing CTPs to identify which abilities can be developed or measured based on their inherent characteristics, and (ii) guiding the design of new CTPs targeted at specific skills by outlining the necessary characteristics required for CT activation. To illustrate the framework functionalities, we begin by analysing prototypical activities in the literature, a process that leads to the definition of a taxonomy of CTPs across various domains, and we conclude with a case study on the design of a different version of one of these activities, the Cross Array Task (CAT), set in different cognitive environments. This approach allows an understanding of how CTPs in different contexts display unique and recurring characteristics that promote the development of distinct skills. In conclusion, this framework can inform the development of assessment tools, improve teacher training, and facilitate the analysis and comparison of existing CT activities, contributing to a deeper understanding of competency activation and guiding curriculum design in CT education.
+SN  - 2211-1670
+UR  - https://doi.org/10.1007/s10758-025-09833-x
+DO  - 10.1007/s10758-025-09833-x
+ID  - Adorni2025
+ER  - 

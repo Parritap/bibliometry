@@ -1,0 +1,20 @@
+TY  - JOUR
+AU  - Sanchez-Anguix, Victor
+AU  - Alberola, Juan M.
+AU  - Del Val, Elena
+AU  - Palomares, Alberto
+AU  - Teruel, Maria Dolores
+PY  - 2023
+DA  - 2023/10/01
+TI  - Comparing computational algorithms for team formation in the classroom: a classroom experience
+JO  - Applied Intelligence
+SP  - 23883
+EP  - 23904
+VL  - 53
+IS  - 20
+AB  - Throughout recent years, several researchers have proposed computational tools and algorithms to support team formation in the classroom. The result is that team formation algorithms have been widely applied in classroom environments to create well-balanced teams. One of the challenges in designing algorithms for automatic team formation is designing an appropriate function to estimate team performance, which is used as part of the optimization algorithm that divides students into teams. This function (referred to as a team evaluation heuristic) serves as an approximation to team performance, which is a complex phenomenon that is difficult to quantitatively assess in many settings and that cannot be accurately calculated prior to the task at hand. Despite showing their relative success compared to traditional and manual team formation strategies (manually employed by lecturers and teachers), there is a lack of research comparing team evaluation heuristics in a real classroom setting. Such a comparison would help teachers, practitioners, and system designers to appropriately select the most suitable team formation algorithms. In this article, we present an experimental evaluation that was carried out in a Bachelor’s Degree Program in Tourism that compares two team evaluation heuristics based on Belbin and Myer-Briggs. The experimental evaluation was carried out by means of an intelligent, extensible team formation tool whose optimization is based on an integer linear model that can be extended to support different team evaluation heuristics.
+SN  - 1573-7497
+UR  - https://doi.org/10.1007/s10489-023-04748-5
+DO  - 10.1007/s10489-023-04748-5
+ID  - Sanchez-Anguix2023
+ER  - 

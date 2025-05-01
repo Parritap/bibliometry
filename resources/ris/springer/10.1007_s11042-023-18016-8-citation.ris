@@ -1,0 +1,16 @@
+TY  - JOUR
+AU  - Ren, Xiaoyang
+PY  - 2024
+DA  - 2024/08/01
+TI  - Construction of a thinking model for Literary Writing based on Deep Spatio-Temporal Residual Convolutional Neural Networks
+JO  - Multimedia Tools and Applications
+SP  - 69467
+EP  - 69488
+VL  - 83
+IS  - 27
+AB  - A system's capacity to distinguish between human-written input and Literary Writing (LW) is known as LW. LW entered by scanning is considered offline, but LW joined by a pen tip is viewed online. The LW issue is regarded as difficult in computer vision. A person's LW will often vary from one person to another. The LW may produce material that needs more complex comprehension and cultural awareness to create highly profound literary works. In this study, we suggesta unique Deep Spatio-Temporal Residual Convolutional Neural Network (DS-TRCNN) technique to enhance the LW. Our discussion covered the Maximum Qualitative Analysis 6 (MAXQDA6) dataset, coded using the deductive method. The Spatial–Temporal Filter (STF) is a method for identifying information that changes over time and is linked to certain geographical places or areas. The Kernel Principal Component Analysis (KPCA) is used to separate the attributes from the segmented data. The testing findings show that this system's future usage has very high levels of Accuracy, Precision, Recall, and F1-score, which is adequate proof of its effectiveness and compares the error rate for recommended ways of Mean Absolute Error (MAE), Mean Square Error (MSE). With this method, we provide new avenues for automated storytelling, support for creative writing, and investigation of literary genres are made possible. Deep Learning (DL) aided literary production has a bright future with further study and development of the DS-TRCNN.
+SN  - 1573-7721
+UR  - https://doi.org/10.1007/s11042-023-18016-8
+DO  - 10.1007/s11042-023-18016-8
+ID  - Ren2024
+ER  - 

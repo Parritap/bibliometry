@@ -1,0 +1,20 @@
+TY  - JOUR
+AU  - Schwartz, Lou
+AU  - Maquil, Valérie
+AU  - Johannsen, Laurence
+AU  - Moll, Christian
+AU  - Hermen, Johannes
+PY  - 2024
+DA  - 2024/03/01
+TI  - Teaching computational thinking with a tangible development platform: An exploratory field study at school with Kniwwelino
+JO  - Education and Information Technologies
+SP  - 4935
+EP  - 4967
+VL  - 29
+IS  - 4
+AB  - Computational Thinking (CT) is an emerging topic in school curricula. Different tools exist to support the learning of CT, namely visual programming languages and tangible development platforms (TDP), which are widely used in extra-curricular activities. To date, few tools have been developed that consider both teachers’ needs and the school context. We designed the Kniwwelino Classroom Kit (KCK) in order to support the teaching of CT in classrooms. This paper presents the results of a pilot study, in which the KCK was used in three primary and three secondary schools in Luxembourg. The KCK is based on Kniwwelino, a creative environment designed for children from 8 years old to learn about programming and electronics. The study explored the suitability of the KCK for teaching CT in primary and secondary schools, focusing on three research questions: (1) how the KCK supports teachers’ pedagogical practices, (2) how the KCK fulfils the pedagogical objectives set by teachers, and (3) the user experience of the KCK (for teachers and pupils). To assess how the KCK meets the three above-mentioned objectives, we used a mixed method approach, combining semi-guided interviews, logbooks, and several questionnaires. We learned that the KCK is versatile enough to adapt to different environments, objectives, and pedagogical approaches, which responds to the first two research questions, and thus offers a great deal of freedom to teachers. The fun and tangible approach of the KCK introduces programming and enables pupils to develop both CT and soft skills such as communication and collaboration. Teachers’ feedback on their user experience was positive, particularly concerning stimulation, novelty, and attractiveness. KCK was evaluated as interesting, valuable, and good, but it was noted that some improvements needed to be made to make it easier, more predictable, and faster. The pupils also rated their user experience positively, with values that were generally on a par with previous studies reported in the state of the art regarding the use of Scratch and BBC Micro:bit in school-based experiments for learning CT. Drawing from these learnings, we list several recommendations for the development of other similar TDP tools to support the teaching of CT in a classroom setting. These recommendations concern the material, programming interface, connection, educational material, and the creation of a community.
+SN  - 1573-7608
+UR  - https://doi.org/10.1007/s10639-023-11983-3
+DO  - 10.1007/s10639-023-11983-3
+ID  - Schwartz2024
+ER  - 

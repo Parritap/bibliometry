@@ -1,0 +1,13 @@
+TY  - JOUR
+AU  - Durak, Aykut
+AU  - Bulut, Vahide
+PY  - 2024
+DA  - 2024/05/03
+TI  - Predicting Low and High Student Performance in Programming Education Using PLS-SEM Algorithms
+JO  - Technology, Knowledge and Learning
+AB  - The study uses the partial least squares-structural equation modeling (PLS-SEM) algorithm to predict the factors affecting the programming performance (PPE) (low, high) of the students receiving computer programming education. The participants of the study consist of 763 students who received programming education. In the analysis of the data, the PLS-SEM method was used with the help of the SmartPLS 4 program. In addition, multigroup SEM was used to examine the differentiation of models between groups with low and high PPE. According to the research results, the percentage of explanation of the model is relatively high in the group with high PPE compared to the group with low performance. According to the findings of the study, age, education level, general academic achievement, and PPE scores were found to be related. In addition, programming experience, attitude, and programming empowerment are related to PPE. The most important of some of the limitations of this study is that the data collected from the participants are based on their self-reports. The results of this study may have important contributions to the differentiation of approaches toward low and high-performing students in supporting programming education. This type of research can help design relevant interventions for students experiencing failures in programming education.
+SN  - 2211-1670
+UR  - https://doi.org/10.1007/s10758-024-09737-2
+DO  - 10.1007/s10758-024-09737-2
+ID  - Durak2024
+ER  - 

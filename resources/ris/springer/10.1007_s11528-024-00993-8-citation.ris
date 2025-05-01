@@ -1,0 +1,17 @@
+TY  - JOUR
+AU  - Jeon, Minji
+AU  - Kwon, Kyungbin
+PY  - 2024
+DA  - 2024/11/01
+TI  - Parallel Instruction of Text-based and Block-based Programming: On Novice Programmers’ Computational Thinking Practices
+JO  - TechTrends
+SP  - 1033
+EP  - 1050
+VL  - 68
+IS  - 6
+AB  - This study investigated the computational thinking (CT) practices of eight pre-service teachers through their Scratch and Python programs. Conducted within an undergraduate-level computer science education course, students learned CT concepts via parallel instruction in block-based programming (Scratch) and text-based programming (Python). The research focused on the synergistic effects of this parallel instruction, investigating how novices’ CT practice evolved while encountering unique features of each environment. Findings indicated that students’ CT practices in one programming environment positively influenced their practices in the other, particularly where syntactic similarities existed. Overall, their strategies for controlling program flow progressed from time-based controls to message-passing controls, and finally to condition-based controls. However, the students demonstrated a lack of abstracting and modularizing skills in their computational problem-solving across both programming environments.
+SN  - 1559-7075
+UR  - https://doi.org/10.1007/s11528-024-00993-8
+DO  - 10.1007/s11528-024-00993-8
+ID  - Jeon2024
+ER  - 

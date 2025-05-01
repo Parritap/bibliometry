@@ -1,0 +1,20 @@
+TY  - JOUR
+AU  - Zhang, Mingyu
+AU  - Li, Jiaxiang
+AU  - Lin, Yiyan
+AU  - Jin, Qiao
+AU  - Wang, Danli
+PY  - 2023
+DA  - 2023/12/01
+TI  - CoAR-Maze: empowering children’s collaborative tangible programming in augmented reality
+JO  - CCF Transactions on Pervasive Computing and Interaction
+SP  - 396
+EP  - 410
+VL  - 5
+IS  - 4
+AB  - As an effective way to develop children’s computational thinking, programming education has been intensively studied by scholars. Among them, tangible programming is more in line with children’s cognitive development and inherently supports collaborative learning. However, most of the tangible programming systems fall short in effectively stimulating active collaboration among children effectively. In this paper, we present CoAR-Maze, an augmented reality (AR) based tangible programming system that incorporates a collaborative mechanism designed for children’s programming. The system assists children in learning programming concepts such as sequences, loops, conditional statements, and task decomposition, while emphasizing the stimulation of active collaboration and enhancing immersion in children's programming learning. User studies validate the effectiveness, usability, and support for collaboration among child users provided by the system.
+SN  - 2524-5228
+UR  - https://doi.org/10.1007/s42486-023-00135-8
+DO  - 10.1007/s42486-023-00135-8
+ID  - Zhang2023
+ER  - 

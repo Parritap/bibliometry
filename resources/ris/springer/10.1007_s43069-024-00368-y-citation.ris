@@ -1,0 +1,19 @@
+TY  - JOUR
+AU  - Ali Khan, Fahad
+AU  - Shaukat, Nadeem
+AU  - Shah, Ajmal
+AU  - Hashmi, Abrar
+AU  - Ur Rehman Tariq, Muhammad Atiq
+PY  - 2024
+DA  - 2024/10/14
+TI  - Design Optimization of Marine Propeller Using Elitist Particle Swarm Intelligence
+JO  - Operations Research Forum
+SP  - 96
+VL  - 5
+IS  - 4
+AB  - Marine transportation is still the primary source of global transportation. The propeller, which is a critical component of the propulsion system, must be designed with multiple constraints and objectives to satisfy the need. Recent studies propose that utilizing an improved optimization algorithm and computational analysis would explore better designs than conventional methods. In the present study, the elitist particle swarm optimization (EPSO) technique is implemented to optimize the design of a marine propeller. Potsdam’s Conventional Propeller VP 1304 is used as a benchmark design case. Reynolds-averaged Navier–Stokes equation-based computational fluid dynamics (CFD) along with vortex lattice method (VLM) and fluid-structure interaction (FSI) model is used for computational analysis. The results obtained in this study are validated against the previously published experimental data. An optimized propeller design is proposed based on the elitist particle swarm optimization technique. It is observed that the proposed design shows improved open water performance for lower advance coefficient (J) values based on the given constraints. It is also observed that open water efficiency is improved by 7% for $$J=0.6$$compared to the original design. The one-way fluid-structure interaction analysis shows that the proposed design is structurally stable under open water test conditions.
+SN  - 2662-2556
+UR  - https://doi.org/10.1007/s43069-024-00368-y
+DO  - 10.1007/s43069-024-00368-y
+ID  - Ali Khan2024
+ER  - 

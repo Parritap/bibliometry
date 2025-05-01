@@ -1,0 +1,15 @@
+TY  - JOUR
+AU  - Ma, Junfeng
+PY  - 2023
+DA  - 2023/09/05
+TI  - Using nonlinear analysis and neural network to classify bipolar I disorder electroencephalogram signals from normal electroencephalograms
+JO  - Network Modeling Analysis in Health Informatics and Bioinformatics
+SP  - 32
+VL  - 12
+IS  - 1
+AB  - Bipolar I disorder is a severe neuropsychiatric illness that affects many people around the world. Early diagnosis of adolescents with bipolar I disorder is a very challenging task due to its atypical symptoms. Thirty adolescents, including 15 bipolar I disorder patients and 15 healthy adolescents, participated in the study. These participants were subjected to electroencephalography (EEG), and their EEG signals were recorded through 19 Ag/AgCl electrodes in eyes closed at rest. After preprocessing step to noise reduction and artifacts rejection, three nonlinear features from fractal analysis (Higuchi, Katz, and Petrosian fractal dimension) and three nonlinear features from entropy analysis (sample entropy, permutation entropy, and multiscale entropy) were extracted from cleaned EEGs in the time domain. A multilayer perceptron neural network was utilized for EEG classification. The results showed that fractal features, entropy features, and combined features (i.e., both fractal and entropy features) obtained accuracy of 93.22, 95.74 and 95.52%, respectively. The entropy features yielded the best performance with an accuracy of 95.74%. In addition, the sensitivity and specificity obtained for entropy features were 93.68% and 96.33%, respectively. The obtained results showed that the combination of entropy analysis and neural network is a suitable approach to diagnose bipolar I disorder. Therefore, due to the high accuracy obtained and the simple approach adopted that does not have a high computational cost, this system can be tested in clinical settings. However, more research is needed for the validation of this system.
+SN  - 2192-6670
+UR  - https://doi.org/10.1007/s13721-023-00426-1
+DO  - 10.1007/s13721-023-00426-1
+ID  - Ma2023
+ER  - 

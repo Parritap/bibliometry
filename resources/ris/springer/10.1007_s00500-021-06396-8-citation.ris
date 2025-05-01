@@ -1,0 +1,17 @@
+TY  - JOUR
+AU  - Chandrasekhar, Uddagiri
+AU  - Khare, Neelu
+PY  - 2021
+DA  - 2021/12/01
+TI  - An intelligent tutoring system for new student model using fuzzy soft set-based hybrid optimization algorithm
+JO  - Soft Computing
+SP  - 14979
+EP  - 14992
+VL  - 25
+IS  - 24
+AB  - Understanding student’s thinking ability, strengths, weaknesses, learning behaviour, and their learning capacity are essential considerations in the virtual learning environment (VLE). The major aim of this research study is to design a ‘Student Model’ on the basis of the individual’s ‘bio-psychological potential’. In this work, the student’s cognitive and personality traits are identified through psychometric inventories such as Benziger thinking style assessment (BTSA) for brain dominance analysis, Kolb’s learning style inventory (LSI) for identifying the style of learning, Howard Gardner’s MI inventory for multiple intelligence identification and Paul Costa R. Robert McCrae’s Big Five personality identification. The proposed model using a fuzzy soft set-based hybrid optimization algorithm for reducing the parameters. The fuzzy softest phase follows fuzzification in which the linguistic variables are formed from the crisp input and generate fuzzy sets further fuzzy soft sets are formed from the formulated fuzzy sets. Finally, the hybrid fuzzy particle swarm-grey wolf optimizer (HFPSGWO) algorithm to accomplish parameter reduction and determine the indispensable parameters and final phase perform student rank analysis. The performance results reveal that the hybrid fuzzy GWO (FGWO) and fuzzy PSO (FPSO)are outperformed when analysing different performances such as fitness function, selection of features, accuracy, and computational time.
+SN  - 1433-7479
+UR  - https://doi.org/10.1007/s00500-021-06396-8
+DO  - 10.1007/s00500-021-06396-8
+ID  - Chandrasekhar2021
+ER  - 

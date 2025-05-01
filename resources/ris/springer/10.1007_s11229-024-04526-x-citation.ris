@@ -1,0 +1,15 @@
+TY  - JOUR
+AU  - Kersten, Luke
+PY  - 2024
+DA  - 2024/03/14
+TI  - An idealised account of mechanistic computation
+JO  - Synthese
+SP  - 99
+VL  - 203
+IS  - 3
+AB  - The mechanistic account of computation offers one promising and influential theory of computational implementation. The aim of this paper is to shore up its conceptual foundations by responding to several recent challenges. After outlining and responding to a recent proposal from Kuokkanen (Synthese 200:247, 2022a), I suggest that computational description should be conceptualised as a form of idealisation (selectively attending to modified subsets of model features) rather than abstraction (selectively attending to subsets of features within a target system). I argue that this conceptualisation not only offers the best way of making sense of computational implementation, but also a way of resolving each of the outstanding challenges facing the mechanistic account. The idealisation view allows the mechanistic account to make sense of the omission process found in computational descriptions without leaving the relationship between physical and computational properties mysterious.
+SN  - 1573-0964
+UR  - https://doi.org/10.1007/s11229-024-04526-x
+DO  - 10.1007/s11229-024-04526-x
+ID  - Kersten2024
+ER  - 

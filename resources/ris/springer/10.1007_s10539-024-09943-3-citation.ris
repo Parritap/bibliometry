@@ -1,0 +1,15 @@
+TY  - JOUR
+AU  - Capraru, Mihnea
+PY  - 2024
+DA  - 2024/03/11
+TI  - Making sense of ‘genetic programs’: biomolecular Post–Newell production systems
+JO  - Biology & Philosophy
+SP  - 6
+VL  - 39
+IS  - 2
+AB  - The biomedical literature makes extensive use of the concept of a genetic program. So far, however, the nature of genetic programs has received no satisfactory elucidation from the standpoint of computer science. This unsettling omission has led to doubts about the very existence of genetic programs, on the grounds that gene regulatory networks lack a predetermined schedule of execution, which may seem to contradict the very idea of a program. I show, however, that we can make perfect sense of genetic programs, if only we abandon the preconception that all computers have a von Neumann architecture. Instead, genetic programs instantiate the computational architecture of Post–Newell Production Systems. That is, genetic programs are unordered sets of conditional instructions, instructions that fire independently when their conditions are matched. For illustration I present a paradigm Production System that regulates the functioning of the well-known lac operon of E. coli. On close reflection it turns out that not only genes, but also proteins encode instructions. I propose, therefore, to rename genetic programs to biomolecular programs. Biomolecular and/or genetic programs, and the cellular computers than run them, are to be understood not as von Neumann computers, but as Post–Newell production systems.
+SN  - 1572-8404
+UR  - https://doi.org/10.1007/s10539-024-09943-3
+DO  - 10.1007/s10539-024-09943-3
+ID  - Capraru2024
+ER  - 

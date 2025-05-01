@@ -1,0 +1,16 @@
+TY  - JOUR
+AU  - Tan, Funda
+PY  - 2024
+DA  - 2024/12/01
+TI  - Translation of Form: a Model for Teaching Design Coding to Undergraduate Students
+JO  - Nexus Network Journal
+SP  - 897
+EP  - 924
+VL  - 26
+IS  - 4
+AB  - This study presents a Translation of Form (ToF) model aimed at fostering algorithmic thinking and computational design skills among architectural students. Using Python within Rhino software, students translated architectural formal compositions into algorithmic representations through code writing. The model guided students through steps such as analyzing architectural geometry, creating algorithmic flows, and developing scripts to automatically generate form variations. Challenges arose from students' limited familiarity with Textual Programming Languages (TPLs) and the requisite mathematical knowledge for detailed geometric analyses. Despite initial hurdles, students exhibited genuine algorithmic thinking, successfully creating algorithmic representations of architectural forms. Survey results underscored the model's efficacy in promoting research skills while offering a fresh perspective on architectural form. The study emphasizes the vital role of integrating computational design skills into architectural education early on, equipping students with essential tools for innovative design exploration.
+SN  - 1522-4600
+UR  - https://doi.org/10.1007/s00004-024-00778-9
+DO  - 10.1007/s00004-024-00778-9
+ID  - Tan2024
+ER  - 

@@ -1,0 +1,16 @@
+TY  - JOUR
+AU  - Chen, Melvin
+PY  - 2024
+DA  - 2024/10/01
+TI  - Trust, understanding, and machine translation: the task of translation and the responsibility of the translator
+JO  - AI & SOCIETY
+SP  - 2307
+EP  - 2319
+VL  - 39
+IS  - 5
+AB  - Could translation be fully automated? We must first acknowledge the complexity, ambiguity, and diversity of natural languages. These aspects of natural languages, when combined with a particular dilemma known as the computational dilemma, appear to imply that the machine translator faces certain obstacles that a human translator has already managed to overcome. At the same time, science has not yet solved the problem of how human brains process natural languages and how human beings come to acquire natural language understanding. We will then distinguish between the task of translation and the responsibility of the translator. Thereafter, we will conduct a survey of the methods of machine translation (viz. RBMT, SMT, NMT, foundation models or large language models). These methods will then be critically evaluated both in general and relative to Bar-Hillel’s hypothesis about the impossibility of fully automatic, high-quality machine translation (Fahqmt). Some concluding remarks will be made about the scope, prospects, and limits of machine translation.
+SN  - 1435-5655
+UR  - https://doi.org/10.1007/s00146-023-01681-6
+DO  - 10.1007/s00146-023-01681-6
+ID  - Chen2024
+ER  - 

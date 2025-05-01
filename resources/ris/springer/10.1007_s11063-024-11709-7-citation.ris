@@ -1,0 +1,17 @@
+TY  - JOUR
+AU  - Bruno, Pierangela
+AU  - Quarta, Alessandro
+AU  - Calimeri, Francesco
+PY  - 2025
+DA  - 2025/01/07
+TI  - Continual Learning in Medicine: A Systematic Literature Review
+JO  - Neural Processing Letters
+SP  - 2
+VL  - 57
+IS  - 1
+AB  - Continual Learning (CL) is a novel AI paradigm in which tasks and data are made available over time; thus, the trained model is computed on the basis of a stream of data. CL-based approaches are able to learn new skills and knowledge without forgetting the previous ones, with no guaranteed access to previously encountered data, and mitigating the so-called “catastrophic forgetting” phenomenon. Interestingly, by making AI systems able to learn and improve over time without the need for large amounts of new data or computational resources, CL can help at reducing the impact of computationally-expensive and energy-intensive activities; hence, CL can play a key role in the path towards more green AIs, enabling more efficient and sustainable uses of resources. In this work, we describe different methods proposed in the literature to solve CL tasks; we survey different applications, highlighting strengths and weaknesses, with a particular focus on the biomedical context. Furthermore, we discuss how to make the methods more robust and suitable for a wider range of applications.
+SN  - 1573-773X
+UR  - https://doi.org/10.1007/s11063-024-11709-7
+DO  - 10.1007/s11063-024-11709-7
+ID  - Bruno2025
+ER  - 

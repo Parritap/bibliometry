@@ -1,0 +1,17 @@
+TY  - JOUR
+AU  - Flores-Holguín, Norma
+AU  - Frau, Juan
+AU  - Glossman-Mitnik, Daniel
+PY  - 2022
+DA  - 2022/01/11
+TI  - Computational peptidology approach to the study of the chemical reactivity and bioactivity properties of Aspergillipeptide D, a cyclopentapeptide of marine origin
+JO  - Scientific Reports
+SP  - 506
+VL  - 12
+IS  - 1
+AB  - Aspergillipeptide D is a cyclic pentapeptide isolated from the marine gorgonian Melitodes squamata-derived fungus Aspergillus sp. SCSIO 41501 that it has been shown to present moderate activity against herpes virus simplex type 1 (HSV-1). Thus, this paper presents the results of a computational study of this cyclopentapeptide’s chemical reactivity and bioactivity properties using a CDFT-based computational peptidology (CDFT-CP) methodology, which is derived from combining chemical reactivity descriptors derived from Conceptual Density Functional Theory (CDFT) and some Cheminformatics tools which may be used. This results in an improvement of the virtual screening procedure by a similarity search allowing the identification and validation of the known ability of the peptide to act as a possible useful drug. This was followed by an examination of the drug’s bioactivity and pharmacokinetics indices in relation to the ADMET (Absorption, Distribution, Metabolism, Excretion, and Toxicity) characteristics. The findings provide further evidence of the MN12SX density functional’s superiority in proving the Janak and Ionization Energy theorems using the proposed KID approach. This has proven to be beneficial in accurately predicting CDFT reactivity characteristics, which aid in the understanding of chemical reactivity. The Computational Pharmacokinetics study revealed the potential ability of Aspergillipeptide D as a therapeutic drug through the interaction with different target receptors. The ADMET indices confirm this assertion through the absence of toxicity and good absorption and distribution properties.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-021-04513-z
+DO  - 10.1038/s41598-021-04513-z
+ID  - Flores-Holguín2022
+ER  - 

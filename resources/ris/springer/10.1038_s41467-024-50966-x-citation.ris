@@ -1,0 +1,20 @@
+TY  - JOUR
+AU  - Rule, Joshua S.
+AU  - Piantadosi, Steven T.
+AU  - Cropper, Andrew
+AU  - Ellis, Kevin
+AU  - Nye, Maxwell
+AU  - Tenenbaum, Joshua B.
+PY  - 2024
+DA  - 2024/08/10
+TI  - Symbolic metaprogram search improves learning efficiency and explains rule learning in humans
+JO  - Nature Communications
+SP  - 6847
+VL  - 15
+IS  - 1
+AB  - Throughout their lives, humans seem to learn a variety of rules for things like applying category labels, following procedures, and explaining causal relationships. These rules are often algorithmically rich but are nonetheless acquired with minimal data and computation. Symbolic models based on program learning successfully explain rule-learning in many domains, but performance degrades quickly as program complexity increases. It remains unclear how to scale symbolic rule-learning methods to model human performance in challenging domains. Here we show that symbolic search over the space of metaprograms—programs that revise programs—dramatically improves learning efficiency. On a behavioral benchmark of 100 algorithmically rich rules, this approach fits human learning more accurately than alternative models while also using orders of magnitude less search. The computation required to match median human performance is consistent with conservative estimates of human thinking time. Our results suggest that metaprogram-like representations may help human learners to efficiently acquire rules.
+SN  - 2041-1723
+UR  - https://doi.org/10.1038/s41467-024-50966-x
+DO  - 10.1038/s41467-024-50966-x
+ID  - Rule2024
+ER  - 

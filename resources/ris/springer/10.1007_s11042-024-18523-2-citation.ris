@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Rautela, Kamakshi
+AU  - Kumar, Dinesh
+AU  - Kumar, Vijay
+PY  - 2024
+DA  - 2024/09/01
+TI  - A comprehensive review on computational techniques for breast cancer: past, present, and future
+JO  - Multimedia Tools and Applications
+SP  - 76267
+EP  - 76300
+VL  - 83
+IS  - 31
+AB  - Globally, breast cancer is the leading cause of mortality for women. It has had an impact on the lives of all individuals, regardless of gender—males, females, and transgender people. However, it is more common among women. Its fatality rate can be decreased with early discovery and treatment. Machine Learning (ML) is critical to the early detection of breast cancer. ML's use has grown in a variety of fields during the last decade. Analytical modelling with ML is mostly restricted to statistical approaches such as image recognition, resonance spectroscopy, and mass spectrometry. This study gives an in-depth look at breast cancer and the many ML approaches used to identify it. A thorough examination of breast cancer diagnosis using machine learning is provided, comprising classification, prediction, and detection. Technical concerns with present prediction models and measuring methods (used to determine how active malignant and healthy tissues are) are highlighted to make future recommendations.
+SN  - 1573-7721
+UR  - https://doi.org/10.1007/s11042-024-18523-2
+DO  - 10.1007/s11042-024-18523-2
+ID  - Rautela2024
+ER  - 

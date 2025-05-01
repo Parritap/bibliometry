@@ -1,0 +1,15 @@
+TY  - JOUR
+AU  - Chen, Chunmei
+PY  - 2024
+DA  - 2024/06/10
+TI  - Attention Pyramid Convolutional Neural Network Optimized with Big Data for Teaching Aerobics
+JO  - International Journal of Computational Intelligence Systems
+SP  - 142
+VL  - 17
+IS  - 1
+AB  - Aerobics has emerged as a widely embraced cardiovascular exercise, fostering improved fitness through rhythmic movements that enhance heart rate, stamina, endurance, and cardiovascular health. Effective instruction by skilled professionals is crucial for maximizing the benefits of aerobics, ensuring participants' correct and safe performance. This study introduces the concept of Aerobics Movement Teaching, emphasizing its pivotal role in college physical education. The proposed method, Attention Pyramid Convolutional Neural Network optimized with big data for teaching Aerobics (AP-CNN-BTA), focuses on enhancing aesthetic ability and overall human development. Data from the Simple Ocean Data Assimilation Data Set are collected, preprocessed, and utilized in the teaching process using the Attention Pyramid Convolutional Neural Network, specifically designed for efficient aerobics instruction in coastal areas. The resulting data are stored in the cloud and accessed through a human interface unit. The implementation, carried out in Python, undergoes evaluation using various metrics, including accuracy, computational time, sensitivity, specificity, precision, and ROC analysis. The simulation results demonstrate a remarkable improvement, with the proposed technique achieving 36.52%, 39.55%, and 43.75% higher accuracy compared to existing methods such as Exploration on and thinking about aesthetic infiltration in aerobics teaching in colleges and universities(ETAI-AT-CU), sea level height depending on big data of the Internet of Things along aerobics teaching in coastal regions(SLH-BD-IOT-ATC), and impact of deep learning-based curriculum's ideological and political integration on sports aerobics instruction design(IP-CDL-TDTA), respectively. This research contributes to advancing the efficacy of aerobics instruction, particularly in coastal regions, and underscores the significance of comprehensive student development through high-quality education.
+SN  - 1875-6883
+UR  - https://doi.org/10.1007/s44196-024-00514-8
+DO  - 10.1007/s44196-024-00514-8
+ID  - Chen2024
+ER  - 

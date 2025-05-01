@@ -1,0 +1,16 @@
+TY  - JOUR
+AU  - Jin, Zean
+AU  - Bai, Yulong
+AU  - Song, Wei
+AU  - Yu, Qinghe
+AU  - Yue, Xiaoxin
+PY  - 2024
+DA  - 2024/11/07
+TI  - EduCodeVR: VR for programming teaching through simulated farm and traffic
+JO  - The Visual Computer
+AB  - Virtual reality (VR) technology has revolutionized science, technology, engineering, arts, and mathematics (STEAM) education by simulating real-world environments, offering innovative learning methods. This study focuses on designing an educational system within VR for Arduino UNO microcontroller development. Students engage in graphical programming and hardware integration of the Arduino UNO within VR environments, implementing intelligent control of farms and traffic. This approach helps students grasp practical applications of the Arduino UNO in real production contexts, further cultivating their programming skills and fostering innovative thinking. We conducted Arduino courses tailored for programming beginners, assessing the usability of EduCodeVR and its impact on students through learning outcome tests and VR system usability assessments. The results demonstrate that EduCodeVR, which uses STEAM education methodologies, effectively enhances users’ comprehensive literacy and computational thinking, highlighting the significant potential of integrating VR programming courses into STEAM education. Through this innovative teaching approach, students not only acquire knowledge, but also enjoy the pleasures of immersive learning.
+SN  - 1432-2315
+UR  - https://doi.org/10.1007/s00371-024-03699-3
+DO  - 10.1007/s00371-024-03699-3
+ID  - Jin2024
+ER  - 

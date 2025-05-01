@@ -1,0 +1,12 @@
+TY  - JOUR
+AU  - Groß, Richard
+PY  - 2024
+DA  - 2024/09/26
+TI  - Stochastic contingency machines feeding on meaning: on the computational determination of social reality in machine learning
+JO  - AI & SOCIETY
+AB  - In this paper, I reflect on the puzzle that machine learning presents to social theory to develop an account of its distinct impact on social reality.   I start by presenting how machine learning has presented a challenge to social theory as a research subject comprising both familiar and alien characteristics (1.). Taking this as an occasion for theoretical inquiry, I then propose a conceptual framework to investigate how algorithmic models of social phenomena relate to social reality and what their stochastic mode of operation entails in terms of their sociality (2.). Analyzed through a theoretical lens that relies on central tenets of sociological systems theory, I find that machine learning implies a distinct epistemic transformation, based on how algorithmic modeling techniques process meaning as represented in data embedded in vector space. Building on this characterization, I introduce my conceptualization of stochastic technology as distinct from mechanistic technologies that rely on causal fixation (3.). Based on this understanding, I suggest that real-world applications of machine learning are often characterized by a constitutive tension between the stochastic properties of their outputs and the ways in which they are put to use in practice. Focussing on the large language models LaMDA and ChatGPT, I examine the epistemological implications of LLMs to account for the confusion of correlation and causality as the root of this tension. Next, I illustrate my theoretical conception by way of discussing an essay on image models by German media artist Hito Steyerl (4.).  Following a critical reflection on Steyerl's characterization of Stable Diffusion as a “white box ”, I finally propose to conceive ofmachine learning-based technologies as stochastic contingency machines that transform social indeterminacy into contingent observations of social phenomena (5.) In this perspective, machine learning constitutes an epistemic technology that operates on meaning as extractable from data by means of algorithmic data modeling techniques to produce stochastic accounts of social reality.
+SN  - 1435-5655
+UR  - https://doi.org/10.1007/s00146-024-02079-8
+DO  - 10.1007/s00146-024-02079-8
+ID  - Groß2024
+ER  - 

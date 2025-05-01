@@ -1,0 +1,14 @@
+TY  - JOUR
+AU  - Gong, Xin
+AU  - Li, Zhixia
+AU  - Qiao, Ailing
+PY  - 2024
+DA  - 2024/12/09
+TI  - Impact of generative AI dialogic feedback on different stages of programming problem solving
+JO  - Education and Information Technologies
+AB  - Feedback is crucial during programming problem solving, but context often lacks critical and difference. Generative artificial intelligence dialogic feedback (GenAIDF) has the potential to enhance learners’ experience through dialogue, but its effectiveness remains sufficiently underexplored in empirical research. This study employed a rigorous quasi-experimental design and collected multidimensional data through mixed methods to investigate the impact of GenAIDF at different stages of programming problem-solving on high school students’ programming skills and critical thinking. One hundred seventy-two high school students from four distinct classes participated in this study. We established three experimental groups, introducing GenAIDF during the code writing (CAG, NCAG = 43), verification debugging (DAG, NDAG = 43), and both code writing and verification debugging (CDAG, NCDAG = 43) stages, and one control group, without GenAIDF introduced at any stage (NAG, NNAG = 43). The results indicated that, first, in terms of programming skills, the three experimental groups exhibited no significant difference in their programming knowledge, yet they significantly outperformed the control group. CAG excelled in programming project performance, while DAG excelled in structure. CDAG excelled in functions but had poor plagiarism scores. Second, regarding critical thinking skills, DAG performed best, followed by CAG, CDAG, and NAG, with significant differences observed among the four groups. Finally, student interviews revealed increased learning engagement, satisfaction, and critical thinking consciousness. Based on these findings, the study provides empirical recommendations for teachers on effectively utilizing GenAIDF in the future.
+SN  - 1573-7608
+UR  - https://doi.org/10.1007/s10639-024-13173-1
+DO  - 10.1007/s10639-024-13173-1
+ID  - Gong2024
+ER  - 

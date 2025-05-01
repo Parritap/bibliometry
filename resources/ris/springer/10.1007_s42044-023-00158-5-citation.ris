@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Ikegwu, Anayo Chukwu
+AU  - Nweke, Henry Friday
+AU  - Anikwe, Chioma Virginia
+PY  - 2024
+DA  - 2024/03/01
+TI  - Recent trends in computational intelligence for educational big data analysis
+JO  - Iran Journal of Computer Science
+SP  - 103
+EP  - 129
+VL  - 7
+IS  - 1
+AB  - Educational big data analytics and computational intelligence have transformed our understanding of learning ability and computing power, catalyzing the emergence of Education 4.0. However, educators and researchers still struggle to identify appropriate methods to analyze the diverse data generated within educational environments. The complexity and uncertainty inherent in heterogeneous and homogeneous data often compound these challenges. This study aims to explore the potential applications of computational intelligence methods to support educational big data analysis. We begin by discussing the processes involved in educational big data analytics (EDA), including data collection, data preprocessing, feature extraction, modeling, and evaluation. We then provided an extensive review of computational intelligence and its methods, including artificial intelligence approaches, machine learning methods, deep learning methods, meta-heuristic optimization approaches, ensemble techniques, and the Markov model, as applied to educational big data analysis. Furthermore, we discussed novel application areas for computational intelligence in education, including predicting academic performance, social network analysis, detecting undesirable student behaviors, adaptive curriculum sequencing and personalization, courseware development, and decision support systems. We also mapped various computational intelligence methods to these novel application areas. Despite the progress made in educational big data analytics implementation, challenging research areas still require further investigation. These research areas include enhanced academic performance prediction, data-driven intelligent tutoring systems, adversarial machine learning, student engagement, personalized learning, and more. In this paper, we briefly discussed these ten important research directions.
+SN  - 2520-8446
+UR  - https://doi.org/10.1007/s42044-023-00158-5
+DO  - 10.1007/s42044-023-00158-5
+ID  - Ikegwu2024
+ER  - 

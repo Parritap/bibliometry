@@ -1,0 +1,16 @@
+TY  - JOUR
+AU  - Androulakis, Ioannis P.
+PY  - 2024
+DA  - 2024/10/01
+TI  - Towards a comprehensive assessment of QSP models: what would it take?
+JO  - Journal of Pharmacokinetics and Pharmacodynamics
+SP  - 521
+EP  - 531
+VL  - 51
+IS  - 5
+AB  - Quantitative Systems Pharmacology (QSP) has emerged as a powerful ensemble of approaches aiming at developing integrated mathematical and computational models elucidating the complex interactions between pharmacology, physiology, and disease. As the field grows and matures its applications expand beyond the boundaries of research and development and slowly enter the decision making and regulatory arenas. However, widespread acceptance and eventual adoption of a new modeling approach requires assessment criteria and quantifiable metrics that establish credibility and increase confidence in model predictions. QSP aims to provide an integrated understanding of pathology in the context of therapeutic interventions. Because of its ambitious nature and the fact that QSP emerged in an uncoordinated manner as a result of activities distributed across organizations and academic institutions, high entropy characterizes the tools, methods, and computational methodologies and approaches used. The eventual acceptance of QSP model predictions as supporting material for an application to a regulatory agency will require that two key aspects are considered: (1) increase confidence in the QSP framework, which drives standardization and assessment; and (2) careful articulation of the expectations. Both rely heavily on our ability to rigorously and consistently assess QSP models. In this manuscript, we wish to discuss the meaning and purpose of such an assessment in the context of QSP model development and elaborate on the differentiating features of QSP that render such an endeavor challenging. We argue that QSP establishes a conceptual, integrative framework rather than a specific and well-defined computational methodology. QSP elicits the use of a wide variety of modeling and computational methodologies optimized with respect to specific applications and available data modalities, which exceed the data structures employed by chemometrics and PK/PD models. While the range of options fosters creativity and promises to substantially advance our ability to design pharmaceutical interventions rationally and optimally, our expectations of QSP models need to be clearly articulated and agreed on, with assessment emphasizing the scope of QSP studies rather than the methods used. Nevertheless, QSP should not be considered an independent approach, rather one of many in the broader continuum of computational models.
+SN  - 1573-8744
+UR  - https://doi.org/10.1007/s10928-022-09820-0
+DO  - 10.1007/s10928-022-09820-0
+ID  - Androulakis2024
+ER  - 

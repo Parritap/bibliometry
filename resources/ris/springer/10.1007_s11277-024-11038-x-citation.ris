@@ -1,0 +1,14 @@
+TY  - JOUR
+AU  - Zhang, Yangloucai
+AU  - Azizui, Muhammad Farid Azizul Bin
+AU  - Yan, Cong
+PY  - 2024
+DA  - 2024/05/15
+TI  - The Application of 6G and Augmented Reality Technology in Education and Training
+JO  - Wireless Personal Communications
+AB  - The short evolution of 6G and augmented reality (AR) technology heralds a transformative era in education and training, promising to redefine traditional learning paradigms using immersive, interactive reports. This paper explores the integration of advanced capsule networks (CapsNet) architectures with semantic segmentation techniques to cope with the inherent annoying conditions of applying 6G and AR in academic contexts. CapsNets, well known for its efficiency in discerning spatial hierarchies and relationships, are paired with semantic segmentation to enhance object recognition and interplay within AR environments. It offers a deep, contextual understanding essential for growing dynamic, personalised learning studies. The synergy among this technology allows for the unique delineation and classification of each image pixel into corresponding object training, facilitating seamless interaction among virtual content and the real world. Need of the highly dependable, low-latency communication exchange skills of 6G, this combination guarantees powerful processing of complex scenes in real-time, crucial for preserving student engagement and facilitating adaptive learning pathways. The paper discusses optimisation techniques for real-time performance, including version pruning and effective routing mechanisms, to cope with the computational needs of CapsNets and semantic segmentation. Moreover, it highlights the role of 6G in assisting the bandwidth and latency necessities critical for deploying these state-of-the-art AI models in AR-based instructional programs. Through this integration, we aim to release new potentials for personalised, context-aware learning experiences, which can considerably enhance knowledge retention, engagement, and accessibility in education and training across various fields.
+SN  - 1572-834X
+UR  - https://doi.org/10.1007/s11277-024-11038-x
+DO  - 10.1007/s11277-024-11038-x
+ID  - Zhang2024
+ER  - 

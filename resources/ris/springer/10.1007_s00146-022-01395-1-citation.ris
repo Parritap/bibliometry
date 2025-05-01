@@ -1,0 +1,16 @@
+TY  - JOUR
+AU  - König, Pascal D.
+PY  - 2024
+DA  - 2024/02/01
+TI  - Challenges in enabling user control over algorithm-based services
+JO  - AI & SOCIETY
+SP  - 195
+EP  - 205
+VL  - 39
+IS  - 1
+AB  - Algorithmic systems that provide services to people by supporting or replacing human decision-making promise greater convenience in various areas. The opacity of these applications, however, means that it is not clear how much they truly serve their users. A promising way to address the issue of possible undesired biases consists in giving users control by letting them configure a system and aligning its performance with users’ own preferences. However, as the present paper argues, this form of control over an algorithmic system demands an algorithmic literacy that also entails a certain way of making oneself knowable: users must interrogate their own dispositions and see how these can be formalized such that they can be translated into the algorithmic system. This may, however, extend already existing practices through which people are monitored and probed and means that exerting such control requires users to direct a computational mode of thinking at themselves.
+SN  - 1435-5655
+UR  - https://doi.org/10.1007/s00146-022-01395-1
+DO  - 10.1007/s00146-022-01395-1
+ID  - König2024
+ER  - 

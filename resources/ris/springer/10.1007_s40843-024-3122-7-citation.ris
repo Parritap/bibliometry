@@ -1,0 +1,24 @@
+TY  - JOUR
+AU  - Zhang, Xianghong
+AU  - Qin, Congyao
+AU  - Peng, Wenhong
+AU  - Qin, Ningpu
+AU  - Cheng, Enping
+AU  - Wu, Jianxin
+AU  - Fan, Yuyang
+AU  - Yang, Qian
+AU  - Chen, Huipeng
+PY  - 2024
+DA  - 2024/12/01
+TI  - Memristor-based in-situ convolutional strategy for accurate braille recognition
+JO  - Science China Materials
+SP  - 3986
+EP  - 3993
+VL  - 67
+IS  - 12
+AB  - Signal processing has entered the era of big data, and improving processing efficiency becomes crucial. Traditional computing architectures face computational efficiency limitations due to the separation of storage and computation. Array circuits based on multi-conductor devices enable full hardware convolutional neural networks (CNNs), which hold great potential to improve computational efficiency. However, when processing large-scale convolutional computations, there is still a significant amount of device redundancy, resulting in low computational power consumption and high computational costs. Here, we innovatively propose a memristor-based in-situ convolutional strategy, which uses the dynamic changes in the conductive wire, doping area, and polarization area of memristors as the process of convolutional operations, and uses the time required for conductance switching of a single device as the computation result, embodying convolutional computation through the unique spiked digital signal of the memristor. Our strategy reasonably encodes complex analog signals into simple digital signals through a memristor, completing the convolutional computation at the device level, which is essential for complex signal processing and computational efficiency improvement. Based on the implementation of device-level convolutional computing, we have achieved feature recognition and noise filtering for braille signals. We believe that our successful implementation of convolutional computing at the device level will promote the construction of complex CNNs with large-scale convolutional computing capabilities, bringing innovation and development to the field of neuromorphic computing.
+SN  - 2199-4501
+UR  - https://doi.org/10.1007/s40843-024-3122-7
+DO  - 10.1007/s40843-024-3122-7
+ID  - Zhang2024
+ER  - 

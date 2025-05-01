@@ -1,0 +1,20 @@
+TY  - JOUR
+AU  - García, Susana Román
+AU  - Welsh, Ceilidh
+AU  - Di Cara, Nina H.
+AU  - Sterratt, David C.
+AU  - Romanò, Nicola
+AU  - Stefan, Melanie I.
+PY  - 2025
+DA  - 2025/02/19
+TI  - Data Hazards as An Ethical Toolkit for Neuroscience
+JO  - Neuroethics
+SP  - 15
+VL  - 18
+IS  - 1
+AB  - The Data Hazards framework (Zelenka, Di Cara, & Contributors, 2024) is intended to encourage thinking about the ethical implications of data science projects. It takes the form of community-designed data hazard labels, similar to warning labels on chemicals, that can encourage reflection and discussion on what ethical risks are associated with a project and how they can be mitigated. In this article, we explain how the Data Hazards framework can apply to neuroscience. We demonstrate how the hazard labels can be applied to one of our own projects, on the computational modelling of postsynaptic mechanisms.
+SN  - 1874-5504
+UR  - https://doi.org/10.1007/s12152-024-09580-3
+DO  - 10.1007/s12152-024-09580-3
+ID  - García2025
+ER  - 

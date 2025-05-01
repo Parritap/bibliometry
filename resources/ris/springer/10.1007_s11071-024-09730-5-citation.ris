@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Yang, Kai
+AU  - Sun, Xiaojuan
+AU  - Zhu, Sheng
+PY  - 2024
+DA  - 2024/08/01
+TI  - The heterogeneous population of granule cells contributes to pattern separation of the dentate gyrus neural network
+JO  - Nonlinear Dynamics
+SP  - 13465
+EP  - 13481
+VL  - 112
+IS  - 15
+AB  - The dentate gyrus (DG) is crucial for distinguishing similar events through pattern separation. It has been proposed that sparse firing granule cells (GCs) perform these computational functions in the DG. GCs are the principal neurons of the DG, and it has been reported that they form a heterogeneous population, including semilunar granule cells (SGCs) and adult-born granule cells (adult-born GCs), both of which have different physiological properties from the GCs. Given their undeniable interactions with GCs, it is important to investigate how the different subpopulations of GCs contribute to pattern separation. By constructing a biologically relevant computational model of the DG, we found that SGCs and adult-born GCs can dynamically regulate pattern separation. Specifically, SGCs and 4–8-week-old adult-born GCs contribute to pattern separation. However, 0–4-week-old adult-born GCs initially increase pattern separation efficiency, then decrease it. Furthermore, SGCs and 4–8-week-old adult-born GCs enhance the sparse firing of GCs, thereby improving pattern separation efficiency. Regarding 0–4-week-old adult-born GCs, the net effect of mossy cells (MCs) on GCs shifts from inhibition to excitation as adult-born GCs mature, resulting in a decrease in pattern separation efficiency.
+SN  - 1573-269X
+UR  - https://doi.org/10.1007/s11071-024-09730-5
+DO  - 10.1007/s11071-024-09730-5
+ID  - Yang2024
+ER  - 

@@ -1,0 +1,17 @@
+TY  - JOUR
+AU  - Cummiskey, Kevin
+AU  - Lübke, Karsten
+PY  - 2022
+DA  - 2022/12/01
+TI  - Causality in statistics and data science education
+JO  - AStA Wirtschafts- und Sozialstatistisches Archiv
+SP  - 277
+EP  - 286
+VL  - 16
+IS  - 3
+AB  - Statisticians and data scientists transform raw data into understanding and insight. Ideally, these insights empower people to act and make better decisions. However, data is often misleading especially when trying to draw conclusions about causality (for example, Simpson’s paradox). Therefore, developing causal thinking in undergraduate statistics and data science programs is important. However, there is very little guidance in the education literature about what topics and learning outcomes, specific to causality, are most important. In this paper, we propose a causality curriculum for undergraduate statistics and data science programs. Students should be able to think causally, which is defined as a broad pattern of thinking that enables individuals to appropriately assess claims of causality based upon statistical evidence. They should understand how the data generating process affects their conclusions and how to incorporate knowledge from subject matter experts in areas of application. Important topics in causality for the undergraduate curriculum include the potential outcomes framework and counterfactuals, measures of association versus causal effects, confounding, causal diagrams, and methods for estimating causal effects.
+SN  - 1863-8163
+UR  - https://doi.org/10.1007/s11943-022-00311-9
+DO  - 10.1007/s11943-022-00311-9
+ID  - Cummiskey2022
+ER  - 

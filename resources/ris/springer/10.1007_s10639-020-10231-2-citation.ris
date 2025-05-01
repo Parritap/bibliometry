@@ -1,0 +1,17 @@
+TY  - JOUR
+AU  - Kang, Younah
+AU  - Lee, Keeheon
+PY  - 2020
+DA  - 2020/11/01
+TI  - Designing technology entrepreneurship education using computational thinking
+JO  - Education and Information Technologies
+SP  - 5357
+EP  - 5377
+VL  - 25
+IS  - 6
+AB  - While Computational thinking (CT) has been adopted in various educational settings, it has not been fully utilized in entrepreneurship education. In particular, technology entrepreneurship education involves project-based learning for creating business value. To help students improve learning outcomes, we propose a new framework of entrepreneurship education that combines business model development and CT. We applied this framework to a capstone course for social innovation, in which undergraduate students were asked to define a social problem, develop a solution, and finally implement the appropriate products and services using Arduino, Raspberry Pi, sensors, and actuators. To evaluate the students’ learning outcomes, we conducted a survey and an interview after the course had finished. The results demonstrate that the students acquired various skills, including technical and implementation skills, and that their awareness of the broad applicability of computing increased. It was also determined that students’ self-efficacy in terms of their software development abilities increased as a result of the course. We discuss the benefits of the various strategies used in the design and implementation of the course and issues that need to be discussed further. Finally, we provide guidelines for designing and implementing CT-based project courses.
+SN  - 1573-7608
+UR  - https://doi.org/10.1007/s10639-020-10231-2
+DO  - 10.1007/s10639-020-10231-2
+ID  - Kang2020
+ER  - 

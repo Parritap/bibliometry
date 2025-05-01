@@ -1,0 +1,12 @@
+TY  - JOUR
+AU  - Garcia, Manuel B.
+PY  - 2024
+DA  - 2024/10/08
+TI  - Profiling the skill mastery of introductory programming students: A cognitive diagnostic modeling approach
+JO  - Education and Information Technologies
+AB  - The global shortage of skilled programmers remains a persistent challenge. High dropout rates in introductory programming courses pose a significant obstacle to graduation. Previous studies highlighted learning difficulties in programming students, but their specific weaknesses remained unclear. This gap exists due to the predominant focus on the overall academic performance evaluation. To address this gap, this study employed cognitive diagnostic modeling (CDM) to profile the skill mastery of programming students. An empirical analysis was conducted to select the most appropriate model for the data, and the linear logistic model (LLM) was determined to be the best fit. Final examination results from 308 information technology (IT) and 279 computer science (CS) students were analyzed using the LLM. Unfortunately, findings revealed that programming students exhibited proficiency primarily in code tracing and language proficiency but displayed deficits in theoretical understanding, logical reasoning, and algorithmic thinking. From a practical standpoint, this deficiency in fundamental skills sheds light on the factors contributing to academic failures and potentially eventual dropout in programming education. When comparing the student population by academic program, CS students demonstrated superior mastery compared to their IT counterparts, although both groups exhibited a lack of mastery in code tracing. These deviations underscore the pressing need for tailored educational strategies that address the unique strengths and weaknesses of each student group. Overall, this study offers valuable insights into programming education literature and contributes to the expanding application of CDM in educational research.
+SN  - 1573-7608
+UR  - https://doi.org/10.1007/s10639-024-13039-6
+DO  - 10.1007/s10639-024-13039-6
+ID  - Garcia2024
+ER  - 

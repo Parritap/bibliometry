@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Düring, Bertram
+AU  - Franceschi, Jonathan
+AU  - Wolfram, Marie-Therese
+AU  - Zanella, Mattia
+PY  - 2024
+DA  - 2024/07/01
+TI  - Breaking Consensus in Kinetic Opinion Formation Models on Graphons
+JO  - Journal of Nonlinear Science
+SP  - 79
+VL  - 34
+IS  - 4
+AB  - In this work, we propose and investigate a strategy to prevent consensus in kinetic models for opinion formation. We consider a large interacting agent system and assume that agent interactions are driven by compromise as well as self-thinking dynamics and also modulated by an underlying static social network. This network structure is included using so-called graphons, which modulate the interaction frequency in the corresponding kinetic formulation. We then derive the corresponding limiting Fokker–Planck equation and analyze its large time behavior. This microscopic setting serves as a starting point for the proposed control strategy, which steers agents away from mean opinion and is characterized by a suitable penalization depending on the properties of the graphon. We show that this minimalist approach is very effective by analyzing the quasi-stationary solution mean-field model in a plurality of graphon structures. Several numerical experiments are also provided to show the effectiveness of the approach in preventing the formation of consensus steering the system toward a declustered state.
+SN  - 1432-1467
+UR  - https://doi.org/10.1007/s00332-024-10060-4
+DO  - 10.1007/s00332-024-10060-4
+ID  - Düring2024
+ER  - 

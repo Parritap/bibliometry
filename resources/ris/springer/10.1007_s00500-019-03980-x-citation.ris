@@ -1,0 +1,17 @@
+TY  - JOUR
+AU  - Li, Huihui
+AU  - Wen, Guihua
+PY  - 2020
+DA  - 2020/01/01
+TI  - Modeling reverse thinking for machine learning
+JO  - Soft Computing
+SP  - 1483
+EP  - 1496
+VL  - 24
+IS  - 2
+AB  - Human inertial thinking schemes can be formed through learning, which are then applied to quickly solve similar problems later. However, when problems are significantly different, inertial thinking generally presents the solutions that are definitely imperfect. In such cases, people will apply creative thinking, such as reverse thinking, to solve problems. Similarly, machine learning methods also form inertial thinking schemes through learning the knowledge from a large amount of data. However, when the testing samples are vastly different, the formed inertial thinking schemes will inevitably generate errors. This kind of inertial thinking is called illusion inertial thinking. Because all machine learning methods do not consider the illusion inertial thinking, in this paper we propose a new method that uses the reverse thinking to correct the illusion inertial thinking, which increases the generalization ability of machine learning methods. Experimental results on benchmark data sets validated the proposed method.
+SN  - 1433-7479
+UR  - https://doi.org/10.1007/s00500-019-03980-x
+DO  - 10.1007/s00500-019-03980-x
+ID  - Li2020
+ER  - 

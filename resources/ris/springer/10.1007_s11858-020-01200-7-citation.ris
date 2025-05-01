@@ -1,0 +1,17 @@
+TY  - JOUR
+AU  - Ng, Oi-Lam
+AU  - Cui, Zhihao
+PY  - 2021
+DA  - 2021/08/01
+TI  - Examining primary students’ mathematical problem-solving in a programming context: towards computationally enhanced mathematics education
+JO  - ZDM – Mathematics Education
+SP  - 847
+EP  - 860
+VL  - 53
+IS  - 4
+AB  - This paper reports on a design-based study within the context of a 3-day digital making (DM) summer camp attended by a group of students (aged 11–13) in grades 5 and 6. During the camp, students were presented with a set of mathematical problems to solve in a block-based programming environment, which was connected to various physical input sensors and output devices (e.g., push buttons, LED lights, number displays, etc.). Students’ code files, and screen captures of their computer work, were analyzed in terms of their developed computational problem-solving practices and any computational concepts that emerged during the problem-based DM. The results suggested that the designed tasks consistently supported the students’ modeling and algorithmic thinking, while also occasioning their testing and debugging practices; moreover, the students utilized computational abstractions in the form of variables, and employed different approaches, to formulate mathematical models in a programming context. This study contributes to the ‘big picture’ of how using computers might fundamentally change mathematics learning, with an emphasis on mathematical problem-solving. It also provides empirically grounded evidence to enhance the potential of computational thinking as a new literacy, and problem-solving as a global competence, in formal school settings.
+SN  - 1863-9704
+UR  - https://doi.org/10.1007/s11858-020-01200-7
+DO  - 10.1007/s11858-020-01200-7
+ID  - Ng2021
+ER  - 

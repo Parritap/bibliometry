@@ -1,0 +1,20 @@
+TY  - JOUR
+AU  - Li, Feng
+AU  - Wang, Xi
+AU  - He, Xiaona
+AU  - Cheng, Liang
+AU  - Wang, Yiyu
+PY  - 2022
+DA  - 2022/07/01
+TI  - The effectiveness of unplugged activities and programming exercises in computational thinking education: A Meta-analysis
+JO  - Education and Information Technologies
+SP  - 7993
+EP  - 8013
+VL  - 27
+IS  - 6
+AB  - This study adopted a meta-analysis to explore the effectiveness of unplugged activities (UA) and programming exercises (PE) teaching approaches on computational thinking (CT) education. Through a two-stage literature collection and selection process, 29 articles were included in the meta-analysis, 31 independent effect sizes (16 of UA and 15 of PE) from these articles were used, and a total of 2,764 participants were involved in these studies. CMA software version 3.3 was used to analyze the collected data. The result of the meta-analysis showed that both the UA and PE teaching approaches are useful in cultivating students’ CT. Besides, the effect of the PE teaching approach is better than the UA teaching approach in CT education. Moreover, we analyzed the effect of moderator variables (grade level, interdisciplinary course, and experiments duration) on the relationship between UA or PE and CT education. The results showed that the effects of UA teaching approach in CT education was stronger (a) for primary school students than for secondary school students, (b) in interdisciplinary courses than in computer science courses, (c) with long duration teaching experiments than with medium and short duration teaching experiments. However, these effects are not significant. The effects of the PE teaching approach in CT education were stronger (a) for secondary school students than for primary school students, (b) in interdisciplinary courses than in computer science courses, (c) with short duration teaching experiments than with long and medium duration teaching experiments. These effects are not significant either. Therefore, we suggest that (1) the UA teaching approach should be used more for primary school students, while the PE teaching approach should be used more for secondary students; (2) CT education should be integrated into other subjects through UA and PE teaching approaches, and (3) the UA teaching approach requires more teaching time than the PE teaching approach does in CT education.
+SN  - 1573-7608
+UR  - https://doi.org/10.1007/s10639-022-10915-x
+DO  - 10.1007/s10639-022-10915-x
+ID  - Li2022
+ER  - 

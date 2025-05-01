@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Sikström, Sverker
+AU  - Valavičiūtė, Ieva
+AU  - Kuusela, Inari
+AU  - Evors, Nicole
+PY  - 2024
+DA  - 2024/05/23
+TI  - Question-based computational language approach outperforms rating scales in quantifying emotional states
+JO  - Communications Psychology
+SP  - 45
+VL  - 2
+IS  - 1
+AB  - Psychological constructs are commonly quantified with closed-ended rating scales. However, recent advancements in natural language processing (NLP) enable the quantification of open-ended language responses. Here we demonstrate that descriptive word responses analyzed using NLP show higher accuracy in categorizing emotional states compared to traditional rating scales. One group of participants (N = 297) generated narratives related to depression, anxiety, satisfaction, or harmony, summarized them with five descriptive words, and rated them using rating scales. Another group (N = 434) evaluated these narratives (with descriptive words and rating scales) from the author’s perspective. The descriptive words were quantified using NLP, and machine learning was used to categorize the responses into the corresponding emotional states. The results showed a significantly higher number of accurate categorizations of the narratives based on descriptive words (64%) than on rating scales (44%), questioning the notion that rating scales are more precise in measuring emotional states than language-based measures.
+SN  - 2731-9121
+UR  - https://doi.org/10.1038/s44271-024-00097-2
+DO  - 10.1038/s44271-024-00097-2
+ID  - Sikström2024
+ER  - 

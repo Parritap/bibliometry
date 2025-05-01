@@ -1,0 +1,19 @@
+TY  - JOUR
+AU  - Lettieri, Nicola
+AU  - Guarino, Alfonso
+AU  - Malandrino, Delfina
+AU  - Zaccagnino, Rocco
+PY  - 2023
+DA  - 2023/12/01
+TI  - Knowledge mining and social dangerousness assessment in criminal justice: metaheuristic integration of machine learning and graph-based inference
+JO  - Artificial Intelligence and Law
+SP  - 653
+EP  - 702
+VL  - 31
+IS  - 4
+AB  - One of the main challenges for computational legal research is drawing up innovative heuristics to derive actionable knowledge from legal documents. While a large part of the research has been so far devoted to the extraction of purely legal information, less attention has been paid to seeking out in the texts the clues of more complex entities: legally relevant facts whose detection requires to link and interpret, as a unified whole, legal information and results of empirical analyses. This paper presents an ongoing research that points in this direction, trying to devise new ways to support public prosecutors in assessing the dangerousness of individuals and groups under investigation, an activity that precisely relies on the cross-sectional evaluation of legal and empirical data. A knowledge mining strategy will be outlined that lines up, into a single metaheuristic model, information extraction, network-based inference, machine learning and visual analytics. We will focus, in particular, on the integration of graph-based inference and machine learning methods used both to support classification tasks and to explore new forms of man-machine cooperation. Experiments made involving public prosecutors from the Italian Anti-Mafia Investigation Directorate and using data from real investigations have not only shown the potentialities of our approach but also offered an opportunity to reflect on the role we could assign to AI when thinking about the future of legal science and practice.
+SN  - 1572-8382
+UR  - https://doi.org/10.1007/s10506-022-09334-7
+DO  - 10.1007/s10506-022-09334-7
+ID  - Lettieri2023
+ER  - 

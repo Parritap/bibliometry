@@ -1,0 +1,16 @@
+TY  - JOUR
+AU  - Martinez, Antonio Estevan
+PY  - 2024
+DA  - 2024/04/01
+TI  - Using Python to Reason About Logic and Set Theory: Three Instrumented Action Schemes
+JO  - Digital Experiences in Mathematics Education
+SP  - 1
+EP  - 28
+VL  - 10
+IS  - 1
+AB  - Many areas of mathematics naturally lend themselves to machine-based computing environments, which suggests that computational environments may serve as useful mediating tools for the teaching and learning of mathematical content. While some mathematics classes are leveraging the use of computational tools, the implementation of computer programming to teach and learn mathematics is not widespread. In this study, I highlight the mathematical activity of four undergraduate students who used Python to solve mathematical tasks in the context of set theory and logic. To understand how the students leveraged the computer programming environment, I use the analytical framework known as the instrumental approach, which can be utilized to investigate the confluence of an artifact (often a piece of technology) and the human mind to solve a mathematical problem. Results indicate that the students were able to use Python and its computational capabilities such as For Loops, If Statements, and Functions as artifacts to reason about propositional statements, set intersection, and subsets. Specifically, three instrumented action schemes emerged from their work on three different tasks. These schemes describe the use of Python in creative ways to solve mathematical tasks, which suggests various implications for teaching and research.
+SN  - 2199-3254
+UR  - https://doi.org/10.1007/s40751-023-00130-9
+DO  - 10.1007/s40751-023-00130-9
+ID  - Martinez2024
+ER  - 

@@ -1,0 +1,19 @@
+TY  - JOUR
+AU  - Ahmadi, Narges
+AU  - Lee, Jieun
+AU  - Godiya, Chirag Batukbhai
+AU  - Kim, Jong-Man
+AU  - Park, Bum Jun
+PY  - 2024
+DA  - 2024/07/19
+TI  - A single-particle mechanofluorescent sensor
+JO  - Nature Communications
+SP  - 6094
+VL  - 15
+IS  - 1
+AB  - Monitoring mechanical stresses in microchannels is challenging. Herein, we report the development of a mechanofluorescence sensor system featuring a fluorogenic single polydiacetylene (PDA) particle, fabricated using a co-flow microfluidic method. We construct a stenotic vessel-mimicking capillary channel, in which the hydrodynamically captured PDA particle is subjected to controlled fluid flows. Fluorescence responses of the PDA particle are directly monitored in real time using fluorescent microscopy. The PDA particle displays significant nonlinear fluorescence emissions influenced by fluid viscosity and the presence of nanoparticles and biomolecules in the fluid. This nonlinear response is likely attributed to the torsion energy along the PDA’s main chain backbone. Computational fluid dynamic simulations indicate that the complete blue-to-red transition necessitates ~307 μJ, aligning with prior research. We believe this study offers a unique advantage for simulating specific problematic regions of the human body in an in vitro environment, potentially paving the way for future exploration of difficult-to-access areas within the body.
+SN  - 2041-1723
+UR  - https://doi.org/10.1038/s41467-024-50361-6
+DO  - 10.1038/s41467-024-50361-6
+ID  - Ahmadi2024
+ER  - 

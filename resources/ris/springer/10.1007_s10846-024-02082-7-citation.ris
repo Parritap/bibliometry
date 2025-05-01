@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Costa Junior, Almir de O.
+AU  - Guedes, Elloá B.
+AU  - Lima e Silva, João Paulo F.
+AU  - Rivera, José Anglada
+PY  - 2024
+DA  - 2024/03/18
+TI  - Developing Computational Thinking in Middle School with an Educational Robotics Resource
+JO  - Journal of Intelligent & Robotic Systems
+SP  - 49
+VL  - 110
+IS  - 2
+AB  - Computational Thinking has been recognized as an essential skill to be developed in individuals of the 21st Century. Various initiatives worldwide have been proposed to establish the most effective educational strategies and resources to support the development of these skills. With the publication of the Standards for Computing in Basic Education in Brazil (Complement to the National Base Common Curricular), Computer Science is expected to be taught as a fundamental science from Early Childhood Education to High School. In this context, this study presents the results of the students’ learning and the usability evaluation of the ThinkCarpet: an interactive educational robotics artifact built using alternative materials and Arduino, with the purpose of aiding in the development of the concept of algorithms in students from Middle School. Regarding the students’ learning, an average of 93.75% of valid solutions was observed for the algorithms validated through the use of the ThinkCarpet. In contrast, only 62% of valid solutions were identified in activities outside the proposed resource. As for the results of the application of the System Usability Scale (SUS), the results show a score of 83.59, which classifies the ThinkCarpet as excellent in a realistic scenario.
+SN  - 1573-0409
+UR  - https://doi.org/10.1007/s10846-024-02082-7
+DO  - 10.1007/s10846-024-02082-7
+ID  - Costa Junior2024
+ER  - 

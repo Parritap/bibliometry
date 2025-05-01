@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Katchapakirin, Kantinee
+AU  - Anutariya, Chutiporn
+AU  - Supnithi, Thepchai
+PY  - 2022
+DA  - 2022/07/01
+TI  - ScratchThAI: A conversation-based learning support framework for computational thinking development
+JO  - Education and Information Technologies
+SP  - 8533
+EP  - 8560
+VL  - 27
+IS  - 6
+AB  - Computational Thinking (CT) has been formally incorporated into the National Curriculum of Thailand since 2017, where Scratch, a block-based visual programming language, has been widely adopted as CT learning environment for primary-level students. However, conducting hands-on coding activities in a classroom has caused substantial challenges including mixed-ability students in the same class, high student-teacher ratio and learning-hour limitation. This research proposes and develops ScratchThAI as a conversation-based learning support framework for computational thinking development to support both students and teachers. More specifically, it provides learning experiences tailored to individual needs. Students can learn CT concepts and practice online coding anywhere, anytime. Moreover, through its ScratChatbot, students can ask for CT concept explanations, coding syntax or practice exercises. Additional exercises may be assigned to students based on the diagnosed individual learning difficulties in a particular topic to provide possible and timely intervention. Teachers can track learning progress and performance of the whole class as well as of individuals through the dashboard and can take suitable intervention within limited school hours. Deploying ScratchThAI to several Thai schools has enabled this research to investigate its effectiveness in a school setting. The obtained results indicated positive teacher satisfaction, better learning performance and higher student engagement. Thus, ScratchThAI contributes as a possible and practical solution to CT skill development and CT education improvement under the aforementioned challenges in Thailand.
+SN  - 1573-7608
+UR  - https://doi.org/10.1007/s10639-021-10870-z
+DO  - 10.1007/s10639-021-10870-z
+ID  - Katchapakirin2022
+ER  - 

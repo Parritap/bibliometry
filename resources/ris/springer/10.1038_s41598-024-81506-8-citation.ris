@@ -1,0 +1,20 @@
+TY  - JOUR
+AU  - Alsini, Raed
+AU  - Naz, Anam
+AU  - Khan, Hikmat Ullah
+AU  - Bukhari, Amal
+AU  - Daud, Ali
+AU  - Ramzan, Muhammad
+PY  - 2024
+DA  - 2024/12/02
+TI  - Using deep learning and word embeddings for predicting human agreeableness behavior
+JO  - Scientific Reports
+SP  - 29875
+VL  - 14
+IS  - 1
+AB  - The latest advancements of deep learning have resulted in a new era of natural language processing. The machines now possess an unparallel ability to interpret and engage with various tasks such as text classification, content generation and natural language understanding. This development extended to the analysis of human behavior, where deep learning models are used to decode human personality. Due to the rise of social media, generating huge amounts of textual data that reshaped communication patterns. Understanding personality traits is a challenging topic which helps us to explore the patterns of thoughts, feelings and behaviors which are helpful for recruitment, career counselling and consumers’ behavior for marketing, etc. In this research study, the main aim is to predict the human personality trait of agreeableness showing whether a person is emotional who feels a lot or thinker who is logical and has rational thinking. This behavior leads to analyzing them as cooperative, friendly and respecting difference of views. For comprehensive empirical analysis, shallow machine learning models, ensemble models, and deep learning technique including state of the art transformer-based models are applied on real-world dataset of MBTI. For feature engineering, textual features of TF-IDF and POS tagging and word embeddings such as word2vec, glove and sentence embeddings are explored. The results analysis shows the highest performance 91.57% with sentence embeddings utilizing Bi-LSTM algorithm that highlights the power of this study as compared to existing studies in the relevant literature.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-024-81506-8
+DO  - 10.1038/s41598-024-81506-8
+ID  - Alsini2024
+ER  - 

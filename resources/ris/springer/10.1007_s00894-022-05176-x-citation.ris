@@ -1,0 +1,25 @@
+TY  - JOUR
+AU  - Shreevatsa, Bhargav
+AU  - Dharmashekara, Chandan
+AU  - Jain, Anisha S.
+AU  - Amachawadi, Raghavendra
+AU  - Achar, Raghu Ram
+AU  - Syed, Asad
+AU  - Shivamallu, Chandan
+AU  - Kollur, Shiva Prasad
+AU  - Frau, Juan
+AU  - Flores-Holguín, Norma
+AU  - Glossman-Mitnik, Daniel
+PY  - 2022
+DA  - 2022/07/05
+TI  - An insight into reactivity and bioactivity properties of quorum sensing peptides against PDE10A: a computational peptidology approach
+JO  - Journal of Molecular Modeling
+SP  - 209
+VL  - 28
+IS  - 8
+AB  - Peptides are currently the most promising lead molecules. Quorum sensing peptides have a variety of structural features and are regularly exposed to post-translational modifications. Antiparkinsonian drugs lose their efficacy after a long period of use, and patients develop motor problems such as drug-induced dyskinesia (DIDs). The interaction between PDE10A and cAMP is necessary for dopamine neurotransmission and may play a role in Parkinson’s disease pathogenesis. cAMP and cGMP are cyclic nucleotides that act as secondary messengers in the signal transduction pathway, influencing a range of CNS activities. PDE enzymes hydrolyze phosphodiester bonds to break down cAMP and cGMP, allowing them to control intracellular levels of these second messengers effectively. PDE expression, and hence cyclic nucleotide levels and their downstream targets, may change with age and in numerous age-related illnesses, including Parkinson’s disease, according to mounting evidence. At the peak of dyskinesias, cyclic nucleotide levels were lower, and using phosphodiesterase inhibitors before antiparkinsonian medicines reduced the severity of dyskinesias. In a recent study, PapRIV was found to have the ability to activate BV-2 microglia cells, indicating that this quorum sensing peptide may play a role in gut-brain contact. As a result of the current in silico work, mainly focused on QSPs as a lead molecule for inhibiting PDE10A, the SRNAT QSP sequence has been a potent molecule in molecular docking and molecular dynamics simulations. Furthermore, we can test the efficiency of therapeutic components in vitro and in vivo utilizing this computational approach against PDE10A.
+SN  - 0948-5023
+UR  - https://doi.org/10.1007/s00894-022-05176-x
+DO  - 10.1007/s00894-022-05176-x
+ID  - Shreevatsa2022
+ER  - 

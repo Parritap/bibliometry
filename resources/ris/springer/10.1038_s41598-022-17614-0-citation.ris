@@ -1,0 +1,17 @@
+TY  - JOUR
+AU  - Noguchi, Satoshi
+AU  - Wang, Hui
+AU  - Inoue, Junya
+PY  - 2022
+DA  - 2022/08/20
+TI  - Identification of microstructures critically affecting material properties using machine learning framework based on metallurgists’ thinking process
+JO  - Scientific Reports
+SP  - 14238
+VL  - 12
+IS  - 1
+AB  - In materials science, machine learning has been intensively researched and used in various applications. However, it is still far from achieving intelligence comparable to that of human experts in terms of creativity and explainability. In this paper, we investigate whether machine learning can acquire explainable knowledge without directly introducing problem-specific information such as explicit physical mechanisms. In particular, a potential of machine learning to obtain the capability to identify a part of material structures that critically affects a physical property without human prior knowledge is mainly discussed. The guide for constructing the machine learning framework adopted in this paper is to imitate human researchers’ process of thinking in the interpretation and development of materials. Our framework was applied to the optimization of structures of artificial dual-phase steels in terms of a fracture property. A comparison of results of the framework with those of numerical simulation based on governing physical laws demonstrated the potential of our framework for the identification of a part of microstructures critically affecting the target property. Consequently, this implies that our framework can implicitly acquire an intuition in a similar way that human researchers empirically attain the general strategy for material design consistent with the physical background.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-022-17614-0
+DO  - 10.1038/s41598-022-17614-0
+ID  - Noguchi2022
+ER  - 

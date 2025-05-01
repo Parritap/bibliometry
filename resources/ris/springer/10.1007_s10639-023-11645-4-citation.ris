@@ -1,0 +1,19 @@
+TY  - JOUR
+AU  - Mastrothanasis, Konstantinos
+AU  - Zervoudakis, Konstantinos
+AU  - Kladaki, Maria
+AU  - Tsafarakis, Stelios
+PY  - 2023
+DA  - 2023/09/01
+TI  - A bio-inspired computational classifier system for the evaluation of children’s theatrical anxiety at school
+JO  - Education and Information Technologies
+SP  - 11027
+EP  - 11050
+VL  - 28
+IS  - 9
+AB  - Theatrical performance constitutes a complicated way for students to express and to communicate with each other, since it targets both various artistic and educational goals. Even though it constitutes a top moment of students’ expression, several students do not feel comfortable when participating in such cultural activities, as performance anxiety, a negative emotional experience stemming from the public audience exposure, affects them. The aim of this research is to apply and evaluate a student segmentation technique with the help of bio-inspired computational intelligence, for identifying high levels of performance anxiety at schoolchildren. A Mayfly-based clustering optimization algorithm is applied on a dataset with 774 instances of students to classify them according to their levels of emotions and performance anxiety that are developed during the event. A comparison with a genetic algorithm as well as particle swarm optimization shows that the proposed method is distinguished by superior categorization capabilities. The findings demonstrate the effective dissimilar student groups formation, with the members of each being distinguished by similar characteristics in terms of emotions and performance anxiety, highlighting the ones with unmanageable emotional experiences. Therefore, the drama educator is able to effortlessly detect, manage students and develop coping practices in those at risk, by acknowledging each group’s characteristics.
+SN  - 1573-7608
+UR  - https://doi.org/10.1007/s10639-023-11645-4
+DO  - 10.1007/s10639-023-11645-4
+ID  - Mastrothanasis2023
+ER  - 

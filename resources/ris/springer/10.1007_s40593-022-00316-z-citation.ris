@@ -1,0 +1,20 @@
+TY  - JOUR
+AU  - Gao, Hong
+AU  - Hasenbein, Lisa
+AU  - Bozkir, Efe
+AU  - Göllner, Richard
+AU  - Kasneci, Enkelejda
+PY  - 2023
+DA  - 2023/12/01
+TI  - Exploring Gender Differences in Computational Thinking Learning in a VR Classroom: Developing Machine Learning Models Using Eye-Tracking Data and Explaining the Models
+JO  - International Journal of Artificial Intelligence in Education
+SP  - 929
+EP  - 954
+VL  - 33
+IS  - 4
+AB  - Understanding existing gender differences in the development of computational thinking skills is increasingly important for gaining valuable insights into bridging the gender gap. However, there are few studies to date that have examined gender differences based on the learning process in a realistic classroom context. In this work, we aim to investigate gender classification using students’ eye movements that reflect temporal human behavior during a computational thinking lesson in an immersive VR classroom. We trained several machine learning classifiers and showed that students’ eye movements provide discriminative information for gender classification. In addition, we employed a Shapley additive explanation (SHAP) approach for feature selection and further model interpretation. The classification model trained with the selected (best) eye movement feature set using SHAP achieved improved performance with an average accuracy of over $$70\%$$. The SHAP values further explained the classification model by identifying important features and their impacts on the model output, namely gender. Our findings provide insights into the use of eye movements for in-depth investigations of gender differences in learning activities in VR classroom setups that are ecologically valid and may provide clues for providing personalized learning support and tutoring in such educational systems or optimizing system design.
+SN  - 1560-4306
+UR  - https://doi.org/10.1007/s40593-022-00316-z
+DO  - 10.1007/s40593-022-00316-z
+ID  - Gao2023
+ER  - 

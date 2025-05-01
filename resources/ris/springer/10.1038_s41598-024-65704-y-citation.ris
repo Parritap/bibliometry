@@ -1,0 +1,19 @@
+TY  - JOUR
+AU  - Lau, Isabel H. W.
+AU  - Norman, Jessica
+AU  - Stothard, Melanie
+AU  - Carlisi, Christina O.
+AU  - Moutoussis, Michael
+PY  - 2024
+DA  - 2024/07/04
+TI  - Jumping to attributions during social evaluation
+JO  - Scientific Reports
+SP  - 15447
+VL  - 14
+IS  - 1
+AB  - Social learning is crucial for human relationships and well-being. Self- and other- evaluations are universal experiences, playing key roles in many psychiatric disorders, particularly anxiety and depression. We aimed to deepen our understanding of the computational mechanisms behind social learning, which have been implicated in internalizing conditions like anxiety and depression. We built on prior work based on the Social Evaluation Learning Task (SELT) and introduced a new computational model to better explain rapid initial inferences and progressive refinement during serial social evaluations. The Social Evaluation Learning Task-Revised (SELT-R) was improved by stakeholder input, making it more engaging and suitable for adolescents. A sample of 130 adults from the UK completed the SELT-R and questionnaires assessing symptoms of depression and anxiety. ‘Classify-refine’ computational models were compared with previously successful Bayesian models. The ‘classify-refine’ models performed better, providing insight into how people infer the attributes and motives of others. Parameters of the best fitting model from the SELT-R were correlated with Anxiety factor scores, with higher symptoms associated with greater decision noise and higher (less flexible) policy certainty. Our results replicate findings regarding the classify-refine process and set the stage for future investigations into the cognitive mechanisms of self and other evaluations in internalizing disorders.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-024-65704-y
+DO  - 10.1038/s41598-024-65704-y
+ID  - Lau2024
+ER  - 

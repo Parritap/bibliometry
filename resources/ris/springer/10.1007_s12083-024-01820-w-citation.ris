@@ -1,0 +1,20 @@
+TY  - JOUR
+AU  - Han, Bing
+AU  - Yuan, Yong
+AU  - Ren, Xuhao
+AU  - Yin, Zihang
+AU  - Chi, Cheng
+AU  - Zhang, Chuan
+PY  - 2025
+DA  - 2025/02/08
+TI  - An efficient and private economic evaluation scheme in data markets
+JO  - Peer-to-Peer Networking and Applications
+SP  - 90
+VL  - 18
+IS  - 2
+AB  - Economic evaluation is crucial for understanding the overall economic impact within data markets. It not only helps assess the growth and potential of the market but also informs strategic decisions for stakeholders. However, merchants’ concerns about data privacy remain a significant obstacle, especially when sensitive revenue data is involved. These data not only reflect the financial health of the merchants but could also be exploited by competitors, leading to potential adverse effects. Traditional economic evaluation methods often involve significant computational and communication overhead and cannot be scaled to a large number of merchants. To address these challenges, we propose an Efficient and Private eConomic evAluation (EPCA) scheme. This scheme reduces computational and communication overhead while ensuring the privacy of individual merchant revenues. Specifically, EPCA uses two servers, and each merchant can securely submit their revenue data during the evaluation process. We leverage the Incremental Distributed Point Function (IDPF) to enable merchants to securely and privately share their revenue information without revealing it to any single entity. In addition, we use the public-key cryptosystem with distributed decryption to protect the privacy of market analysts’ inquiries. Correctness and security analysis demonstrate that EPCA can accurately evaluate the market size while protecting the privacy of merchant revenues. Experimental results show that EPCA is efficient and feasible for practical market size evaluation applications in data markets.
+SN  - 1936-6450
+UR  - https://doi.org/10.1007/s12083-024-01820-w
+DO  - 10.1007/s12083-024-01820-w
+ID  - Han2025
+ER  - 

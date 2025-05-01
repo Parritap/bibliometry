@@ -1,0 +1,17 @@
+TY  - JOUR
+AU  - Macuglia, Daniele
+AU  - Roux, Benoît
+AU  - Ciccotti, Giovanni
+PY  - 2022
+DA  - 2022/10/14
+TI  - The emergence of protein dynamics simulations: how computational statistical mechanics met biochemistry
+JO  - The European Physical Journal H
+SP  - 13
+VL  - 47
+IS  - 1
+AB  - In this essay, we aim to illustrate how Martin Karplus and his research group effectively set in motion the engine of molecular dynamics (MD) simulations of biomolecules. This process saw its prodromes between 1969 and the early 1970s with Karplus’ landing in biology, a transition that came to fruition with the treatment of 11-cis-retinal photoisomerization and the development of an allosteric model to account for the mechanism of cooperativity in hemoglobin. In 1977, J. Andrew McCammon, Bruce Gelin, and Martin Karplus published an article in Nature reporting the MD simulation of bovine pancreatic trypsin inhibitor (BPTI). This publication helped initiate the merger of computational statistical mechanics and biochemistry, a process that Karplus undertook at a later stage and whose beginnings we propose to reconstruct in this article through unpublished accounts of the key people who participated in this endeavor.
+SN  - 2102-6467
+UR  - https://doi.org/10.1140/epjh/s13129-022-00043-y
+DO  - 10.1140/epjh/s13129-022-00043-y
+ID  - Macuglia2022
+ER  - 

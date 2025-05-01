@@ -1,0 +1,16 @@
+TY  - JOUR
+AU  - Yusuf, Abdullahi
+AU  - Noor, Norah Md
+PY  - 2024
+DA  - 2024/08/19
+TI  - Modeling students’ algorithmic thinking growth trajectories in different programming environments: an experimental test of the Matthew and compensatory hypothesis
+JO  - Smart Learning Environments
+SP  - 38
+VL  - 11
+IS  - 1
+AB  - In recent years, programming education has gained recognition at various educational levels due to its increasing importance. As the need for problem-solving skills becomes more vital, researchers have emphasized the significance of developing algorithmic thinking (AT) skills to help students in program development and error debugging. Despite the development of various text-based and block-based programming tools aimed at improving students’ AT, emerging evidence in the literature indicates insufficient AT skills among students. This study was conducted to understand the growth trajectory of students’ AT skills in different programming environments. The study utilized a multigroup experiment involving 240 programming students randomly assigned to three groups: a text-and-block-based group, a block-based-only group, and a text-based-only group. Students in the text-and-block-based group were exposed to Alice and Python; those in the block-based-only group were exposed to Alice; and those in the text-based-only group were exposed to Python. We found that participants’ growth trajectory in AT skills is linear, with a significant growth rate. Although between-person variability exists across groups, we observed a compensatory effect in the text-and-block-based and block-based-only groups. Additionally, we found significant differences in AT skills across the groups, with no evidence of a gender effect. Our findings suggest that combining text-based and block-based programming environments can lead to improved and sustained intra-individual problem-solving skills, particularly in the field of programming.
+SN  - 2196-7091
+UR  - https://doi.org/10.1186/s40561-024-00324-7
+DO  - 10.1186/s40561-024-00324-7
+ID  - Yusuf2024
+ER  - 

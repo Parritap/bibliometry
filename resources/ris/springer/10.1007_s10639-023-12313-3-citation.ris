@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Chang, Lung-Chun
+AU  - Lin, Hon-Ren
+AU  - Lin, Jian-Wei
+PY  - 2024
+DA  - 2024/01/01
+TI  - Learning motivation, outcomes, and anxiety in programming courses—A computational thinking–centered method
+JO  - Education and Information Technologies
+SP  - 545
+EP  - 569
+VL  - 29
+IS  - 1
+AB  - Many students want to enroll in programming courses but fear the challenges ahead. They aspire to design quality systems or games after acquiring related skills but report concerns that programming logic is too difficult to learn because memorization of the syntax is required. Thus, they experience anxiety, are demotivated to learn, and, regretfully, may never enroll in programming courses. Computational thinking (CT) is a favorable method currently used in learning logic. This study proposed an easily implementable standard operating procedure for CT and incorporated it into programming courses; students were instructed and enabled to clarify the logical sequence before beginning to write a program. The standard operating procedure for CT contains five training steps, identify the problem, formulate the problem-solving steps, organize and summarize, draw a flowchart, and write a program. This kind of training can help students clarify the logical order more clearly to facilitate writing programs, thereby improving motivation to learn, reducing learning anxiety, and ultimately improving learning outcomes. The experiment results revealed significant results regarding the learning outcomes, motivation to learn, and learning anxiety of the experimental group learning programming through CT-centered teaching in comparison with those of the group learning through conventional teaching. Additionally, for female students, who were revealed to be initially less capable of logical thinking than male students, the following post intervention improvements were observed: adequate improvement in learning outcomes, increased motivation to learn, and reduced learning anxiety.
+SN  - 1573-7608
+UR  - https://doi.org/10.1007/s10639-023-12313-3
+DO  - 10.1007/s10639-023-12313-3
+ID  - Chang2024
+ER  - 

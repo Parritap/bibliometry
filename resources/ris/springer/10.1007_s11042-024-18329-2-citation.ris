@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Li, Danyang
+AU  - Wen, Guihua
+AU  - Zhang, Zhuhong
+PY  - 2024
+DA  - 2024/09/01
+TI  - An efficient semi-dynamic ensemble pruning method for facial expression recognition
+JO  - Multimedia Tools and Applications
+SP  - 73923
+EP  - 73956
+VL  - 83
+IS  - 30
+AB  - Dynamic ensemble pruning (DEP) can select the best set of models for an unseen sample to improve a classification system’s prediction accuracy and robustness. However, little work has been done to apply DEP to the facial expression recognition (FER) system and reduce DEP’s computational burden. This paper proposes a semi-dynamic ensemble pruning algorithm (SDEP) to implement the FER task. First, a subspace-based classifier sequences selection method is proposed to break DEP’s neighborhood construction limitation and avoid the exhaustive similarity calculation. Moreover, a pre-prediction mechanism is introduced to calculate the relationship between an unseen sample and data subspaces. Ultimately, the calculated relationship scores and their credibility will be used as the weights for fusion. SDEP reduces the DEP’s computational burden while retaining the dynamic characteristics through changing the classifier selection into the subspace-based classifier sequences combination. SDEP demonstrates superior classification accuracy and efficiency to several state-of-the-art dynamic and static EP algorithms in benchmark FER datasets Fer2013, JAFFE, CK+ using a homogeneous ensemble of 799 CNN classifiers.
+SN  - 1573-7721
+UR  - https://doi.org/10.1007/s11042-024-18329-2
+DO  - 10.1007/s11042-024-18329-2
+ID  - Li2024
+ER  - 

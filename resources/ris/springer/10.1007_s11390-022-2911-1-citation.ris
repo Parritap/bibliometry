@@ -1,0 +1,17 @@
+TY  - JOUR
+AU  - Sun, Xian-He
+AU  - Lu, Xiaoyang
+PY  - 2023
+DA  - 2023/02/01
+TI  - The Memory-Bounded Speedup Model and Its Impacts in Computing
+JO  - Journal of Computer Science and Technology
+SP  - 64
+EP  - 79
+VL  - 38
+IS  - 1
+AB  - With the surge of big data applications and the worsening of the memory-wall problem, the memory system, instead of the computing unit, becomes the commonly recognized major concern of computing. However, this “memory-centric” common understanding has a humble beginning. More than three decades ago, the memory-bounded speedup model is the first model recognizing memory as the bound of computing and provided a general bound of speedup and a computing-memory trade-off formulation. The memory-bounded model was well received even by then. It was immediately introduced in several advanced computer architecture and parallel computing textbooks in the 1990’s as a must-know for scalable computing. These include Prof. Kai Hwang’s book “Scalable Parallel Computing” in which he introduced the memory-bounded speedup model as the Sun-Ni’s Law, parallel with the Amdahl’s Law and the Gustafson’s Law. Through the years, the impacts of this model have grown far beyond parallel processing and into the fundamental of computing. In this article, we revisit the memory-bounded speedup model and discuss its progress and impacts in depth to make a unique contribution to this special issue, to stimulate new solutions for big data applications, and to promote data-centric thinking and rethinking.
+SN  - 1860-4749
+UR  - https://doi.org/10.1007/s11390-022-2911-1
+DO  - 10.1007/s11390-022-2911-1
+ID  - Sun2023
+ER  - 

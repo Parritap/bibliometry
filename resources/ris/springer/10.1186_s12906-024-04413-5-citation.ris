@@ -1,0 +1,23 @@
+TY  - JOUR
+AU  - Borghesi, Francesca
+AU  - Cremascoli, Riccardo
+AU  - Chirico, Alice
+AU  - Bianchi, Laura
+AU  - Di Moia, Amalia
+AU  - Priano, Lorenzo
+AU  - Piedimonte, Alessandro
+AU  - Mauro, Alessandro
+AU  - Cipresso, Pietro
+PY  - 2024
+DA  - 2024/03/07
+TI  - Mind and body connection in expert meditators: a computational study based on central and peripheral nervous system
+JO  - BMC Complementary Medicine and Therapies
+SP  - 117
+VL  - 24
+IS  - 1
+AB  - A meditative ‘technique’ is conceived as a continuum of different affective states involving mind and body jointly. Meditative practices can involve cognitive effort (e.g., focused attention and open-minded techniques), as well as automatic and implicit practices (e.g., transcendental techniques). The NGALSO tantric self-healing meditation technique is a brief, comprehensive meditation technique relying on mind and body connection. In this study, we aimed to investigate the state and the trait neurophysiological correlates of NGALSO meditation practice. First, 19 EEG channels and a 3-lead ECG signal were recorded from 10 expert meditators (more than 7 years of daily meditation) and 10 healthy inexpert participants (controls) who underwent the same meditative procedure. The neuropsychological profiles of experts and controls were compared. Results showed that expert meditators had significantly higher power spectra on alpha, theta and beta, and a higher sympathetic tone with lower parasympathetic tone after meditation. Conversely, the control group had significantly less power spectra on alpha, theta and beta, and a higher parasympathetic tone with lower sympathetic tone after meditation. A machine learning approach also allowed us to classify experts vs. controls correctly by using only EEG Theta bands before or after meditation. ECG results allowed us to show a significantly higher effort by expert meditators vs. controls, thus suggesting that a higher effort is required for this meditation, in line with the principle ‘no pain, no gain’ in body and mind.
+SN  - 2662-7671
+UR  - https://doi.org/10.1186/s12906-024-04413-5
+DO  - 10.1186/s12906-024-04413-5
+ID  - Borghesi2024
+ER  - 

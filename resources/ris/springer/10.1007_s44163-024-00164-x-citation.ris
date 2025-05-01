@@ -1,0 +1,19 @@
+TY  - JOUR
+AU  - Saariluoma, Pertti
+AU  - Myllylä, Mari
+AU  - Karvonen, Antero
+AU  - Luimula, Mika
+AU  - Aho, Jami
+PY  - 2024
+DA  - 2024/09/09
+TI  - A human digital twin for the M-Machine
+JO  - Discover Artificial Intelligence
+SP  - 61
+VL  - 4
+IS  - 1
+AB  - Human digital twins are computational models of the human actions involved in interacting and operating technical artifacts. Such models provide a conceptual and practical tool for artificial intelligence designers when they seek to replace human work with intelligent machines. Indeed, digital twins have long served as models of technical and cyber-physical processes. Human digital twins have such models as their foundations but also include models of human actions. As a result, human digital twin models enable technology designers to model how people interact with intelligent technical artifacts. Yet, development of human digital twins is associated with certain conceptual problems. To clarify the basic idea, we constructed a human digital twin for Minsky’s M-Machine. The abstract conceptual structure of this machine and its generality allowed us to analyze the general properties of human digital twins, their design, and their use as tools in designing intelligent technologies.
+SN  - 2731-0809
+UR  - https://doi.org/10.1007/s44163-024-00164-x
+DO  - 10.1007/s44163-024-00164-x
+ID  - Saariluoma2024
+ER  - 

@@ -1,0 +1,16 @@
+TY  - JOUR
+AU  - Strubbe, David A.
+PY  - 2024
+DA  - 2024/12/01
+TI  - A computational materials science paradigm for a Course-based Undergraduate Research Experience (CURE)
+JO  - MRS Advances
+SP  - 1479
+EP  - 1485
+VL  - 9
+IS  - 19
+AB  - Course-based Undergraduate Research Experiences (CUREs) bring the excitement of research into the classroom to improve learning and the sense of belonging in the field. They can reach more students, earlier in their studies, than typical undergraduate research. Key aspects are: students learn and use research methods, give input into the project, generate new research data, and analyze it to draw conclusions that are not known beforehand. CUREs are common in other fields but have been rare in materials science and engineering. I propose a paradigm for computational material science CUREs, enabled by web-based simulation tools from nanoHUB.org that require minimal computational skills. After preparatory exercises, students each calculate part of a set of closely related materials, following a defined protocol to contribute to a novel class dataset which they analyze, and also calculate an additional property of their choice. This approach has been used successfully in several class projects.
+SN  - 2059-8521
+UR  - https://doi.org/10.1557/s43580-024-00934-w
+DO  - 10.1557/s43580-024-00934-w
+ID  - Strubbe2024
+ER  - 

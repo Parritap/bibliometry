@@ -1,0 +1,21 @@
+TY  - JOUR
+AU  - Sun, Dan
+AU  - Looi, Chee-Kit
+AU  - Li, Yan
+AU  - Zhu, Chengcong
+AU  - Zhu, Caifeng
+AU  - Cheng, Miaoting
+PY  - 2024
+DA  - 2024/04/01
+TI  - Block-based versus text-based programming: a comparison of learners’ programming behaviors, computational thinking skills and attitudes toward programming
+JO  - Educational technology research and development
+SP  - 1067
+EP  - 1089
+VL  - 72
+IS  - 2
+AB  - In the current era where computational literacy holds significant relevance, a growing number of schools across the globe have placed emphasis on K-12 programming education. This field of education primarily comprises two distinct modalities—the block-based programming modality (BPM) and the text-based programming modality (TPM). Previous research may not have provided a complete understanding of the differences between these two modalities as it did not take into account both the learning process and learning outcomes. This study aimed to compare secondary students’ programming behaviors, computational thinking skills, and attitudes toward programming between the two modalities through a quasi-experimental design in a Chinese secondary school. The findings showed that (1) learners in TPM encountered more syntactical errors and spent more time between two clicks of debugging, while learners in BPM had more code-changing behaviors by adjusting programming blocks, made more attempts of debugging, and had more irrelevant behaviors; (2) learners in BPM achieved a higher level of computational thinking skills; (3) learners in both modalities experienced a slight decrease in confidence and enjoyment, while learners in BPM had higher interest levels in programming. (4) Code Changer, Minimal Debugger, Maximal Debugger, Distracted Coder and Average Coder were identified through students’ programming behavior in the two programming modalities, and differences in their CT skills and attitudinal data were revealed. Lastly, pedagogical implications based on the findings are also discussed.
+SN  - 1556-6501
+UR  - https://doi.org/10.1007/s11423-023-10328-8
+DO  - 10.1007/s11423-023-10328-8
+ID  - Sun2024
+ER  - 

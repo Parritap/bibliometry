@@ -1,0 +1,19 @@
+TY  - JOUR
+AU  - Tang, Xinlu
+AU  - Guo, Rui
+AU  - Mo, Zhanfeng
+AU  - Fu, Wenli
+AU  - Qian, Xiaohua
+PY  - 2025
+DA  - 2025/01/15
+TI  - Causality-driven candidate identification for reliable DNA methylation biomarker discovery
+JO  - Nature Communications
+SP  - 680
+VL  - 16
+IS  - 1
+AB  - Despite vast data support in DNA methylation (DNAm) biomarker discovery to facilitate health-care research, this field faces huge resource barriers due to preliminary unreliable candidates and the consequent compensations using expensive experiments. The underlying challenges lie in the confounding factors, especially measurement noise and individual characteristics. To achieve reliable identification of a candidate pool for DNAm biomarker discovery, we propose a Causality-driven Deep Regularization framework to reinforce correlations that are suggestive of causality with disease. It integrates causal thinking, deep learning, and biological priors to handle non-causal confounding factors, through a contrastive scheme and a spatial-relation regularization that reduces interferences from individual characteristics and noises, respectively. The comprehensive reliability of the proposed method was verified by simulations and applications involving various human diseases, sample origins, and sequencing technologies, highlighting its universal biomedical significance. Overall, this study offers a causal-deep-learning-based perspective with a compatible tool to identify reliable DNAm biomarker candidates, promoting resource-efficient biomarker discovery.
+SN  - 2041-1723
+UR  - https://doi.org/10.1038/s41467-025-56054-y
+DO  - 10.1038/s41467-025-56054-y
+ID  - Tang2025
+ER  - 

@@ -1,0 +1,17 @@
+TY  - JOUR
+AU  - Zhang, Shuhan
+AU  - Wong, Gary K. W.
+PY  - 2023
+DA  - 2023/08/01
+TI  - Development and validation of a computational thinking test for lower primary school students
+JO  - Educational technology research and development
+SP  - 1595
+EP  - 1630
+VL  - 71
+IS  - 4
+AB  - Computational thinking (CT) has permeated primary and early childhood education in recent years. Despite the extensive effort in CT learning initiatives, few age-appropriate assessment tools targeting young children have been developed. In this study, we proposed Computational Thinking Test for Lower Primary (CTtLP), which was designed for lower primary school students (aged 6–10). Based on the evidence-centred design approach, a set of constructed-response items that are independent of programming platforms was developed. To validate the test, content validation was first performed via expert review and cognitive interviews, and refinements were made based on the comments. Then, a large-scale field test was administered with a sample of 1st–3rd graders (N = 1225), and the data was used for psychometric analysis based on both classical test theory (CTT) and item response theory (IRT). The CTT results provided robust criterion validity, internal consistency, and test–retest reliability values. Regarding IRT results, a three-parameter logistic model was selected according to the item fit indices, based on which fair item parameters and test information reliability were generated. Overall, the test items and the whole scale showed proper fit, suggesting that CTtLP was a suitable test for the target group. Analyses of the test performance were then put forward. Results reported that students’ performance improved with grade level, and no gender difference was detected. Based on the test responses, we also identified children’s challenges in understanding CT constructs, indicating that students tended to have difficulty in understanding loop control and executing multiple directions. The study provides a rigorously validated diagnostic test for measuring CT acquisition in lower primary school students and demonstrates a replicable design and validation process for future assessment practices, and findings on the difficulties children faced in CT conceptual understanding could shed light on CT primary and early childhood education.
+SN  - 1556-6501
+UR  - https://doi.org/10.1007/s11423-023-10231-2
+DO  - 10.1007/s11423-023-10231-2
+ID  - Zhang2023
+ER  - 

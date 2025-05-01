@@ -1,0 +1,17 @@
+TY  - JOUR
+AU  - Vollert, Sarah A.
+AU  - Drovandi, Christopher
+AU  - Adams, Matthew P.
+PY  - 2024
+DA  - 2024/12/30
+TI  - Ecosystem Knowledge Should Replace Coexistence and Stability Assumptions in Ecological Network Modelling
+JO  - Bulletin of Mathematical Biology
+SP  - 17
+VL  - 87
+IS  - 1
+AB  - Quantitative population modelling is an invaluable tool for identifying the cascading effects of conservation on an ecosystem. When population data from monitoring programs is not available, deterministic ecosystem models have often been calibrated using the theoretical assumption that ecosystems have a stable, coexisting equilibrium. However, a growing body of literature suggests these theoretical assumptions are inappropriate for conservation contexts. Here, we develop an alternative for data-free population modelling that relies on expert-elicited knowledge of species populations. Our new Bayesian algorithm systematically removes model parameters that lead to impossible predictions, as defined by experts, without incurring excessive computational costs. We demonstrate our framework on an ordinary differential equation model by limiting predicted population sizes and their ability to change rapidly, utilising readily available knowledge from field observations and experts rather than relying on theoretical ecosystem properties. Our results show that using only coexistence and stability requirements can lead to unrealistic population dynamics, which can be avoided by switching to expert-derived information. We demonstrate how this change can dramatically impact population predictions, expected responses to management, conservation decision-making, and long-term ecosystem behaviour. Without data, we argue that field observations and expert knowledge are more trustworthy for representing ecosystems observed in nature, improving the precision and confidence in predictions.
+SN  - 1522-9602
+UR  - https://doi.org/10.1007/s11538-024-01407-9
+DO  - 10.1007/s11538-024-01407-9
+ID  - Vollert2024
+ER  - 

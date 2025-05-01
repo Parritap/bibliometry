@@ -1,0 +1,21 @@
+TY  - JOUR
+AU  - Granato, Giovanni
+AU  - Costanzo, Raffaele
+AU  - Borghi, Anna
+AU  - Mattera, Andrea
+AU  - Carruthers, Sean
+AU  - Rossell, Susan
+AU  - Baldassarre, Gianluca
+PY  - 2025
+DA  - 2025/02/12
+TI  - An experimental and computational investigation of executive functions and inner speech in schizophrenia spectrum disorders
+JO  - Scientific Reports
+SP  - 5185
+VL  - 15
+IS  - 1
+AB  - Flexible goal-directed human cognition is supported by many forms of self-directed manipulation of representations. Among them, Inner-Speech (IS; covert self-directed speech) acts on second-order representations (e.g., goals/sub-goals), empowering attention and feedback processing. Interestingly, patients with Schizophrenia Spectrum Disorders (SSD) show impaired Executive Functions (EF; e.g., cognitive flexibility) and, probably, a related IS alteration. However, fragmentary evidence and no computational modeling prevent a clear assessment of these processes and focused therapeutic interventions. Here, we address these issues by exploiting a translational approach that integrates experimental clinical data, machine learning, and computational modeling. First, we administered the Wisconsin Cards Sorting Test (WCST; a neuropsychological test probing cognitive flexibility) to 162 SSD patients and 108 healthy control participants, and we computed the clinical behavioural data with a data-driven clustering algorithm. Second, we extracted the cluster neuropsychological profiles with our theory-based validated computational model of the WCST. Finally, we exploited our model to emulate an IS-based psychotherapeutic intervention for SSD subpopulations. We identified different SSD sub-populations and global trends (e.g., a descending feedback sensitivity); however, extremely different neuropsychological profiles emerged. In particular, ‘Relatively Intact’ patients showed an unexpected profile (distraction/reasoning failures), quite divergent from the perseverative/rigid profile of the others. Importantly, the former showed no impact of Interfering-IS, while the others showed increased Interfering-IS strongly affecting their cognition. These differences highlight that SSD populations require a cluster-dependent individualisation of the intervention to achieve adequate cognitive performance. Overall, these results support a clear definition of neuropsychological profiles and the related Interfering-IS impact in SSD subpopulations, thus showing important implications for basic research (e.g., cognitive neuroscience) and clinical fields (clinical psychology and psychiatry).
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-025-89555-3
+DO  - 10.1038/s41598-025-89555-3
+ID  - Granato2025
+ER  - 

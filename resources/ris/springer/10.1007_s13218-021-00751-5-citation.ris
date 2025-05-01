@@ -1,0 +1,19 @@
+TY  - JOUR
+AU  - Dohn, Nina Bonderup
+AU  - Kafai, Yasmin
+AU  - Mørch, Anders
+AU  - Ragni, Marco
+PY  - 2022
+DA  - 2022/03/01
+TI  - Survey: Artificial Intelligence, Computational Thinking and Learning
+JO  - KI - Künstliche Intelligenz
+SP  - 5
+EP  - 16
+VL  - 36
+IS  - 1
+AB  - Learning is central to both artificial intelligence and human intelligence, the former focused on understanding how machines learn, the latter concerned with how humans learn. With the growing relevance of computational thinking, these two efforts have become more closely connected. This survey examines these connections and points to the need for educating the general public to understand the challenges which the increasing integration of AI in human lives pose. We describe three different framings of computational thinking: cognitive, situated, and critical. Each framing offers valuable, but different insights into what computational thinking can and should be. The differences between the three framings also concern the views of learning that they embody. We combine the three framings into one framework which emphasizes that (1) computational thinking activities involve engagement with algorithmic processes, and (2) the mere use of a digital artifact for an activity is not sufficient to count as computational thinking. We further present a set of approaches to learning computational thinking. We argue for the significance of computational thinking as regards artificial intelligence on three counts: (i) Human developers use computational thinking to create and develop artificial intelligence systems, (ii) understanding how humans learn can enrich artificial intelligence systems, and (iii) such enriched systems will be explainable. We conclude with an introduction of the articles included in the Special Issue, focusing on how they call upon and develop the themes of this survey.
+SN  - 1610-1987
+UR  - https://doi.org/10.1007/s13218-021-00751-5
+DO  - 10.1007/s13218-021-00751-5
+ID  - Dohn2022
+ER  - 

@@ -1,0 +1,19 @@
+TY  - JOUR
+AU  - Trognon, Arthur
+AU  - Cherifi, Youssouf Ismail
+AU  - Habibi, Islem
+AU  - Demange, Loïs
+AU  - Prudent, Cécile
+PY  - 2022
+DA  - 2022/11/07
+TI  - Using machine-learning strategies to solve psychometric problems
+JO  - Scientific Reports
+SP  - 18922
+VL  - 12
+IS  - 1
+AB  - Validating scales for clinical use is a common procedure in medicine and psychology. Through the application of computational methods, we present a new strategy for estimating construct validity and criterion validity. XGBoost, Random Forest and Support-Vector machine learning algorithms were employed in order to make predictions based on the pattern of participants’ responses by systematically controlling computational experiments with artificial experiments whose results are guaranteed. According to these findings, these approaches are capable of achieving construct and criterion validity and therefore could provide an additional layer of evidence to traditional validation approaches. In particular, this study examined the extent to which measured items are inferable by theoretically related items, as well as the extent to which the information carried by a given construct can be translated into other theoretically compatible normative scales based on other constructs (thereby providing information about construct validity); as well as the replicability of clinical decision rules on several partitions (thereby providing information about criterion validity).
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-022-23678-9
+DO  - 10.1038/s41598-022-23678-9
+ID  - Trognon2022
+ER  - 

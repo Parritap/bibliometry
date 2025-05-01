@@ -1,0 +1,13 @@
+TY  - JOUR
+AU  - Huang, Cong
+AU  - Huang, Ying
+PY  - 2023
+DA  - 2023/05/16
+TI  - An intelligent computational approach of signal control in urban rail transit for vehicular communication
+JO  - Soft Computing
+AB  - With the rise in popularity of vehicular communication in the modern period, vehicles not only provide convenience for people’s movement, but also create traffic congestion. Urban rail transit plays an increasingly important role in modern urban public transport. To alleviate traffic congestion, a novel intelligent transportation approach has been developed, allowing the intelligent computing technology to be applied to the city’s traffic signal management system, which is critical to solving the city’s traffic problem. The goal of this study is to optimize the signal management system of urban traffic in order to reduce economic losses caused by traffic congestion, such as pollution and energy loss, relieve traffic congestion, and increase traffic efficiency. This paper first describes the existing traffic situation before highlighting the critical role of intelligent computing in urban traffic signal regulation. It then covers fuzzy control, fuzzy neural networks, traffic flow, queuing theory, and car following theory in general. The fuzzy control system for an urban intersection is then presented, the green light phase and red light phase modules are evaluated, and the fuzzy control method is introduced into the traffic signal control system research. The software for controlling the urban traffic trunk line with a fuzzy neural network system is then detailed, and a robust optimization model is constructed. Finally, to prove the superiority of intelligent calculation approach adopted by this study, a specific case study is provided which is coupled with the robust optimization model for comparison. The experimental results of this paper show that the robust optimized-cellular transportation approach of this study is stable, can successfully manage vehicle delays, and increase traffic efficiency. It reduces the average vehicle delay by 15.97%, the average number of stops by 9.88%, and increases the passing traffic by 10.32%.
+SN  - 1433-7479
+UR  - https://doi.org/10.1007/s00500-023-08353-z
+DO  - 10.1007/s00500-023-08353-z
+ID  - Huang2023
+ER  - 

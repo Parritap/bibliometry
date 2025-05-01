@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Aydin, Muharrem
+AU  - Karal, Hasan
+AU  - Nabiyev, Vasif
+PY  - 2023
+DA  - 2023/06/01
+TI  - Examination of adaptation components in serious games: a systematic review study
+JO  - Education and Information Technologies
+SP  - 6541
+EP  - 6562
+VL  - 28
+IS  - 6
+AB  - This study aims to examine adaptability for educational games in terms of adaptation elements, components used in creating user profiles, and decision algorithms used for adaptation. For this purpose, articles and full-text papers in Web of Science, Google Scholar, and Eric databases between 2000–2021 were searched using the keywords "educational games", "serious games", "game-based learning", "adapt*", "player modeling", "user modeling". After applying the inclusion and exclusion procedures of studies accessed in the search, 26 studies were included in the study. The studies were analyzed in line with the themes determined for the components used in the adaptation of educational games. According to the results, adaptive educational game design was made for a wide variety of fields such as programming teaching, physics, mathematics, computational thinking, and logic. As for adaptive factors; It was determined that adaptations were made for the game, educational content, interface, and non-player character (NPC) behaviors. It is understood that pre-game adaptation and in-game adaptation methods are used as adaptation types. Finally, it is seen that Bayesian networks, artificial neural networks, fuzzy logic, deep learning, item response theory, and decision tree methods are preferred as decision systems in the adaptation process. The findings of this literature review can facilitate the design process by providing a roadmap for researchers interested in adaptive educational game design.
+SN  - 1573-7608
+UR  - https://doi.org/10.1007/s10639-022-11462-1
+DO  - 10.1007/s10639-022-11462-1
+ID  - Aydin2023
+ER  - 

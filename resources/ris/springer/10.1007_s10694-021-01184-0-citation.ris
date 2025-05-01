@@ -1,0 +1,20 @@
+TY  - JOUR
+AU  - Khan, Aatif Ali
+AU  - Khan, Mustesin Ali
+AU  - Zhang, Chao
+AU  - Jiang, Liming
+AU  - Usmani, Asif
+PY  - 2022
+DA  - 2022/03/01
+TI  - OpenFIRE: An Open Computational Framework for Structural Response to Real Fires
+JO  - Fire Technology
+SP  - 1011
+EP  - 1038
+VL  - 58
+IS  - 2
+AB  - More than 1300 new buildings over 200 m tall have been built since the year 2000, representing 80% of the total number of supertall buildings globally. The proliferation of such challenging architecture in densely populated urban environments has led engineers to question the fitness of the prevalent prescriptive approaches in ensuring the safety of occupants in the event of a fire. This paper proposes a more rational methodology to estimate scientifically appropriate boundary conditions to represent realistic fire scenarios on the structure for more credible simulation of the consequent structural response using an integrated computational tool. An open-source framework, “OpenFIRE” is developed to implement the methodology. OpenFIRE is capable of simulating the whole sequence i.e., development of a fire scenario, heat transfer to the structure, and the thermomechanical response of the structure, through a sequential coupling of CFD tools with FE software. OpenFIRE exploits the capabilities of available tools such as FDS and OpenSEES and integrates them to produce a free, efficient, and open source computational framework which allows to customise and modify the source codes. It can bring structural fire community a step closer towards the adoption of performance-based designs. This framework is validated by comparing the thermal and structural responses of a square hollow section (SHS) steel column under fire with the experimental data. The critical parameters of the fire scenario produced by the framework are found in close agreement with the experimental data. The thermal and structural responses of the SHS column exposed to the developed fire scenario are also validated with test results in terms of structural temperatures, failure modes, and failure load.
+SN  - 1572-8099
+UR  - https://doi.org/10.1007/s10694-021-01184-0
+DO  - 10.1007/s10694-021-01184-0
+ID  - Khan2022
+ER  - 

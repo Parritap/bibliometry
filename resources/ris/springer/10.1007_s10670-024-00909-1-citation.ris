@@ -1,0 +1,13 @@
+TY  - JOUR
+AU  - Douven, Igor
+AU  - Verheyen, Steven
+PY  - 2024
+DA  - 2024/12/09
+TI  - Concept Learning: Convexity Versus Connectedness
+JO  - Erkenntnis
+AB  - In the context of the conceptual spaces framework, it has been argued that a natural concept is represented by a convex region in a similarity space. The convexity requirement has been defended on grounds of cognitive economy: among other benefits, concepts represented by convex regions have been said to be easily learnable, or more easily than concepts represented by nonconvex regions. There is some evidence that concepts in use are represented by regions that are convex, or at least almost so. There is so far no evidence that concepts represented by convex regions are more easily learnable than ones represented by regions that satisfy topological criteria that are somewhat less stringent, most notably that of connectedness. This note presents the outcomes from computational studies carried out on perceptual color space as well as on a shape space for representing various container objects, indicating that convexity indeed facilitates learning more than does connectedness. The studies use the training of neural nets as a model of human learning.
+SN  - 1572-8420
+UR  - https://doi.org/10.1007/s10670-024-00909-1
+DO  - 10.1007/s10670-024-00909-1
+ID  - Douven2024
+ER  - 

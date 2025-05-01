@@ -1,0 +1,22 @@
+TY  - JOUR
+AU  - Jain, Yash Raj
+AU  - Callaway, Frederick
+AU  - Griffiths, Thomas L.
+AU  - Dayan, Peter
+AU  - He, Ruiqi
+AU  - Krueger, Paul M.
+AU  - Lieder, Falk
+PY  - 2023
+DA  - 2023/06/01
+TI  - A computational process-tracing method for measuring people’s planning strategies and how they change over time
+JO  - Behavior Research Methods
+SP  - 2037
+EP  - 2079
+VL  - 55
+IS  - 4
+AB  - One of the most unique and impressive feats of the human mind is its ability to discover and continuously refine its own cognitive strategies. Elucidating the underlying learning and adaptation mechanisms is very difficult because changes in cognitive strategies are not directly observable. One important domain in which strategies and mechanisms are studied is planning. To enable researchers to uncover how people learn how to plan, we offer a tutorial introduction to a recently developed process-tracing paradigm along with a new computational method for measuring the nature and development of a person’s planning strategies from the resulting process-tracing data. Our method allows researchers to reveal experience-driven changes in people’s choice of individual planning operations, planning strategies, strategy types, and the relative contributions of different decision systems. We validate our method on simulated and empirical data. On simulated data, its inferences about the strategies and the relative influence of different decision systems are accurate. When evaluated on human data generated using our process-tracing paradigm, our computational method correctly detects the plasticity-enhancing effect of feedback and the effect of the structure of the environment on people’s planning strategies. Together, these methods can be used to investigate the mechanisms of cognitive plasticity and to elucidate how people acquire complex cognitive skills such as planning and problem-solving. Importantly, our methods can also be used to measure individual differences in cognitive plasticity and examine how different types (pedagogical) interventions affect the acquisition of cognitive skills.
+SN  - 1554-3528
+UR  - https://doi.org/10.3758/s13428-022-01789-5
+DO  - 10.3758/s13428-022-01789-5
+ID  - Jain2023
+ER  - 

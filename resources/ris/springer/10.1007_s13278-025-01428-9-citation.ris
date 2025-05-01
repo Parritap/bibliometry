@@ -1,0 +1,21 @@
+TY  - JOUR
+AU  - Thapa, Surendrabikram
+AU  - Shiwakoti, Shuvam
+AU  - Shah, Siddhant Bikram
+AU  - Adhikari, Surabhi
+AU  - Veeramani, Hariram
+AU  - Nasim, Mehwish
+AU  - Naseem, Usman
+PY  - 2025
+DA  - 2025/03/09
+TI  - Large language models (LLM) in computational social science: prospects, current state, and challenges
+JO  - Social Network Analysis and Mining
+SP  - 4
+VL  - 15
+IS  - 1
+AB  - The advent of large language models (LLMs) has marked a new era in the transformation of computational social science (CSS). This paper dives into the role of LLMs in CSS, particularly exploring their potential to revolutionize data analysis and content generation and contribute to a broader understanding of social phenomena. We begin by discussing the applications of LLMs in various computational problems in social science including sentiment analysis, hate speech detection, stance and humor detection, misinformation detection, event understanding, and social network analysis, illustrating their capacity to generate nuanced insights into human behavior and societal trends. Furthermore, we explore the innovative use of LLMs in generating social media content. We also discuss the various ethical, technical, and legal issues these applications pose, and considerations required for responsible LLM usage. We further present the challenges associated with data bias, privacy, and the integration of these models into existing research frameworks. This paper aims to provide a solid background on the potential of LLMs in CSS, their past applications, current problems, and how they can pave the way for revolutionizing CSS.
+SN  - 1869-5469
+UR  - https://doi.org/10.1007/s13278-025-01428-9
+DO  - 10.1007/s13278-025-01428-9
+ID  - Thapa2025
+ER  - 

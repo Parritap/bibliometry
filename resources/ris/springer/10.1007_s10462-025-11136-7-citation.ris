@@ -1,0 +1,20 @@
+TY  - JOUR
+AU  - Orka, Nabil Anan
+AU  - Awal, Md. Abdul
+AU  - Liò, Pietro
+AU  - Pogrebna, Ganna
+AU  - Ross, Allen G.
+AU  - Moni, Mohammad Ali
+PY  - 2025
+DA  - 2025/02/14
+TI  - Quantum deep learning in neuroinformatics: a systematic review
+JO  - Artificial Intelligence Review
+SP  - 134
+VL  - 58
+IS  - 5
+AB  - Neuroinformatics involves replicating and detecting intricate brain activities through computational models, where deep learning plays a foundational role. Our systematic review explores quantum deep learning (QDL), an emerging deep learning sub-field, to assess whether quantum-based approaches outperform classical approaches in brain data learning tasks. This review is a pioneering effort to compare these deep learning domains. In addition, we survey neuroinformatics and its various subdomains to understand the current state of the field and where QDL stands relative to recent advancements. Our statistical analysis of tumor classification studies (n = 16) reveals that QDL models achieved a mean accuracy of 0.9701 (95% CI 0.9533–0.9868), slightly outperforming classical models with a mean accuracy of 0.9650 (95% CI 0.9475–0.9825). We observed similar trends across Alzheimer’s diagnosis, stroke lesion detection, cognitive state monitoring, and brain age prediction, with QDL demonstrating better performance in metrics such as F1-score, dice coefficient, and RMSE. Our findings, paired with prior documented quantum advantages, highlight QDL’s promise in healthcare applications as quantum technology evolves. Our discussion outlines existing research gaps with the intent of encouraging further investigation in this developing field.
+SN  - 1573-7462
+UR  - https://doi.org/10.1007/s10462-025-11136-7
+DO  - 10.1007/s10462-025-11136-7
+ID  - Orka2025
+ER  - 

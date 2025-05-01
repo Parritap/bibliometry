@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Zhang, Zeyu
+AU  - Li, Yu
+AU  - Zhou, Weien
+AU  - Yao, Wen
+PY  - 2025
+DA  - 2025/02/20
+TI  - A fully mesh-independent non-linear topology optimization framework based on neural representations: Quasi-static problem
+JO  - Science China Physics, Mechanics & Astronomy
+SP  - 244611
+VL  - 68
+IS  - 4
+AB  - In artificial intelligence (AI) for science, the AI-empowered topology optimization methods have garnered sustained attention from researchers and achieved significant development. In this paper, we introduce the implicit neural representation (INR) from AI and the material point method (MPM) from the field of computational mechanics into topology optimization, resulting in a novel differentiable and fully mesh-independent topology optimization framework named MI-TONR, and it is then applied to nonlinear topology optimization (NTO) design. Within MI-TONR, the INR is combined with the topology description function to construct the design model, while implicit MPM is employed for physical response analysis. A skillful integration is achieved between the design model based on the continuous implicit representation field and the analysis model based on the Lagrangian particles. Along with updating parameters of the neural network (i.e., design variables), the structural topologies iteratively evolve according to the responses analysis results and optimization functions. The computational differentiability is ensured at every step of MI-TONR, enabling sensitivity analysis using automatic differentiation. In addition, we introduce the augmented Lagrangian Method to handle multiple constraints in topology optimization and adopt a learning rate adaptive adjustment scheme to enhance the robustness of the optimization process. Numerical examples demonstrate that MI-TONR can effectively conduct NTO design under large loads without any numerical techniques to mitigate numerical instabilities. Meanwhile, its natural satisfaction with the no-penetration condition facilitates the NTO design of considering contact. The infinite spatial resolution characteristic facilitates the generation of structural topology at multiple resolutions with clear and continuous boundaries.
+SN  - 1869-1927
+UR  - https://doi.org/10.1007/s11433-024-2576-7
+DO  - 10.1007/s11433-024-2576-7
+ID  - Zhang2025
+ER  - 

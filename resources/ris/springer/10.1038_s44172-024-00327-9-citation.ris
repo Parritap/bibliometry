@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Vergnolle, Michael Qian
+AU  - Wu, Eastman Z. Y.
+AU  - Sui, Yanan
+AU  - Wang, Qian
+PY  - 2024
+DA  - 2024/11/29
+TI  - Bio-inspired multi-dimensional deep fusion learning for predicting dynamical aerospace propulsion systems
+JO  - Communications Engineering
+SP  - 179
+VL  - 3
+IS  - 1
+AB  - Rapid and precise forecasting of dynamical systems is critical to ensuring safe aerospace missions. Previous forecasting research has primarily concentrated on global trend analysis using full-scale inputs. However, time series arising from real-world applications such as aerospace propulsion, exhibit a distinct dynamical periodicity over a limited timeframe. Here we develop a deep learning model, TimeWaves, to capture both global trends and local variations, through 3D spectrum-oriented interval extraction from an integrated viewpoint of biological perceptions. Specifically, a shared parameter fusion algorithm is employed to effectively integrate Fourier and Wavelet analyses, providing full and sliced 1D sequences to form 2D tensors that can be seamlessly processed by parameter-efficient inception blocks. Additionally, a dual-way learning workflow using TwinBlock, inspired by the cooperative behavior of visual cells, is implemented to enhance perception of dynamical multi-scale features at a reduced computational cost. TimeWaves demonstrates reliable and robust performance in predicting rocket combustion instability, a key challenge in the aerospace industry.
+SN  - 2731-3395
+UR  - https://doi.org/10.1038/s44172-024-00327-9
+DO  - 10.1038/s44172-024-00327-9
+ID  - Vergnolle2024
+ER  - 

@@ -1,0 +1,16 @@
+TY  - JOUR
+AU  - Pérez-Romero, Jesús
+AU  - Aguilar, Wendy
+PY  - 2024
+DA  - 2024/12/13
+TI  - Towards a Collaborative Game Designer Using the CCDSF Framework
+JO  - New Generation Computing
+SP  - 4
+VL  - 43
+IS  - 1
+AB  - The Computational Creative Design Systems Framework (CCDSF) was formulated from a mixed perspective of the fields of design research and computational creativity to describe, analyze, and model Computational Creative Design Systems (CCDSs) either as autonomous agents or as collaborative systems involving two or more design agents in purely computational or human-computer interaction mode. In this paper, we present the first proof-of-concept (PoC) of the CCDSF, demonstrating the incremental construction of a human-computer collaborative CCDS for the design of puzzle-type video games. This CCDS is composed of a computational design agent that evolves through three versions—assistant, apprentice, and creative assistant—each acquiring new technical and creative capabilities and assuming roles with higher levels of collaboration. The system includes a graphical user interface (collaborative environment) that has been conceptualized, implemented, and evaluated following the principles of user interface, user experience, and interaction design. Each building block of the CCDSF was systematically designed, encompassing the top-level experience-dynamics-mechanics design schema down to the underlying perception-action strategies. While further research is needed, our collaborative CCDS, presented as a PoC of the CCDSF, demonstrates its potential to aid human designers in generating viable designs and enhancing their technical and creative performance in various ways.
+SN  - 1882-7055
+UR  - https://doi.org/10.1007/s00354-024-00287-w
+DO  - 10.1007/s00354-024-00287-w
+ID  - Pérez-Romero2024
+ER  - 

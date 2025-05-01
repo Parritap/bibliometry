@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Leal, Thiago Franco
+AU  - de Moura, Carlos Antônio
+AU  - Kritz, Maurício Vieira
+AU  - Prokop, Andreas
+PY  - 2024
+DA  - 2024/11/12
+TI  - Flow in filopodia: re-organization and the representation of biological entities as computational objects
+JO  - Computational and Applied Mathematics
+SP  - 28
+VL  - 44
+IS  - 1
+AB  - Actin is the most abundant protein in eukaryotic cells. They form filamentous polymers that are organized in different ways within the cell to perform various functions. For instance, prominent parallel bundles of F-actins mediate the formation and dynamics of filopodia that are long, finger-like protrusions of cell membrane occurring in certain cells, like growing neurons. Understanding actin organization dynamics and its regulation is a crucial problem for biologists that cannot be solved exclusively by biological methods, requiring the support of mathematical and computational modelling. In this work, grounded on a previous hypothesis of ours about the cytosol flow within filopodia, we address several modelling challenges posed by the growth of filopodia in neurons. We use alternative stochastic models and particle-centered numerical methods for transport and elongations, as well as an innovative object-oriented modelling-strategy to represent chemical transformations, polymerization, and their regulation. These modelling strategies allowed for simulating elongations 20 times longer than the typical ranges attained by commonly used filopodia diffusion models, and show that our hypothesis is feasible, acting as a proof-of-concept about the importance of considering organization as a key element in biological explanations.
+SN  - 1807-0302
+UR  - https://doi.org/10.1007/s40314-024-02720-8
+DO  - 10.1007/s40314-024-02720-8
+ID  - Leal2024
+ER  - 

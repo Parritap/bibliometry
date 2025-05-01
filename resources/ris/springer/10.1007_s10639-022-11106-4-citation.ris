@@ -1,0 +1,16 @@
+TY  - JOUR
+AU  - Cazarez, Rosa Leonor Ulloa
+PY  - 2022
+DA  - 2022/09/01
+TI  - Accuracy comparison between statistical and computational classifiers applied for predicting student performance in online higher education
+JO  - Education and Information Technologies
+SP  - 11565
+EP  - 11590
+VL  - 27
+IS  - 8
+AB  - Educational institutions abruptly implemented online higher education to cope with sanitary distance restrictions in 2020, causing an increment in student failure. This negative impact attracts the analyses of online higher education as a critical issue for educational systems. The early identification of students at risk is a strategy to cope with this issue by predicting their performance. Computational techniques are projected helpful in performing this task. However, the accurateness of predictions and the best model selection are goals in progress. This work objective is to describe two experiments using student grades of an online higher education program to build and apply three classifiers to predict student performance. In the literature, the three classifiers, a Probabilistic Neural Network, a Support Vector Machine, and a Discriminant Analysis, have proved efficient. I applied the leave-one-out cross-validation method, tested their performances by five criteria, and compared their results through statistical analysis. The analyses of the five performance criteria support the decision on which model applies given particular prediction goals. The results allow timely identification of students at risk of failure for early intervention and predict which students will succeed.
+SN  - 1573-7608
+UR  - https://doi.org/10.1007/s10639-022-11106-4
+DO  - 10.1007/s10639-022-11106-4
+ID  - Cazarez2022
+ER  - 

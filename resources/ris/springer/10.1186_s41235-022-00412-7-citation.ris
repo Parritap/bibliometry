@@ -1,0 +1,16 @@
+TY  - JOUR
+AU  - Sandry, Joshua
+AU  - Ricker, Timothy J.
+PY  - 2022
+DA  - 2022/07/22
+TI  - Motor speed does not impact the drift rate: a computational HDDM approach to differentiate cognitive and motor speed
+JO  - Cognitive Research: Principles and Implications
+SP  - 66
+VL  - 7
+IS  - 1
+AB  - The drift diffusion model (DDM) is a widely applied computational model of decision making that allows differentiation between latent cognitive and residual processes. One main assumption of the DDM that has undergone little empirical testing is the level of independence between cognitive and motor responses. If true, widespread incorporation of DDM estimation into applied and clinical settings could ease assessment of whether response disruption occurs due to cognitive or motor slowing. Across two experiments, we manipulated response force (motor speed) and set size to evaluate whether drift rates are independent of motor slowing or if motor slowing impacts the drift rate parameter. The hierarchical Bayesian drift diffusion model was used to quantify parameter estimates of drift rate, boundary separation, and non-decision time. Model comparison revealed changes in set size impacted the drift rate while changes in response force did not impact the drift rate, validating independence between drift rates and motor speed. Convergent validity between parameter estimates and traditional assessments of processing speed and motor function were weak or absent. Widespread application, including neurocognitive assessment where confounded changes in cognitive and motor slowing are pervasive, may provide a more process-pure measurement of information processing speed, leading to advanced disease-symptom management.
+SN  - 2365-7464
+UR  - https://doi.org/10.1186/s41235-022-00412-7
+DO  - 10.1186/s41235-022-00412-7
+ID  - Sandry2022
+ER  - 

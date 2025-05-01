@@ -1,0 +1,22 @@
+TY  - JOUR
+AU  - Huang, Kai
+AU  - Sun, Kai
+AU  - Li, Jiayi
+AU  - Wu, Zhe
+AU  - Wu, Xian
+AU  - Duan, Yuping
+AU  - Chen, Xiang
+AU  - Zhao, Shuang
+PY  - 2025
+DA  - 2025/01/25
+TI  - Intelligent strategy for severity scoring of skin diseases based on clinical decision-making thinking with lesion-aware transformer
+JO  - Artificial Intelligence Review
+SP  - 95
+VL  - 58
+IS  - 4
+AB  - Skin diseases are numerous in types and high in incidence, posing a serious threat to human health. Accurately assessing the severity of skin diseases helps dermatologists in making personalized treatment decisions. However, focusing solely on the skin lesion itself and ignoring the true state of the surrounding skin can lead to distorted results. Assessing the severity of the condition should be a holistic process. Specifically, dermatologists need to compare the abnormal skin with surrounding skin to conduct the diagnosis. To imitate such diagnosis practice of dermatologists, we propose LSATrans, a Transformer based framework customized for severity scoring of skin diseases. Different from the Standard Self-Attention module, we propose the Lesion-aware Self-Attention (LSA) module. LSA can capture the visual features of both lesion and normal surrounding skin areas and include their relationship in modeling. In addition to LSA, the proposed LSATrans also introduces a contrastive learning strategy for further optimization. We first evaluated the performance of LSATrans in scar, atopic dermatitis, and psoriasis scoring tasks, and it achieved mean absolute errors of 0.5895, 0.5614, and 0.5416 respectively in these three tasks. Furthermore, we conducted additional validation of LSATrans’s performance in two distinct skin disease diagnosis tasks, where it demonstrated remarkable outcomes with AUCs of 0.9774 and 0.9801, respectively, in the classification of common skin diseases and subtypes of skin diseases. These results are better than existing methods, indicating that LSATrans is expected to become a universal, accurate and objective intelligent tool for scoring the severity of skin diseases.
+SN  - 1573-7462
+UR  - https://doi.org/10.1007/s10462-024-11083-9
+DO  - 10.1007/s10462-024-11083-9
+ID  - Huang2025
+ER  - 

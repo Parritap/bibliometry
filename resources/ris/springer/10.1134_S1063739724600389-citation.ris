@@ -1,0 +1,16 @@
+TY  - JOUR
+AU  - Simonov, N. A.
+PY  - 2024
+DA  - 2024/10/01
+TI  - Development of an Apparatus of Imaginative Information Representation for Neuromorphic Devices
+JO  - Russian Microelectronics
+SP  - 423
+EP  - 432
+VL  - 53
+IS  - 5
+AB  - The paper discusses the use of the mathematical apparatus of spots for neuromorphic devices on crossbars of memory elements, whose architecture corresponds to the in-memory computing technology. The spot apparatus allows us to represent and process semantic information in the form of mental imagery and model reasoning in a form characteristic of a person. This includes deductive, inductive, abductive, and nonmonotonic reasoning, when conclusions are drawn based on the existing knowledge and obtaining new knowledge can change the conclusions. The spot apparatus is the mathematical basis for creating neuromorphic devices with in-memory computing technology, capable not only of representing semantic information in imagery form but also of modeling imaginative thinking. This will permit us to solve a significant problem for modern deep neural networks related to the possibility of random, unconditional errors.
+SN  - 1608-3415
+UR  - https://doi.org/10.1134/S1063739724600389
+DO  - 10.1134/S1063739724600389
+ID  - Simonov2024
+ER  - 

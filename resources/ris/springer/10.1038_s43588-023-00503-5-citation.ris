@@ -1,0 +1,21 @@
+TY  - JOUR
+AU  - Zheng, Yu
+AU  - Lin, Yuming
+AU  - Zhao, Liang
+AU  - Wu, Tinghai
+AU  - Jin, Depeng
+AU  - Li, Yong
+PY  - 2023
+DA  - 2023/09/01
+TI  - Spatial planning of urban communities via deep reinforcement learning
+JO  - Nature Computational Science
+SP  - 748
+EP  - 762
+VL  - 3
+IS  - 9
+AB  - Effective spatial planning of urban communities plays a critical role in the sustainable development of cities. Despite the convenience brought by geographic information systems and computer-aided design, determining the layout of land use and roads still heavily relies on human experts. Here we propose an artificial intelligence urban-planning model to generate spatial plans for urban communities. To overcome the difficulty of diverse and irregular urban geography, we construct a graph to describe the topology of cities in arbitrary forms and formulate urban planning as a sequential decision-making problem on the graph. To tackle the challenge of the vast solution space, we develop a reinforcement learning model based on graph neural networks. Experiments on both synthetic and real-world communities demonstrate that our computational model outperforms plans designed by human experts in objective metrics and that it can generate spatial plans responding to different circumstances and needs. We also propose a human–artificial intelligence collaborative workflow of urban planning, in which human designers can substantially benefit from our model to be more productive, generating more efficient spatial plans with much less time. Our method demonstrates the great potential of computational urban planning and paves the way for more explorations in leveraging computational methodologies to solve challenging real-world problems in urban science.
+SN  - 2662-8457
+UR  - https://doi.org/10.1038/s43588-023-00503-5
+DO  - 10.1038/s43588-023-00503-5
+ID  - Zheng2023
+ER  - 

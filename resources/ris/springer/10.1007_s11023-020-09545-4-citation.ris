@@ -1,0 +1,16 @@
+TY  - JOUR
+AU  - Pantsar, Markus
+PY  - 2021
+DA  - 2021/03/01
+TI  - Descriptive Complexity, Computational Tractability, and the Logical and Cognitive Foundations of Mathematics
+JO  - Minds and Machines
+SP  - 75
+EP  - 98
+VL  - 31
+IS  - 1
+AB  - In computational complexity theory, decision problems are divided into complexity classes based on the amount of computational resources it takes for algorithms to solve them. In theoretical computer science, it is commonly accepted that only functions for solving problems in the complexity class P, solvable by a deterministic Turing machine in polynomial time, are considered to be tractable. In cognitive science and philosophy, this tractability result has been used to argue that only functions in P can feasibly work as computational models of human cognitive capacities. One interesting area of computational complexity theory is descriptive complexity, which connects the expressive strength of systems of logic with the computational complexity classes. In descriptive complexity theory, it is established that only first-order (classical) systems are connected to P, or one of its subclasses. Consequently, second-order systems of logic are considered to be computationally intractable, and may therefore seem to be unfit to model human cognitive capacities. This would be problematic when we think of the role of logic as the foundations of mathematics. In order to express many important mathematical concepts and systematically prove theorems involving them, we need to have a system of logic stronger than classical first-order logic. But if such a system is considered to be intractable, it means that the logical foundation of mathematics can be prohibitively complex for human cognition. In this paper I will argue, however, that this problem is the result of an unjustified direct use of computational complexity classes in cognitive modelling. Placing my account in the recent literature on the topic, I argue that the problem can be solved by considering computational complexity for humanly relevant problem solving algorithms and input sizes.
+SN  - 1572-8641
+UR  - https://doi.org/10.1007/s11023-020-09545-4
+DO  - 10.1007/s11023-020-09545-4
+ID  - Pantsar2021
+ER  - 

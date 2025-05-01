@@ -1,0 +1,21 @@
+TY  - JOUR
+AU  - Wei, Jinzhao
+AU  - Li, Licong
+AU  - Zhang, Jiayi
+AU  - Shi, Erdong
+AU  - Yang, Jianli
+AU  - Liu, Xiuling
+PY  - 2025
+DA  - 2025/01/01
+TI  - Computational Modeling of the Prefrontal-Cingulate Cortex to Investigate the Role of Coupling Relationships for Balancing Emotion and Cognition
+JO  - Neuroscience Bulletin
+SP  - 33
+EP  - 45
+VL  - 41
+IS  - 1
+AB  - Within the prefrontal-cingulate cortex, abnormalities in coupling between neuronal networks can disturb the emotion-cognition interactions, contributing to the development of mental disorders such as depression. Despite this understanding, the neural circuit mechanisms underlying this phenomenon remain elusive. In this study, we present a biophysical computational model encompassing three crucial regions, including the dorsolateral prefrontal cortex, subgenual anterior cingulate cortex, and ventromedial prefrontal cortex. The objective is to investigate the role of coupling relationships within the prefrontal-cingulate cortex networks in balancing emotions and cognitive processes. The numerical results confirm that coupled weights play a crucial role in the balance of emotional cognitive networks. Furthermore, our model predicts the pathogenic mechanism of depression resulting from abnormalities in the subgenual cortex, and network functionality was restored through intervention in the dorsolateral prefrontal cortex. This study utilizes computational modeling techniques to provide an insight explanation for the diagnosis and treatment of depression.
+SN  - 1995-8218
+UR  - https://doi.org/10.1007/s12264-024-01246-7
+DO  - 10.1007/s12264-024-01246-7
+ID  - Wei2025
+ER  - 

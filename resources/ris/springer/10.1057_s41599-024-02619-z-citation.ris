@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Ball, Brian
+AU  - Koliousis, Alexandros
+AU  - Mohanan, Amil
+AU  - Peacey, Mike
+PY  - 2024
+DA  - 2024/01/31
+TI  - Computational philosophy: reflections on the PolyGraphs project
+JO  - Humanities and Social Sciences Communications
+SP  - 186
+VL  - 11
+IS  - 1
+AB  - In this paper, we situate our computational approach to philosophy relative to other digital humanities and computational social science practices, based on reflections stemming from our research on the PolyGraphs project in social epistemology. We begin by describing PolyGraphs. An interdisciplinary project funded by the Academies (BA, RS, and RAEng) and the Leverhulme Trust, it uses philosophical simulations (Mayo-Wilson and Zollman, 2021) to study how ignorance prevails in networks of inquiring rational agents. We deploy models developed in economics (Bala and Goyal, 1998), and refined in philosophy (O’Connor and Weatherall, 2018; Zollman, 2007), to simulate communities of agents engaged in inquiry, who generate evidence relevant to the topic of their investigation and share it with their neighbors, updating their beliefs on the evidence available to them. We report some novel results surrounding the prevalence of ignorance in such networks. In the second part of the paper, we compare our own to other related academic practices. We begin by noting that, in digital humanities projects of certain types, the computational component does not appear to directly support the humanities research itself; rather, the digital and the humanities are simply grafted together, not fully intertwined and integrated. PolyGraphs is notably different: the computational work directly supports the investigation of the primary research questions, which themselves belong decidedly within the humanities in general, and philosophy in particular. This suggests an affinity with certain projects in the computational social sciences. But despite these real similarities, there are differences once again: the computational philosophy we practice aims not so much at description and prediction as at answering the normative and interpretive questions that are distinctive of humanities research.
+SN  - 2662-9992
+UR  - https://doi.org/10.1057/s41599-024-02619-z
+DO  - 10.1057/s41599-024-02619-z
+ID  - Ball2024
+ER  - 

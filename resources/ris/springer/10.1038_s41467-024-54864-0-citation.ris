@@ -1,0 +1,17 @@
+TY  - JOUR
+AU  - Zhang, Xingjian
+AU  - Pan, Zhaokai
+AU  - Liu, Guoding
+PY  - 2024
+DA  - 2024/12/03
+TI  - Unconditional quantum magic advantage in shallow circuit computation
+JO  - Nature Communications
+SP  - 10513
+VL  - 15
+IS  - 1
+AB  - Quantum theory promises computational speed-ups over classical approaches. The celebrated Gottesman-Knill Theorem implies that the full power of quantum computation resides in the specific resource of “magic” states—the secret sauce to establish universal quantum computation. However, it is still questionable whether magic indeed brings the believed quantum advantage, ridding unproven complexity assumptions or black-box oracles. In this work, we demonstrate the first unconditional magic advantage: a separation between the power of generic constant-depth or shallow quantum circuits and magic-free counterparts. For this purpose, we link the shallow circuit computation with the strongest form of quantum nonlocality—quantum pseudo-telepathy, where distant non-communicating observers generate perfectly synchronous statistics. We prove quantum magic is indispensable for such correlated statistics in a specific nonlocal game inspired by the linear binary constraint system. Then, we translate generating quantum pseudo-telepathy into computational tasks, where magic is necessary for a shallow circuit to meet the target. As a by-product, we provide an efficient algorithm to solve a general linear binary constraint system over the Pauli group, in contrast to the broad undecidability in constraint systems. We anticipate our results will enlighten the final establishment of the unconditional advantage of universal quantum computation.
+SN  - 2041-1723
+UR  - https://doi.org/10.1038/s41467-024-54864-0
+DO  - 10.1038/s41467-024-54864-0
+ID  - Zhang2024
+ER  - 

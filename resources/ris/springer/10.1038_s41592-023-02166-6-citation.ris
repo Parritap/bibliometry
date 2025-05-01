@@ -1,0 +1,24 @@
+TY  - JOUR
+AU  - Garmire, Lana X.
+AU  - Li, Yijun
+AU  - Huang, Qianhui
+AU  - Xu, Chuan
+AU  - Teichmann, Sarah A.
+AU  - Kaminski, Naftali
+AU  - Pellegrini, Matteo
+AU  - Nguyen, Quan
+AU  - Teschendorff, Andrew E.
+PY  - 2024
+DA  - 2024/03/01
+TI  - Challenges and perspectives in computational deconvolution of genomics data
+JO  - Nature Methods
+SP  - 391
+EP  - 400
+VL  - 21
+IS  - 3
+AB  - Deciphering cell-type heterogeneity is crucial for systematically understanding tissue homeostasis and its dysregulation in diseases. Computational deconvolution is an efficient approach for estimating cell-type abundances from a variety of omics data. Despite substantial methodological progress in computational deconvolution in recent years, challenges are still outstanding. Here we enlist four important challenges related to computational deconvolution: the quality of the reference data, generation of ground truth data, limitations of computational methodologies, and benchmarking design and implementation. Finally, we make recommendations on reference data generation, new directions of computational methodologies, and strategies to promote rigorous benchmarking.
+SN  - 1548-7105
+UR  - https://doi.org/10.1038/s41592-023-02166-6
+DO  - 10.1038/s41592-023-02166-6
+ID  - Garmire2024
+ER  - 

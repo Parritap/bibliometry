@@ -1,0 +1,21 @@
+TY  - JOUR
+AU  - Hutchins, Nicole M.
+AU  - Biswas, Gautam
+AU  - Zhang, Ningyu
+AU  - Snyder, Caitlin
+AU  - Lédeczi, Ákos
+AU  - Maróti, Miklós
+PY  - 2020
+DA  - 2020/11/01
+TI  - Domain-Specific Modeling Languages in Computer-Based Learning Environments: a Systematic Approach to Support Science Learning through Computational Modeling
+JO  - International Journal of Artificial Intelligence in Education
+SP  - 537
+EP  - 580
+VL  - 30
+IS  - 4
+AB  - Driven by our technologically advanced workplaces and the surge in demand for proficiency in the computing disciplines, it is becoming imperative to provide computational thinking (CT) opportunities to all students. One approach for making computing accessible and relevant to learning and problem-solving in K-12 environments is to integrate it with existing Science, Technology, Engineering, and Math (STEM) curricula. However, novice student learners may face several difficulties in trying to learn STEM and computing concepts simultaneously. To address some of these difficulties, we present a systematic approach to learning STEM and CT by designing and developing domain-specific modeling languages (DSMLs) to aid students in their model building and problem-solving processes. The paper discusses a theoretical framework and the design principles for developing DSMLs, which is implemented as a four-step process. We apply the four-step process in three domains: Physics, Marine Biology, and Earth Science to demonstrate its generality, and then perform case studies to show how the DSMLs impact student learning and model building. We conclude with a discussion of our findings and then present directions for future work.
+SN  - 1560-4306
+UR  - https://doi.org/10.1007/s40593-020-00209-z
+DO  - 10.1007/s40593-020-00209-z
+ID  - Hutchins2020
+ER  - 

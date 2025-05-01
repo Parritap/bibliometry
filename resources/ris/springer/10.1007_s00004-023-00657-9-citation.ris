@@ -1,0 +1,19 @@
+TY  - JOUR
+AU  - Wagiri, Felicia
+AU  - Shih, Shen-Guan
+AU  - Harsono, Kevin
+AU  - Lin, Jia-Yang
+PY  - 2023
+DA  - 2023/12/01
+TI  - Application of Fabric Formwork based on a Truchet Tiling Pattern for Planar Surfaces
+JO  - Nexus Network Journal
+SP  - 867
+EP  - 885
+VL  - 25
+IS  - 4
+AB  - This paper proposes a hybrid design technique for precast panels that incorporates soft-material formwork, computational form-finding, and the Truchet tiling concept. Initial experiments were conducted to investigate how flexible membranes, such as polyester, can create natural tension shapes that rigid molds cannot achieve. Compared to traditional metal and wooden formworks, fabric formwork offers greater sustainability due to its low cost, rapid fabrication, and ease of transport, making it a viable alternative for fabricating Truchet tile-based panels. The panels will be generated using regular polygons with multiple random curves inside, creating infinitely repeatable patterns. To simulate the continuity of the bump deflection, a parametric design script will be developed in conjunction with the concept of medial axis. Ultimately, an efficient and effective method of fabric formwork based on Truchet tiles will serve as a practical reference for future research.
+SN  - 1522-4600
+UR  - https://doi.org/10.1007/s00004-023-00657-9
+DO  - 10.1007/s00004-023-00657-9
+ID  - Wagiri2023
+ER  - 

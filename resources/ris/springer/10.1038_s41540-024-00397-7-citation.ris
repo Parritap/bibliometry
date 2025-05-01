@@ -1,0 +1,16 @@
+TY  - JOUR
+AU  - Ma, Chenhui
+AU  - Gurkan-Cavusoglu, Evren
+PY  - 2024
+DA  - 2024/07/05
+TI  - A comprehensive review of computational cell cycle models in guiding cancer treatment strategies
+JO  - npj Systems Biology and Applications
+SP  - 71
+VL  - 10
+IS  - 1
+AB  - This article reviews the current knowledge and recent advancements in computational modeling of the cell cycle. It offers a comparative analysis of various modeling paradigms, highlighting their unique strengths, limitations, and applications. Specifically, the article compares deterministic and stochastic models, single-cell versus population models, and mechanistic versus abstract models. This detailed analysis helps determine the most suitable modeling framework for various research needs. Additionally, the discussion extends to the utilization of these computational models to illuminate cell cycle dynamics, with a particular focus on cell cycle viability, crosstalk with signaling pathways, tumor microenvironment, DNA replication, and repair mechanisms, underscoring their critical roles in tumor progression and the optimization of cancer therapies. By applying these models to crucial aspects of cancer therapy planning for better outcomes, including drug efficacy quantification, drug discovery, drug resistance analysis, and dose optimization, the review highlights the significant potential of computational insights in enhancing the precision and effectiveness of cancer treatments. This emphasis on the intricate relationship between computational modeling and therapeutic strategy development underscores the pivotal role of advanced modeling techniques in navigating the complexities of cell cycle dynamics and their implications for cancer therapy.
+SN  - 2056-7189
+UR  - https://doi.org/10.1038/s41540-024-00397-7
+DO  - 10.1038/s41540-024-00397-7
+ID  - Ma2024
+ER  - 

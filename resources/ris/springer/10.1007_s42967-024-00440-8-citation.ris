@@ -1,0 +1,14 @@
+TY  - JOUR
+AU  - Yu, Bo
+AU  - Du, Jiaxin
+AU  - Qin, Xiaoxiao
+PY  - 2024
+DA  - 2024/08/08
+TI  - Fast Algorithms for Computing the Hilbert Transform of a Given Function with Cubic Splines
+JO  - Communications on Applied Mathematics and Computation
+AB  - It is important to compute the Hilbert transform of a given function defined on a finite interval. In 2013, Micchelli and his collaborators proposed a fast algorithm, which is called the Hilbert spline transform, to calculate the Hilbert transform of a given function on a finite interval with the computational complexity $$O(n\log n)$$, where the spline knots were chosen to be the midpoints of sampling points. A natural question is that, whether or not the spline knots can be chosen to be the same as the sampling points. This paper gives a positive answer to this question. Besides, the analytic expression of the Hilbert transform of B-splines of any order is also established. Furthermore, the problem of how to choose spline coefficients, using the quasi-interpolation method or interpolation method, is also considered, although both make sure an optimal approximation order. Several interesting numerical examples are implemented and compared with most of the existing methods. Numerical results show that the proposed algorithm has a relatively high computational accuracy as well as a relatively low computational complexity.
+SN  - 2661-8893
+UR  - https://doi.org/10.1007/s42967-024-00440-8
+DO  - 10.1007/s42967-024-00440-8
+ID  - Yu2024
+ER  - 

@@ -1,0 +1,21 @@
+TY  - JOUR
+AU  - Crielaard, Loes
+AU  - Quax, Rick
+AU  - Sawyer, Alexia D. M.
+AU  - Vasconcelos, Vítor V.
+AU  - Nicolaou, Mary
+AU  - Stronks, Karien
+AU  - Sloot, Peter M. A.
+PY  - 2023
+DA  - 2023/11/29
+TI  - Using network analysis to identify leverage points based on causal loop diagrams leads to false inference
+JO  - Scientific Reports
+SP  - 21046
+VL  - 13
+IS  - 1
+AB  - Network analysis is gaining momentum as an accepted practice to identify which factors in causal loop diagrams (CLDs)—mental models that graphically represent causal relationships between a system’s factors—are most likely to shift system-level behaviour, known as leverage points. This application of network analysis, employed to quantitatively identify leverage points without having to use computational modelling approaches that translate CLDs into sets of mathematical equations, has however not been duly reflected upon. We evaluate whether using commonly applied network analysis metrics to identify leverage points is justified, focusing on betweenness- and closeness centrality. First, we assess whether the metrics identify the same leverage points based on CLDs that represent the same system but differ in inferred causal structure—finding that they provide unreliable results. Second, we consider conflicts between assumptions underlying the metrics and CLDs. We recognise six conflicts suggesting that the metrics are not equipped to take key information captured in CLDs into account. In conclusion, using betweenness- and closeness centrality to identify leverage points based on CLDs is at best premature and at worst incorrect—possibly causing erroneous identification of leverage points. This is problematic as, in current practice, the results can inform policy recommendations. Other quantitative or qualitative approaches that better correspond with the system dynamics perspective must be explored.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-023-46531-z
+DO  - 10.1038/s41598-023-46531-z
+ID  - Crielaard2023
+ER  - 

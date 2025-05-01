@@ -1,0 +1,17 @@
+TY  - JOUR
+AU  - Frolichs, Koen M. M.
+AU  - Rosenblau, Gabriela
+AU  - Korn, Christoph W.
+PY  - 2022
+DA  - 2022/10/20
+TI  - Incorporating social knowledge structures into computational models
+JO  - Nature Communications
+SP  - 6205
+VL  - 13
+IS  - 1
+AB  - To navigate social interactions successfully, humans need to continuously learn about the personality traits of other people (e.g., how helpful or aggressive is the other person?). However, formal models that capture the complexities of social learning processes are currently lacking. In this study, we specify and test potential strategies that humans can employ for learning about others. Standard Rescorla-Wagner (RW) learning models only capture parts of the learning process because they neglect inherent knowledge structures and omit previously acquired knowledge. We therefore formalize two social knowledge structures and implement them in hybrid RW models to test their usefulness across multiple social learning tasks. We name these concepts granularity (knowledge structures about personality traits that can be utilized at different levels of detail during learning) and reference points (previous knowledge formalized into representations of average people within a social group). In five behavioural experiments, results from model comparisons and statistical analyses indicate that participants efficiently combine the concepts of granularity and reference points—with the specific combinations in models depending on the people and traits that participants learned about. Overall, our experiments demonstrate that variants of RW algorithms, which incorporate social knowledge structures, describe crucial aspects of the dynamics at play when people interact with each other.
+SN  - 2041-1723
+UR  - https://doi.org/10.1038/s41467-022-33418-2
+DO  - 10.1038/s41467-022-33418-2
+ID  - Frolichs2022
+ER  - 

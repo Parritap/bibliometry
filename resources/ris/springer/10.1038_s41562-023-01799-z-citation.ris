@@ -1,0 +1,17 @@
+TY  - JOUR
+AU  - Spens, Eleanor
+AU  - Burgess, Neil
+PY  - 2024
+DA  - 2024/03/01
+TI  - A generative model of memory construction and consolidation
+JO  - Nature Human Behaviour
+SP  - 526
+EP  - 543
+VL  - 8
+IS  - 3
+AB  - Episodic memories are (re)constructed, share neural substrates with imagination, combine unique features with schema-based predictions and show schema-based distortions that increase with consolidation. Here we present a computational model in which hippocampal replay (from an autoassociative network) trains generative models (variational autoencoders) to (re)create sensory experiences from latent variable representations in entorhinal, medial prefrontal and anterolateral temporal cortices via the hippocampal formation. Simulations show effects of memory age and hippocampal lesions in agreement with previous models, but also provide mechanisms for semantic memory, imagination, episodic future thinking, relational inference and schema-based distortions including boundary extension. The model explains how unique sensory and predictable conceptual elements of memories are stored and reconstructed by efficiently combining both hippocampal and neocortical systems, optimizing the use of limited hippocampal storage for new and unusual information. Overall, we believe hippocampal replay training generative models provides a comprehensive account of memory construction, imagination and consolidation.
+SN  - 2397-3374
+UR  - https://doi.org/10.1038/s41562-023-01799-z
+DO  - 10.1038/s41562-023-01799-z
+ID  - Spens2024
+ER  - 

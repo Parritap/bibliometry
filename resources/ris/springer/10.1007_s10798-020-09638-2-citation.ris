@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Chaudhuri, Nandita Bhanja
+AU  - Dhar, Debayan
+AU  - Yammiyavar, Pradeep G.
+PY  - 2022
+DA  - 2022/04/01
+TI  - A computational model for subjective evaluation of novelty in descriptive aptitude
+JO  - International Journal of Technology and Design Education
+SP  - 1121
+EP  - 1158
+VL  - 32
+IS  - 2
+AB  - Evaluating novelty in design education is subjective and generally depends on expert’s referential metrics. Presently, practitioners in this field perform subjective evaluation of answers of prospective students, but many a time, humans are prone to errors when associated with repetitive tasks on large-scale. Therefore, this paper attempts to automate the process of evaluating novelty by a proposed computational model. The present study explores design aptitude to evaluate novelty in solutions provided by students in an examination. Mixed-methods research is conducted based on structured questionnaire and analysis to investigate features of subjective evaluation of novelty practiced for evaluation in design education. The survey resulted in features that closely resemble human evaluation strategies for evaluating novelty from descriptive solutions. Further, a computational model is proposed, designed, and implemented that evaluates novelty. Scores are generated for each feature by unsupervised learning techniques, eventually calculating novelty score by a scoring function. This model suggests unambiguous scores to solutions, which might help in a consistent selection of students aspiring admission to design schools. This study attempts to reduce pain points of educational practitioners by offering a voluntary automated technique for subjective evaluation and optimize trustworthiness of students in examination process. In future, this model can be extended for evaluating any other domain of interest.
+SN  - 1573-1804
+UR  - https://doi.org/10.1007/s10798-020-09638-2
+DO  - 10.1007/s10798-020-09638-2
+ID  - Chaudhuri2022
+ER  - 

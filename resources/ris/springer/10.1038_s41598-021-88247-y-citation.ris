@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Ghanizadeh, Amin
+AU  - Song, Chengyao
+AU  - Hamdi, Hamidreza
+AU  - Clarkson, Christopher R.
+PY  - 2021
+DA  - 2021/05/04
+TI  - Experimental and computational evaluation of cyclic solvent injection in fractured tight hydrocarbon reservoirs
+JO  - Scientific Reports
+SP  - 9497
+VL  - 11
+IS  - 1
+AB  - Multi-fractured horizontal wells have enabled commercial production from low-permeability (‘tight’) hydrocarbon reservoirs but recoveries remain exceedingly small (< 5–10%). As a result, operators have investigated the use of solvent (gas) injection schemes, such as huff-n-puff (HNP), to improve oil recovery. Previous HNP laboratory approaches, classified primary as ‘flow-through-matrix’ and ‘flow-around-matrix’ typically (1) are not fully representative of field conditions at near-fracture regions and (2) require long test times, even when performed on fractured cores. The objectives of this proof-of-concept study are to (1) design and implement a new experimental procedure that better reproduces HNP schemes in near-fracture regions and (2) use the results, simulated with a compositional lab-calibrated model, to explore the controls on enhanced hydrocarbon recovery in depleted tight oil plays. Performing multiple CO2 and (simplified) lean gas HNP cycles, the integrated experimental and simulation approach proposed herein achieves the ultimate recovery factors in a significantly shorter time frame (25–50%) compared to previous studies. The integrated experimental and computational approach proposed herein is valuable for core-based evaluation of cyclic solvent (CO2, CH4) injection in tight hydrocarbon reservoirs for (1) hydrocarbon recovery and (2) subsurface greenhouse (CO2, CH4) gas disposal/storage applications.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-021-88247-y
+DO  - 10.1038/s41598-021-88247-y
+ID  - Ghanizadeh2021
+ER  - 

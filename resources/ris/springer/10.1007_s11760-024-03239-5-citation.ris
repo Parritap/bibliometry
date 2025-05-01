@@ -1,0 +1,17 @@
+TY  - JOUR
+AU  - Meng, De
+AU  - Lei, Zhichun
+PY  - 2024
+DA  - 2024/08/01
+TI  - Adaptive lightweight Transformer network for low-light image enhancement
+JO  - Signal, Image and Video Processing
+SP  - 5365
+EP  - 5375
+VL  - 18
+IS  - 6
+AB  - Low-light image enhancement methods based on deep learning have proven successful. In recent years, methods combining convolutional neural networks (CNN), multi-layer perceptron, and Retinex theory have achieved good results in enhancement tasks. The CNN has a limited receptive field, thus preventing it from modeling long-range pixel dependencies, and the Transformer is known for its capability to capture long-range dependencies but incurs significant computational costs. In this paper, we propose an adaptive lightweight Transformer network (ALT-Net) to restore images under normal lighting conditions by simulating the reverse-sequential execution of image signal processor (ISP) pipelines. Specifically, in the reverse direction, we use a lightweight encoder–decoder to achieve inverse mapping and add adaptive modules for correction. In the sequential direction, we add noise reduction modules and attention mechanisms to query key parameters in the ISP pipeline (white balance and color correction, etc.) to adjust the image. Compared with Retinexformer, ALT-Net improves the PSNR and SSIM on the LOL-v2-real dataset by 0.11 dB and 0.002 respectively. With only 80 k parameters, our ALT-Net achieves state-of-the-art performance in low-light image enhancement tasks, and it is more cost-effective than similar methods.
+SN  - 1863-1711
+UR  - https://doi.org/10.1007/s11760-024-03239-5
+DO  - 10.1007/s11760-024-03239-5
+ID  - Meng2024
+ER  - 

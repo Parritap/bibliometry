@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Song, Xiaoyang
+AU  - Sun, Qianlai
+AU  - Liu, Jiayao
+AU  - Liu, Ruizhen
+PY  - 2025
+DA  - 2025/02/28
+TI  - ES-YOLOv8: a real-time defect detection algorithm in transmission line insulators
+JO  - Journal of Real-Time Image Processing
+SP  - 69
+VL  - 22
+IS  - 2
+AB  - Insulators are essential components for protecting transmission lines, yet they are vulnerable to defects caused by harsh environments, which can compromise their performance and transmission stability. Regular inspections are therefore crucial. However, traditional manual inspection methods are time-consuming, error-prone, and pose safety risks when working under adverse conditions. In contrast, the combination of drone inspections and image processing technology enables the safe and efficient detection of insulator defects. In this study, the YOLOv8 model was used to detect insulators. Although YOLOv8 exhibits strong detection performance, it encounters challenges in terms of detection speed and computational efficiency in real-time tasks. To address these challenges, this study introduces EfficientViT from the Transformer framework to enhance feature extraction and improve the model’s computational efficiency. Additionally, a spatial context pyramid was incorporated into the model’s header module to bolster its feature analysis capabilities, particularly for small targets and intricate background details, yielding notable results. After several enhancements, the proposed network is named ES-YOLOv8s. The experimental results reveal that compared with YOLOv8, ES-YOLOv8s improved the precision, recall, mean average precision, and harmonic mean of the precision and recall scores on the Insulator Defect Image Dataset by 2%, 3%, 2.7%, and 3%, respectively. Furthermore, the ES-YOLOv8s exhibited notable advantages in terms of giga floating point operations per second and frames per second, highlighting substantial improvements in both detection performance and computational efficiency. The study findings show that the improved model can perform better in real-time detection tasks.
+SN  - 1861-8219
+UR  - https://doi.org/10.1007/s11554-025-01651-9
+DO  - 10.1007/s11554-025-01651-9
+ID  - Song2025
+ER  - 

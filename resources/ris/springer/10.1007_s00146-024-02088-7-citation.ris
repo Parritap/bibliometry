@@ -1,0 +1,14 @@
+TY  - JOUR
+AU  - Chartier-Edwards, Nicolas
+AU  - Grenier, Etienne
+AU  - Goujon, Valentin
+PY  - 2024
+DA  - 2024/10/01
+TI  - Galactica’s dis-assemblage: Meta’s beta and the omega of post-human science
+JO  - AI & SOCIETY
+AB  - Released mid-November 2022, Galactica is a set of six large language models (LLMs) of different sizes (from 125 M to 120B parameters) designed by Meta AI to achieve the ultimate ambition of “a single neural network for powering scientific tasks”, according to its accompanying whitepaper. It aims to carry out knowledge-intensive tasks, such as publication summarization, information ordering and protein annotation. However, just a few days after the release, Meta had to pull back the demo due to the strong hallucinatory tendencies or underwhelming performances of the model. This article aims to study, through a critical threefold argument, the potential impacts of LLMs once deployed in the scientific value chain. Our first argument is a technical one. By examining the technicity of Galactica, it is possible to explain the descripancies between its promotional corporate discourse and abysmal outputs. Second, by going back to debates in both computer science and computational philosophy on the automation of abduction, we argue from the epistemological front that LLMs indeed cannot produce strong abductions and, therefore, claims about the automation of hypothesis generation remains chambering. Finally, our third argument is a sociological one. By conceptualizing the scientific field through Nancy Katherine Hayles’ cognitive assemblage theory, we aim to outline the potential steering of science by LLMs, mainly through information ordering. The core of our argument rests on the assertion that excessive control on information risks contravening a certain serendipitous aspect inherent to scientific discoveries.
+SN  - 1435-5655
+UR  - https://doi.org/10.1007/s00146-024-02088-7
+DO  - 10.1007/s00146-024-02088-7
+ID  - Chartier-Edwards2024
+ER  - 

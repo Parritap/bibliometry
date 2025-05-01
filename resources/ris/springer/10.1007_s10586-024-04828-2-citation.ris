@@ -1,0 +1,19 @@
+TY  - JOUR
+AU  - Shen, Wangbo
+AU  - Lin, Weiwei
+AU  - Wu, Wentai
+AU  - Wu, Haijie
+AU  - Li, Keqin
+PY  - 2025
+DA  - 2025/01/21
+TI  - Reinforcement learning-based task scheduling for heterogeneous computing in end-edge-cloud environment
+JO  - Cluster Computing
+SP  - 179
+VL  - 28
+IS  - 3
+AB  - The End-Edge-Cloud (EEC) computing framework can offer low-latency, high-quality services to users of diverse demands by leveraging pervasive resources. However, the inherent disparities in task requirements and the strong heterogeneity of computational resources in these systems make it non-trivial for scheduler design, particularly in high load scenarios (e.g. burst of tasks). This also complicates the adaptation of traditional cloud-oriented schedulers considering their limited support of heterogeneous processors and accelerators (e.g., CPUs, GPUs and NPUs). In light of this, we first present a system framework for task scheduling in the EEC architecture. In the framework we adopt a reinforcement learning (RL)-based scheduler tailored for reducing task completion time and waiting time. Our method integrates task characteristics and environmental constraints within matrices, based on which an adapted Q-Learning agent is employed for decision making. We then introduce the implementation of our framework that features Kubernetes and Rancher-based coordination with extended support for heterogeneous processing units. Experimentally we built a real-world EEC testbed comprising PC, Atlas 200 DK, and Raspberry PI devices. Evaluation results of our algorithm demonstrate a 271% enhancement in performance compared to existing algorithms in the context of burst-arrival task queues, which underscores the efficacy of our solution in realistic scenarios.
+SN  - 1573-7543
+UR  - https://doi.org/10.1007/s10586-024-04828-2
+DO  - 10.1007/s10586-024-04828-2
+ID  - Shen2025
+ER  - 

@@ -1,0 +1,23 @@
+TY  - JOUR
+AU  - Lan, Janice
+AU  - Palizhati, Aini
+AU  - Shuaibi, Muhammed
+AU  - Wood, Brandon M.
+AU  - Wander, Brook
+AU  - Das, Abhishek
+AU  - Uyttendaele, Matt
+AU  - Zitnick, C. Lawrence
+AU  - Ulissi, Zachary W.
+PY  - 2023
+DA  - 2023/09/22
+TI  - AdsorbML: a leap in efficiency for adsorption energy calculations using generalizable machine learning potentials
+JO  - npj Computational Materials
+SP  - 172
+VL  - 9
+IS  - 1
+AB  - Computational catalysis is playing an increasingly significant role in the design of catalysts across a wide range of applications. A common task for many computational methods is the need to accurately compute the adsorption energy for an adsorbate and a catalyst surface of interest. Traditionally, the identification of low-energy adsorbate-surface configurations relies on heuristic methods and researcher intuition. As the desire to perform high-throughput screening increases, it becomes challenging to use heuristics and intuition alone. In this paper, we demonstrate machine learning potentials can be leveraged to identify low-energy adsorbate-surface configurations more accurately and efficiently. Our algorithm provides a spectrum of trade-offs between accuracy and efficiency, with one balanced option finding the lowest energy configuration 87.36% of the time, while achieving a ~2000× speedup in computation. To standardize benchmarking, we introduce the Open Catalyst Dense dataset containing nearly 1000 diverse surfaces and ~100,000 unique configurations.
+SN  - 2057-3960
+UR  - https://doi.org/10.1038/s41524-023-01121-5
+DO  - 10.1038/s41524-023-01121-5
+ID  - Lan2023
+ER  - 

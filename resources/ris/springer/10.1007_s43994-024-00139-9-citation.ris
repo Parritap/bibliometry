@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - El Harfouf, Amine
+AU  - Wakif, Abderrahim
+AU  - Hayani Mounir, Sanaa
+PY  - 2024
+DA  - 2024/12/01
+TI  - New insights into MHD squeezing flows of reacting-radiating Maxwell nanofluids via Wakif's–Buongiorno point of view
+JO  - Journal of Umm Al-Qura University for Applied Sciences
+SP  - 718
+EP  - 732
+VL  - 10
+IS  - 4
+AB  - This work presents a computational investigation of a squeezing nanofluid flow under the influence of thermal radiation, magnetohydrodynamics (MHD), and chemical process in a constrained parallel-wall geometry. In this study, the non-Newtonian behavior of a rate-type (Maxwell) nanofluid is captured by rheological expressions that serve as the foundation for the flow formulation. This kind of thinking makes it possible to simulate the intricate nanofluid behavior that incorporates the elastic and viscous responses, which are useful in a variety of situations related to nanofluid dynamics, rheology, and materials science. Additionally, the transport equations are modeled properly using Wakif's–Buongiorno nanofluid model. The equations reflecting the dynamics of the nanofluid and heat-mass transport are developed based on admissible physical assumptions, such as the negligible viscous dissipation as well as the lower magnetic Reynolds number. After that, several similarity variables are introduced in these equations to get the dimensionless formulation form. Akbari–Ganji's method is used to carry out extensive computational simulations. Our results show that the increased squeezing parameters lead to larger horizontal and vertical velocities. On the other hand, the temperature showed a reverse relationship with the increasing squeezing parameters and exhibiting a cooling impact.
+SN  - 1658-8185
+UR  - https://doi.org/10.1007/s43994-024-00139-9
+DO  - 10.1007/s43994-024-00139-9
+ID  - El Harfouf2024
+ER  - 

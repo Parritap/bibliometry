@@ -1,0 +1,16 @@
+TY  - JOUR
+AU  - Periñán-Pascual, Carlos
+PY  - 2022
+DA  - 2022/03/01
+TI  - Measuring associational thinking through word embeddings
+JO  - Artificial Intelligence Review
+SP  - 2065
+EP  - 2102
+VL  - 55
+IS  - 3
+AB  - The development of a model to quantify semantic similarity and relatedness between words has been the major focus of many studies in various fields, e.g. psychology, linguistics, and natural language processing. Unlike the measures proposed by most previous research, this article is aimed at estimating automatically the strength of associative words that can be semantically related or not. We demonstrate that the performance of the model depends not only on the combination of independently constructed word embeddings (namely, corpus- and network-based embeddings) but also on the way these word vectors interact. The research concludes that the weighted average of the cosine-similarity coefficients derived from independent word embeddings in a double vector space tends to yield high correlations with human judgements. Moreover, we demonstrate that evaluating word associations through a measure that relies on not only the rank ordering of word pairs but also the strength of associations can reveal some findings that go unnoticed by traditional measures such as Spearman’s and Pearson’s correlation coefficients.
+SN  - 1573-7462
+UR  - https://doi.org/10.1007/s10462-021-10056-6
+DO  - 10.1007/s10462-021-10056-6
+ID  - Periñán-Pascual2022
+ER  - 

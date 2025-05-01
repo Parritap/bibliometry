@@ -1,0 +1,21 @@
+TY  - JOUR
+AU  - Zhou, Ruijie
+AU  - Li, Yangyang
+AU  - He, Xiuling
+AU  - Jiang, Chunlian
+AU  - Fang, Jing
+AU  - Li, Yue
+PY  - 2024
+DA  - 2024/10/01
+TI  - Understanding undergraduates’ computational thinking processes: Evidence from an integrated analysis of discourse in pair programming
+JO  - Education and Information Technologies
+SP  - 19367
+EP  - 19399
+VL  - 29
+IS  - 15
+AB  - Computational thinking (CT), as one of the key skills in the twenty-first century, has been integrated into educational programming as an important learning goal. This study aims to explore CT processes involved in pair programming with the support of visual flow design. Thirty freshmen participated, working in pairs to solve two programming problems. Their discourses were recorded, transcribed, and coded based on a CT framework encompassing cognitive, practical, and social perspectives. Both quantitative and qualitative methods were applied to analyze the data. In particular, Epistemic Network Analysis (ENA) was applied to explore the patterns of their CT processes. The findings revealed that social perspectives emerged the most frequently in all pairs’ discourses. The high-level groups (HLGs) focused more on practical and social perspectives whereas the low-level groups (LLGs) emphasized more on cognitive perspectives. The ENA networks revealed that social perspectives mostly centered around cognitive perspectives for all pairs with CT process patterns in HLGs crossing the three perspectives more frequently. In addition, HLGs exhibited a more complicated and developmental trend in solving the two problems, while LLGs displayed a relatively similar CT pattern. The current study provides insights into the design and implementation of collaborative learning activities in educational programming.
+SN  - 1573-7608
+UR  - https://doi.org/10.1007/s10639-024-12597-z
+DO  - 10.1007/s10639-024-12597-z
+ID  - Zhou2024
+ER  - 

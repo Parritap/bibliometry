@@ -1,0 +1,19 @@
+TY  - JOUR
+AU  - Zhou, Jiajun
+AU  - Gao, Liang
+AU  - Lu, Chao
+AU  - Yao, Xifan
+PY  - 2025
+DA  - 2025/03/01
+TI  - Collaborative optimization of manufacturing service allocation via multi-task transfer learning evolutionary approach
+JO  - Journal of Intelligent Manufacturing
+SP  - 1761
+EP  - 1779
+VL  - 36
+IS  - 3
+AB  - Industrial internet platforms are regarded as an emerging fashion for the flexible integration of production resources located in multiple sites to complete complicated tasks submitted by users. Manufacturing Service Composition (MSC) is an essential technique that supports the optimal construction of value-added services. Evolutionary computation approaches are frequently employed to resolve MSC issues and have achieved great accomplishments. These evolutionary solvers, however, require massive computational resources for objective evaluation and face cold-start problem. Recent advances in transfer learning field provide a new means for extracting knowledge across tasks to enhance the problem-solving efficiency. In light of above, this article is intended to devise a Multi-task Transfer Evolutionary Search (MTES) approach for MSC considering the occurrence of multiple user requests, with which each corresponds to a MSC task, optimization experiences from constructing distinct MSC tasks can be learned to promote the search of arrival tasks at hand jointly. The MTES can adapt the helper task selection and the intensity of knowledge transfer from a synergistic perspective, such that it can be suitable for many-task scenario. Numerical studies on different scales of MSC tasks demonstrate that, compared to the prevalent peers, our proposed MTES needs far less computational resources to achieve the convergence performance and the solution quality is higher, which verifies the applicability and effectiveness of the proposed approach for dealing with MSC problem.
+SN  - 1572-8145
+UR  - https://doi.org/10.1007/s10845-024-02339-w
+DO  - 10.1007/s10845-024-02339-w
+ID  - Zhou2025
+ER  - 

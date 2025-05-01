@@ -1,0 +1,16 @@
+TY  - JOUR
+AU  - Markowitz, David M.
+PY  - 2024
+DA  - 2024/06/01
+TI  - Can generative AI infer thinking style from language? Evaluating the utility of AI as a psychological text analysis tool
+JO  - Behavior Research Methods
+SP  - 3548
+EP  - 3559
+VL  - 56
+IS  - 4
+AB  - Generative AI, short for Generative Artificial Intelligence, a class of artificial intelligence systems, is not currently the choice technology for text analysis, but prior work suggests it may have some utility to assess dynamics like emotion. The current work builds upon this empirical foundation to consider how analytic thinking scores from a large language model chatbot, ChatGPT, were linked to analytic thinking scores from dictionary-based tools like Linguistic Inquiry and Word Count (LIWC). Using over 16,000 texts from four samples and tested against three prompts and two large language models (GPT-3.5, GPT-4), the evidence suggests there were small associations between ChatGPT and LIWC analytic thinking scores (meta-analytic effect sizes: .058 < rs < .304; ps < .001). When given the formula to calculate the LIWC analytic thinking index, ChatGPT performed incorrect mathematical operations in 22% of the cases, suggesting basic word and number processing may be unreliable with large language models. Researchers should be cautious when using AI for text analysis.
+SN  - 1554-3528
+UR  - https://doi.org/10.3758/s13428-024-02344-0
+DO  - 10.3758/s13428-024-02344-0
+ID  - Markowitz2024
+ER  - 

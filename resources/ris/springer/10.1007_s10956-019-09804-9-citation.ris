@@ -1,0 +1,26 @@
+TY  - JOUR
+AU  - Hutchins, Nicole M.
+AU  - Biswas, Gautam
+AU  - Maróti, Miklós
+AU  - Lédeczi, Ákos
+AU  - Grover, Shuchi
+AU  - Wolf, Rachel
+AU  - Blair, Kristen Pilner
+AU  - Chin, Doris
+AU  - Conlin, Luke
+AU  - Basu, Satabdi
+AU  - McElhaney, Kevin
+PY  - 2020
+DA  - 2020/02/01
+TI  - C2STEM: a System for Synergistic Learning of Physics and Computational Thinking
+JO  - Journal of Science Education and Technology
+SP  - 83
+EP  - 100
+VL  - 29
+IS  - 1
+AB  - Synergistic learning combining computational thinking (CT) and STEM has proven to be an effective method for advancing learning and understanding in a number of STEM domains and simultaneously helping students develop important CT concepts and practices. We adopt a design-based approach to develop, evaluate, and refine our Collaborative, Computational STEM (C2STEM) learning environment. The system adopts a novel paradigm that combines visual model building with a domain-specific modeling language (DSML) to scaffold learning of high school physics using a computational modeling approach. In this paper, we discuss the design principles that guided the development of our open-ended learning environment (OELE) using a learning-by-modeling and evidence-centered approach for curriculum and assessment design. Students learn by building models that describe the motion of objects, and their learning is supported by scaffolded tasks and embedded formative assessments that introduce them to physics and CT concepts. We have also developed preparation for future learning (PFL) assessments to study students’ abilities to generalize and apply CT and science concepts and practices across problem solving tasks and domains. We use mixed quantitative and qualitative analysis methods to analyze student learning during a semester-long study run in a high school physics classroom. We document some of the lessons learned from this study and discuss directions for future work.
+SN  - 1573-1839
+UR  - https://doi.org/10.1007/s10956-019-09804-9
+DO  - 10.1007/s10956-019-09804-9
+ID  - Hutchins2020
+ER  - 

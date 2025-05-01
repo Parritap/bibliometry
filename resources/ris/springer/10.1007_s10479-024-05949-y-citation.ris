@@ -1,0 +1,15 @@
+TY  - JOUR
+AU  - Tsang, Y. P.
+AU  - Ma, Haoran
+AU  - Tan, K. H.
+AU  - Lee, C. K. M.
+PY  - 2024
+DA  - 2024/04/06
+TI  - A joint sustainable order-packing vehicle routing optimisation for the cold chain e-fulfilment
+JO  - Annals of Operations Research
+AB  - Due to the new normal caused by the pandemic, consumer behaviour has now shifted to online shopping not only for general commodities but also for food and other perishable products. Therefore, e-commerce fulfilment is now integrated with cold chain capabilities to satisfy stringent requirements on time-criticality and product quality, leading to the concept of cold chain e-fulfilment. In the cold chain e-fulfilment process, perishable orders are packed in thermal packaging solutions and delivered to consumers before the quality preservation time window. To secure a sufficient time buffer during last mile delivery, excessive use of thermal packaging materials is applied, which creates an adverse environmental impact on our eco-system. Aligning with low-carbon business practices, this study proposes a novel joint optimization model, namely the Joint Optimization of Sustainable Order Packing and Multi-Temperature Delivery Problem (JOSOPMDP), for order packing and vehicle routing decisions, where the sustainable use of thermal packaging materials is promoted without negatively influencing product quality and customer satisfaction. To evaluate its viability and performance, three sets of computational experiments are subsequently conducted. It is found that the proposed model is feasible to strike a balance between order packing and vehicle routing decisions. Compared with the traditional strategy, the average total cost and satisfaction level are improved by 3.26% and 47.88%, respectively. Consequently, this research fosters sustainable thinking in the cold chain e-fulfilment process, minimizing environmental impact.
+SN  - 1572-9338
+UR  - https://doi.org/10.1007/s10479-024-05949-y
+DO  - 10.1007/s10479-024-05949-y
+ID  - Tsang2024
+ER  - 

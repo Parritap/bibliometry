@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Granato, Giovanni
+AU  - Borghi, Anna M.
+AU  - Mattera, Andrea
+AU  - Baldassarre, Gianluca
+PY  - 2022
+DA  - 2022/08/20
+TI  - A computational model of inner speech supporting flexible goal-directed behaviour in Autism
+JO  - Scientific Reports
+SP  - 14198
+VL  - 12
+IS  - 1
+AB  - Experimental and computational studies propose that inner speech boosts categorisation skills and executive functions, making human behaviour more focused and flexible. In addition, many clinical studies highlight a relationship between poor inner-speech and an executive impairment in autism spectrum condition (ASC), but contrasting findings are reported. Here we directly investigate the latter issue through a previously implemented and validated computational model of the Wisconsin Cards Sorting Tests. In particular, the model was applied to explore potential individual differences in cognitive flexibility and inner speech contribution in autistic and neurotypical participants. Our model predicts that the use of inner-speech could increase along the life-span of neurotypical participants but would be reduced in autistic ones. Although we found more attentional failures (i.e., wrong behavioural rule switches) in autistic children/teenagers and more perseverative behaviours in autistic young/older adults, only autistic children and older adults exhibited a lower performance (i.e., fewer consecutive correct rule switches) than matched control groups. Overall, our results corroborate the idea that the reduced use of inner speech could represent a disadvantage for autistic children and autistic older adults. Moreover, the results suggest that cognitive-behavioural therapies should focus on developing inner speech skills in autistic children as this could provide cognitive support throughout their whole life span.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-022-18445-9
+DO  - 10.1038/s41598-022-18445-9
+ID  - Granato2022
+ER  - 

@@ -1,0 +1,14 @@
+TY  - JOUR
+AU  - Pandey, Sushant Kumar
+AU  - Haldar, Arya
+AU  - Tripathi, Anil Kumar
+PY  - 2023
+DA  - 2023/10/08
+TI  - Is deep learning good enough for software defect prediction?
+JO  - Innovations in Systems and Software Engineering
+AB  - Due to high impact of internet technology and rapid change in software systems, it has been a tough challenge for us to detect software defects with high accuracy. Traditional software defect prediction research mainly concentrates on manually designing features (e.g., complexity metrics) and inputting them into machine learning classifiers to distinguish defective code. To gain high prediction accuracy, researchers have developed several deep learning or high computational models for software defect prediction. However, there are several critical conditions and theoretical problems in order to achieve better results. This article explores the investigation of SDP using two deep learning techniques, i.e., SqueezeNet and Bottleneck models. We employed seven different open-source datasets from NASA Repository to perform this comparative study. We use F-Measure as a performance evaluator and found that these methods statistically outperform eight state-of-the-art methods with mean F-Measure of 0.93 ± 0.014 and 0.90 ± 0.013, respectively. We found that these two methods are significantly more effective in terms of F-Measure over large- and moderate-size projects. But they are computationally expensive in terms of training time. As the size of projects is getting immense and sophisticated, such deep learning methods are worth applying. 
+SN  - 1614-5054
+UR  - https://doi.org/10.1007/s11334-023-00542-1
+DO  - 10.1007/s11334-023-00542-1
+ID  - Pandey2023
+ER  - 

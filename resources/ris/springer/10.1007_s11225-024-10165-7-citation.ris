@@ -1,0 +1,12 @@
+TY  - JOUR
+AU  - Genco, Francesco A.
+PY  - 2024
+DA  - 2024/12/31
+TI  - A Logic of Knowledge and Justifications, with an Application to Computational Trust
+JO  - Studia Logica
+AB  - We present a logical framework that enables us to define a formal theory of computational trust in which this notion is analysed in terms of epistemic attitudes towards the possible objects of trust and in relation to existing evidence in favour of the trustworthiness of these objects. The framework is based on a quantified epistemic and justification logic featuring a non-standard handling of identities. Thus, the theory is able to account for the hyperintensional nature of computational trust. We present a proof system and a frame semantics for the logic, we prove soundness and completeness results and we introduce the syntactical machinery required to define a theory of trust.
+SN  - 1572-8730
+UR  - https://doi.org/10.1007/s11225-024-10165-7
+DO  - 10.1007/s11225-024-10165-7
+ID  - Genco2024
+ER  - 

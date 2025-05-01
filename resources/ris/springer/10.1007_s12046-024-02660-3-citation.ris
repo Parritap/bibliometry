@@ -1,0 +1,16 @@
+TY  - JOUR
+AU  - Bharadwaj, Sachin S.
+AU  - Sreenivasan, Katepalli R.
+PY  - 2025
+DA  - 2025/03/19
+TI  - Towards simulating fluid flows with quantum computing
+JO  - Sādhanā
+SP  - 57
+VL  - 50
+IS  - 2
+AB  - The applications and impact of high fidelity simulation of fluid flows are far-reaching. They include settling some long-standing and fundamental questions in turbulence. However, the computational resources required for such efforts are extensive. Here, we explore the possibility of employing the recent computing paradigm of quantum computing to simulate fluid flows. The lure of this new paradigm is the potentially exponential advantage in memory and speed, in comparison with classical computing. This field has recently witnessed a considerable uptick in excitement and contributions. In this work, we give a succinct discussion of the progress made so far, with focus on fluid flows, accompanied by an enumeration of challenges that require sustained efforts for progress. Quantum computing of fluid flows has a promising future, but the inherently nonlinear nature of flows requires serious efforts on resolving various bottlenecks, and on synthesising progress on theoretical, numerical and experimental fronts. We present certain critical details that have not yet attracted adequate attention.
+SN  - 0973-7677
+UR  - https://doi.org/10.1007/s12046-024-02660-3
+DO  - 10.1007/s12046-024-02660-3
+ID  - Bharadwaj2025
+ER  - 

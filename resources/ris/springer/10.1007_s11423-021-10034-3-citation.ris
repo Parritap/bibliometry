@@ -1,0 +1,20 @@
+TY  - JOUR
+AU  - Kwon, Kyungbin
+AU  - Ottenbreit-Leftwich, Anne T.
+AU  - Brush, Thomas A.
+AU  - Jeon, Minji
+AU  - Yan, Ge
+PY  - 2021
+DA  - 2021/10/01
+TI  - Integration of problem-based learning in elementary computer science education: effects on computational thinking and attitudes
+JO  - Educational Technology Research and Development
+SP  - 2761
+EP  - 2787
+VL  - 69
+IS  - 5
+AB  - This study investigated how a computer science (CS) problem-based curriculum impacted elementary students’ CS learning and attitudes. Four sixth-grade teachers and 200 of their students participated in the study. Researchers developed a CS curriculum in collaboration with the teachers, which consisted of two main units: (1) an introduction to block-based coding and (2) a problem-based learning (PBL) applied coding project. Overall, students significantly improved their knowledge of CT concepts after the introductory block-based coding lessons and retained that knowledge after completing the PBL activities approximately three months later. Results suggest that Event and Parallelism were challenging concepts for most of the students, whereas Loop and Sequence were easily grasped by most of the students. Further analysis based on prior knowledge levels revealed that the high-prior knowledge (HK) group outperformed the low-prior knowledge (LK) group on every measure. However, LK narrowed the gap of CT concepts after the introductory block-based coding lessons. Students also communicated relatively positive attitudes towards CS at the conclusion of the PBL unit. These results provide support for further exploring the integration of inquiry-oriented instructional strategies such as PBL to support CS instruction.
+SN  - 1556-6501
+UR  - https://doi.org/10.1007/s11423-021-10034-3
+DO  - 10.1007/s11423-021-10034-3
+ID  - Kwon2021
+ER  - 

@@ -1,0 +1,19 @@
+TY  - JOUR
+AU  - Fanchamps, Nardie L. J. A.
+AU  - Slangen, Lou
+AU  - Specht, Marcus
+AU  - Hennissen, Paul
+PY  - 2021
+DA  - 2021/09/01
+TI  - The Impact of SRA-Programming on Computational Thinking in a Visual Oriented Programming Environment
+JO  - Education and Information Technologies
+SP  - 6479
+EP  - 6498
+VL  - 26
+IS  - 5
+AB  - Visual programming environments are popular instruments in teaching Computational Thinking (CT) in schools today. Applying Sense-Reason-Act (SRA) programming can influence the development of computational thinking when forcing pupils to anticipate the unforeseen in their computer programs. SRA-programming originates from the programming of tangible robots, but can also be of equal value in visual programming with on-screen output. The underlying rationale is that programming in a visual programming environment using SRA leads to more understanding of the computational concepts addressed, resulting in a higher level of computational skill compared to visual programming without the application of SRA. Furthermore, it has been hypothesised that if pupils in a visual programming environment can anticipate unforeseen events and solve programming tasks by applying SRA, they will be better able to solve complex computational thinking tasks. To establish if characteristic differences in the development of computational thinking can be measured when SRA-programming is applied in a visual programming environment with an on-screen output, we assessed the applicability of SRA-programming with visual output as the main component of the execution of developed code. This research uses a pre-test post-test design that reveals significant differences in the development of computational thinking in two treatment conditions. To assess CT, the Computational Thinking Test (CTt) was used. Results show that when using SRA-programming in a visual programming environment it leads to an increased understanding of complex computational concepts, which results in a significant increase in the development of computational thinking.
+SN  - 1573-7608
+UR  - https://doi.org/10.1007/s10639-021-10578-0
+DO  - 10.1007/s10639-021-10578-0
+ID  - Fanchamps2021
+ER  - 

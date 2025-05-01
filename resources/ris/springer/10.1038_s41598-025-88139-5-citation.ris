@@ -1,0 +1,16 @@
+TY  - JOUR
+AU  - Pisula, Juan I.
+AU  - Bozek, Katarzyna
+PY  - 2025
+DA  - 2025/02/15
+TI  - Efficient WSI classification with sequence reduction and transformers pretrained on text
+JO  - Scientific Reports
+SP  - 5612
+VL  - 15
+IS  - 1
+AB  - From computer vision to protein fold prediction, Language Models (LMs) have proven successful in transferring their representation of sequential data to a broad spectrum of tasks beyond the domain of natural language processing. Whole Slide Image (WSI) analysis in digital pathology naturally fits to transformer-based architectures. In a pre-processing step analogous to text tokenization, large microscopy images are tessellated into smaller image patches. However, due to the massive size of WSIs comprising thousands of such patches, the problem of WSI classification has not been addressed via deep transformer architectures, let alone via available text-pre-trained deep transformer language models. We introduce SeqShort, a multi-head attention-based sequence shortening layer that summarizes a large WSI into a fixed- and short-sized sequence of feature vectors by removing redundant visual information. Our sequence shortening mechanism not only reduces the computational costs of self-attention on large inputs, it also allows to include standard positional encodings to the previously unordered bag of patches that compose a WSI. We use SeqShort to effectively classify WSIs in different digital pathology tasks using a deep, text pre-trained transformer model while fine-tuning less than 0.1% of its parameters, demonstrating that their knowledge about natural language transfers well to this domain.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-025-88139-5
+DO  - 10.1038/s41598-025-88139-5
+ID  - Pisula2025
+ER  - 

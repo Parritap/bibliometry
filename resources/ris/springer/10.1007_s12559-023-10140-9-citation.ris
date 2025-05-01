@@ -1,0 +1,17 @@
+TY  - JOUR
+AU  - Baladron, Javier
+AU  - Hamker, Fred H.
+PY  - 2024
+DA  - 2024/09/01
+TI  - Re-Thinking the Organization of Cortico-Basal Ganglia-Thalamo-Cortical Loops
+JO  - Cognitive Computation
+SP  - 2405
+EP  - 2410
+VL  - 16
+IS  - 5
+AB  - First concepts of cortex-basal ganglia interactions suggested that cognitive functions are implemented through different parallel, segregated cortico-basal ganglia-cortical loops. Recent evidence however shows that there are at least 4 ways by which different loops could interact: overlapping cortico-pallidal projections, overlapping cortico-striatal projections, striato-nigro-striatal spirals, and cortico-thalamo-striatal projections. We propose that current evidence, if incorporated into neuro-computational models, provides new avenues for explaining cognitive functions. Using a recently introduced hierarchical neuro-computational model of multiple cortico-basal ganglia-cortical loops, we exemplify how interaction between loops can explain behavioral data linked to the ideomotor theory. During training of a stimulus–response task, a task-irrelevant tone is played after each action. Then, during a test period, the same tones are played but together with the stimuli. The model learns a distributed representation of action outcomes which is then used to select actions. Similar to observations in human subjects, the model’s response time is larger if an inconsistent tone (previously listened together with an alternative action) is played with the stimulus. Understanding the function of different communication strategies between loops could be the key to fully unravel the neural basis of the numerous functions supported by the basal ganglia. The multiple-loop structure allows for a more complex representation of behavior in which action outcomes are considered.
+SN  - 1866-9964
+UR  - https://doi.org/10.1007/s12559-023-10140-9
+DO  - 10.1007/s12559-023-10140-9
+ID  - Baladron2024
+ER  - 

@@ -1,0 +1,17 @@
+TY  - JOUR
+AU  - Jimenez-Mavillard, Antonio
+AU  - Suarez, Juan Luis
+PY  - 2022
+DA  - 2022/03/01
+TI  - A computational approach for creativity assessment of culinary products: the case of elBulli
+JO  - AI & SOCIETY
+SP  - 331
+EP  - 353
+VL  - 37
+IS  - 1
+AB  - In recent years, the gastronomy industry has increased the demand for rigorous and reliable tools to evaluate culinary creativity; but conceptually, creativity is difficult to define and even more difficult to measure. In this paper, we propose an AI-based method for assessing culinary product creativity by using the renowned high cuisine restaurant elBulli as a case study to understand the proliferation and scale of an entity’s creativity and innovation. To achieve so, we trained a Random Forest Classifier to assess the level of creativity within the restaurant’s recipes. The application of this model to elBulli’s recipes allowed us to answer the following questions: how can creativity in a culinary product be characterized? Is there a single trait that is the key to culinary creativity? Is the creative culinary product a truly original outcome? Our key findings are (1) although ingredients and preparation techniques prove to be suitable attributes to characterize creativity in a recipe, none of them nor an elite subset clearly identifies creative cuisine, (2) new products are not radically novel with respect to previous creations, (3) creativity is more related to new uses and combinations of existing ingredients and techniques rather than to new ingredients or techniques. We believe that our method can find practical applications in supporting and guiding the creation of culinary products, identifying their strengths and weaknesses, and helping restaurants maintain a sustainable competitive advantage.
+SN  - 1435-5655
+UR  - https://doi.org/10.1007/s00146-021-01183-3
+DO  - 10.1007/s00146-021-01183-3
+ID  - Jimenez-Mavillard2022
+ER  - 

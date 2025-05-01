@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Chatterjee, Ayan
+AU  - Cao, Qingtao
+AU  - Sajadi, Amirhossein
+AU  - Ravandi, Babak
+PY  - 2023
+DA  - 2023/06/14
+TI  - Deterministic random walk model in NetLogo and the identification of asymmetric saturation time in random graph
+JO  - Applied Network Science
+SP  - 33
+VL  - 8
+IS  - 1
+AB  - Interactive programming environments are powerful tools for promoting innovative network thinking, teaching science of complexity, and exploring emergent phenomena. This paper reports on our recent development of the deterministic random walk model in NetLogo, a leading platform for computational thinking, eco-system thinking, and multi-agent cross-platform programming environment. The deterministic random walk is foundational to modeling dynamical processes on complex networks. Inspired by the temporal visualizations offered in NetLogo, we investigated the relationship between network topology and diffusion saturation time for the deterministic random walk model. Our analysis uncovers that in Erdős–Rényi graphs, the saturation time exhibits an asymmetric pattern with a considerable probability of occurrence. This behavior occurs when the hubs, defined as nodes with relatively higher number of connections, emerge in Erdős–Rényi graphs. Yet, our analysis yields that the hubs in Barabási–Albert model stabilize the the convergence time of the deterministic random walk model. These findings strongly suggest that depending on the dynamical process running on complex networks, complementing characteristics other than the degree need to be taken into account for considering a node as a hub. We have made our development open-source, available to the public at no cost at https://github.com/bravandi/NetLogo-Dynamical-Processes.
+SN  - 2364-8228
+UR  - https://doi.org/10.1007/s41109-023-00559-2
+DO  - 10.1007/s41109-023-00559-2
+ID  - Chatterjee2023
+ER  - 

@@ -1,0 +1,16 @@
+TY  - JOUR
+AU  - Liu, Ran
+AU  - Pang, Wei
+AU  - Chen, Junming
+AU  - Balakrishnan, Vishalache A.P
+AU  - Chin, Hai Leng
+PY  - 2024
+DA  - 2024/11/28
+TI  - The application of scaffolding instruction and AI-driven diffusion models in children’s aesthetic education: A case study on teaching traditional chinese painting of the twenty-four solar terms in chinese culture
+JO  - Education and Information Technologies
+AB  - In the context of globalization, adapting to modern educational needs and adopting innovative teaching methods have become increasingly crucial, particularly in the field of children’s aesthetic education. This study explores the integration of scaffolding instruction and AI-driven diffusion models in children’s aesthetic education, with a special focus on teaching the traditional Chinese cultural concept of the Twenty-Four Solar Terms. The study develops a specialized dataset for traditional Chinese paintings of the Twenty-Four Solar Terms and introduces a novel compound loss function to optimize the AI models’ training process, thus enhancing the quality of instructional image resources. A scaffolding teaching framework, supported by an AI-driven diffusion model, is established to provide systematic and structured guidance tailored to children’s learning needs. The experimental results indicate that the proposed approach significantly enhances students’ engagement and comprehension of traditional cultural concepts. Specifically, students demonstrated a deeper understanding of the symbolic and artistic meanings embedded in the Twenty-Four Solar Terms, which leads to enhanced cultural appreciation and critical thinking. Moreover, the approach fostered active participation in learning activities, with students exhibiting increased interaction with the educational content. These improvements were particularly evident in the way students creatively interpreted cultural symbols and applied these concepts in their own artistic expressions. This study confirms the potential of AI-driven diffusion models to support more effective teaching practices in aesthetic education, offering valuable insights for integrating modern technology with traditional cultural education and providing key theoretical and practical references for future reforms in children’s aesthetic education. These findings possess significant practical implications, particularly within the education domain. The proposed AI-driven scaffolding teaching method can be broadly applied to classroom instruction in traditional Chinese painting, and it can also be extended to other domains, namely cultural and art education. By generating high-quality instructional image resources, the approach empowers educators to implement personalized teaching strategies in classrooms with diverse cultural backgrounds, while simultaneously enhancing students’ cultural understanding and creativity. Furthermore, for distance and online education, the method possesses a potentially broad application scope, equipping educators with an effective tool for facilitating educational reform and innovation.
+SN  - 1573-7608
+UR  - https://doi.org/10.1007/s10639-024-13135-7
+DO  - 10.1007/s10639-024-13135-7
+ID  - Liu2024
+ER  - 

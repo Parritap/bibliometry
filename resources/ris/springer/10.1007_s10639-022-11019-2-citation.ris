@@ -1,0 +1,17 @@
+TY  - JOUR
+AU  - Çakiroğlu, Ünal
+AU  - Çevik, İsak
+PY  - 2022
+DA  - 2022/08/01
+TI  - A framework for measuring abstraction as a sub-skill of computational thinking in block-based programming environments
+JO  - Education and Information Technologies
+SP  - 9455
+EP  - 9484
+VL  - 27
+IS  - 7
+AB  - In order to teach Computational Thinking (CT) skills to young students, Block-Based Programming Environments (BBPEs) are integrated into secondary school computer science (CS) education curricula. As a CT skill, abstraction is one of the prominent skills, which is difficult to enhance and measure. Researchers developed some scales for measuring abstraction in BBPEs; however, it is still quite difficult to measure abstraction and understand students’ abstraction behaviors. The aim of this study is to suggest tasks that could help enhance students’ abstraction skills while teaching CT via block-based programming. In addition, a rubric to score the students’ abstraction behaviors in the problem solving process was created and validated. A framework with regard to the definitions of abstraction skill was adopted and the way to isolate it from other CT-skills was proposed. As a result, pattern recognition, generalizing, decomposition, focusing and eliminating were defined as indicators of abstraction in the problem solving process via BBPEs. The study also informed computer science educators about the relations between teaching CT via BBPEs, affordances of BBPEs and nature of abstraction.
+SN  - 1573-7608
+UR  - https://doi.org/10.1007/s10639-022-11019-2
+DO  - 10.1007/s10639-022-11019-2
+ID  - Çakiroğlu2022
+ER  - 

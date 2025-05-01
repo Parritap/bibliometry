@@ -1,0 +1,16 @@
+TY  - JOUR
+AU  - Sobchuk, Oleg
+AU  - Šeļa, Artjoms
+PY  - 2024
+DA  - 2024/03/20
+TI  - Computational thematics: comparing algorithms for clustering the genres of literary fiction
+JO  - Humanities and Social Sciences Communications
+SP  - 438
+VL  - 11
+IS  - 1
+AB  - What are the best methods of capturing thematic similarity between literary texts? Knowing the answer to this question would be useful for automatic clustering of book genres, or any other thematic grouping. This paper compares a variety of algorithms for unsupervised learning of thematic similarities between texts, which we call “computational thematics”. These algorithms belong to three steps of analysis: text pre-processing, extraction of text features, and measuring distances between the lists of features. Each of these steps includes a variety of options. We test all the possible combinations of these options. Every combination of algorithms is given a task to cluster a corpus of books belonging to four pre-tagged genres of fiction. This clustering is then validated against the “ground truth” genre labels. Such comparison of algorithms allows us to learn the best and the worst combinations for computational thematic analysis. To illustrate the difference between the best and the worst methods, we then cluster 5000 random novels from the HathiTrust corpus of fiction.
+SN  - 2662-9992
+UR  - https://doi.org/10.1057/s41599-024-02933-6
+DO  - 10.1057/s41599-024-02933-6
+ID  - Sobchuk2024
+ER  - 

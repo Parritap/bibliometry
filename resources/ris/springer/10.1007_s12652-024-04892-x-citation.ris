@@ -1,0 +1,16 @@
+TY  - JOUR
+AU  - Zhang, Ming
+PY  - 2025
+DA  - 2025/01/01
+TI  - Investigation of economic analysis for the Nasdaq index: an all-encompassing methodology for assessing stock market future valuations
+JO  - Journal of Ambient Intelligence and Humanized Computing
+SP  - 161
+EP  - 178
+VL  - 16
+IS  - 1
+AB  - The stock market is a multifaceted system that encompasses several economic variables, market mechanisms, and investor psychology. In addition, it should be noted that time series data of stock prices exhibit characteristics of non-stationarity, non-linearity, and significant noise, hence contributing to the intricate nature of accurately predicting future stock prices. While using traditional approaches can improve estimation precision, there is a chance that they will also increase computational complexity. This phenomenon has the potential to result in an increased occurrence of prediction mistakes. This study introduces an innovative hybrid model that integrates artificial bee colony optimization and recurrent neural network (RNN) techniques to tackle the aforementioned challenges effectively. When compared to other approaches, the hybrid strategy showed greater efficacy and performance. The outcomes demonstrate a significant level of effectiveness, a negligible margin of error, and optimal performance. Researchers who analyzed data from the Nasdaq index covering the period from January 1, 2015, to June 29, 2023, assessed how well the recommended model predicted stock prices. The outcomes displayed that the suggested model is a dependable and practical method for examining and projecting the temporal trends of stock prices. The obtained outcomes suggest that the model described in this investigation exhibits superior performance compared to other approaches in the analysis of the financial market.
+SN  - 1868-5145
+UR  - https://doi.org/10.1007/s12652-024-04892-x
+DO  - 10.1007/s12652-024-04892-x
+ID  - Zhang2025
+ER  - 

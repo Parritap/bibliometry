@@ -1,0 +1,17 @@
+TY  - JOUR
+AU  - Guest, Olivia
+AU  - Martin, Andrea E.
+PY  - 2023
+DA  - 2023/06/01
+TI  - On Logical Inference over Brains, Behaviour, and Artificial Neural Networks
+JO  - Computational Brain & Behavior
+SP  - 213
+EP  - 227
+VL  - 6
+IS  - 2
+AB  - In the cognitive, computational, and neuro-sciences, practitioners often reason about what computational models represent or learn, as well as what algorithm is instantiated. The putative goal of such reasoning is to generalize claims about the model in question, to claims about the mind and brain, and the neurocognitive capacities of those systems. Such inference is often based on a model’s performance on a task, and whether that performance approximates human behavior or brain activity. Here we demonstrate how such argumentation problematizes the relationship between models and their targets; we place emphasis on artificial neural networks (ANNs), though any theory-brain relationship that falls into the same schema of reasoning is at risk. In this paper, we model inferences from ANNs to brains and back within a formal framework — metatheoretical calculus — in order to initiate a dialogue on both how models are broadly understood and used, and on how to best formally characterize them and their functions. To these ends, we express claims from the published record about models’ successes and failures in first-order logic. Our proposed formalization describes the decision-making processes enacted by scientists to adjudicate over theories. We demonstrate that formalizing the argumentation in the literature can uncover potential deep issues about how theory is related to phenomena. We discuss what this means broadly for research in cognitive science, neuroscience, and psychology; what it means for models when they lose the ability to mediate between theory and data in a meaningful way; and what this means for the metatheoretical calculus our fields deploy when performing high-level scientific inference.
+SN  - 2522-087X
+UR  - https://doi.org/10.1007/s42113-022-00166-x
+DO  - 10.1007/s42113-022-00166-x
+ID  - Guest2023
+ER  - 

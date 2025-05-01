@@ -1,0 +1,19 @@
+TY  - JOUR
+AU  - Valdivia Cabrera, Melissa
+AU  - Johnstone, Michael
+AU  - Hayward, Joshua
+AU  - Bolton, Kristy A.
+AU  - Creighton, Douglas
+PY  - 2025
+DA  - 2025/03/08
+TI  - Integration of large-scale community-developed causal loop diagrams: a Natural Language Processing approach to merging factors based on semantic similarity
+JO  - BMC Public Health
+SP  - 923
+VL  - 25
+IS  - 1
+AB  - Complex public health problems have been addressed in communities through systems thinking and participatory methods like Group Model Building (GMB) and Causal Loop Diagrams (CLDs) albeit with some challenges. This study aimed to explore the feasibility of Natural Language Processing (NLP) in simplifying and enhancing CLD merging processes, avoiding manual merging of factors, utilizing different semantic textual similarity models.
+SN  - 1471-2458
+UR  - https://doi.org/10.1186/s12889-025-22142-3
+DO  - 10.1186/s12889-025-22142-3
+ID  - Valdivia Cabrera2025
+ER  - 

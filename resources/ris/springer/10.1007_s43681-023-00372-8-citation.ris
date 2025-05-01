@@ -1,0 +1,16 @@
+TY  - JOUR
+AU  - Janhonen, Joel
+PY  - 2025
+DA  - 2025/02/01
+TI  - Socialisation approach to AI value acquisition: enabling flexible ethical navigation with built-in receptiveness to social influence
+JO  - AI and Ethics
+SP  - 527
+EP  - 553
+VL  - 5
+IS  - 1
+AB  - This article describes an alternative starting point for embedding human values into artificial intelligence (AI) systems. As applications of AI become more versatile and entwined with society, an ever-wider spectrum of considerations must be incorporated into their decision-making. However, formulating less-tangible human values into mathematical algorithms appears incredibly challenging. This difficulty is understandable from a viewpoint that perceives human moral decisions to primarily stem from intuition and emotional dispositions, rather than logic or reason. Our innate normative judgements promote prosocial behaviours which enable collaboration within a shared environment. Individuals internalise the values and norms of their social context through socialisation. The complexity of the social environment makes it impractical to consistently apply logic to pick the best available action. This has compelled natural agents to develop mental shortcuts and rely on the collective moral wisdom of the social group. This work argues that the acquisition of human values cannot happen just through rational thinking, and hence, alternative approaches should be explored. Designing receptiveness to social signalling can provide context-flexible normative guidance in vastly different life tasks. This approach would approximate the human trajectory for value learning, which requires social ability. Artificial agents that imitate socialisation would prioritise conformity by minimising detected or expected disapproval while associating relative importance with acquired concepts. Sensitivity to direct social feedback would especially be useful for AI that possesses some embodied physical or virtual form. Work explores the necessary faculties for social norm enforcement and the ethical challenges of navigating based on the approval of others.
+SN  - 2730-5961
+UR  - https://doi.org/10.1007/s43681-023-00372-8
+DO  - 10.1007/s43681-023-00372-8
+ID  - Janhonen2025
+ER  - 

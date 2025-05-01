@@ -1,0 +1,15 @@
+TY  - JOUR
+AU  - Sang, Yongliang
+PY  - 2024
+DA  - 2024/05/30
+TI  - Application in environmental art design practice based on a fuzzy evaluation system
+JO  - Scientific Reports
+SP  - 12441
+VL  - 14
+IS  - 1
+AB  - Environmental art design (EAD) has recently encouraged creative thinking by investigating novel materials, technologies, and techniques for designing environmental art that advances sustainability. EAD faces challenges in integrating novel materials and technologies while promoting sustainability. Environmental art design is targeted at human living areas; here, adequate and excessive utilization of resources is minimized, and the social and natural environments are utilized aesthetically. Aesthetic excellence in environmental art design, along with growing technological accomplishments and cultural heritage, is concentrated on meeting the demands of human aesthetic pursuits in the new era, which lacks earlier techniques. Hence, an algorithm named environmental art design using fuzzy (EADF) to evaluate the environmental criteria for better decision-making is introduced. Initially, a fuzzy-based technique for order preference similar to the ideal solution (FTOPSIS), which considers multiple variables such as visual appeal, environmental impact, sustainability, and audience involvement in the community, was employed in the design process. Environmental art designers utilize fuzzy TOPSIS to assess works of art using several criteria. It seeks to make accurate decisions and accomplish desirable creative effects by considering ambiguity and subjectivity. The approach utilizes fuzzy variable entropy analysis to determine questionable attribute weightings and employs triangular fuzzy numbers to represent criteria and analyze preference values. Artworks are evaluated for deviation from ideal results using the Euclidean distance measure, enabling logical ranking evaluation and comparison. The EADF model outperforms the other models when considering different input factors. EADF excels in color (83.74), composition (82.37), emotion (85.61), contrast (97.52), clarity (98.16), harmony (95.49), and sensitivity (96.44) when evaluated in environmental art design, showcasing its usefulness. This work has implications for directing artists, designers, and decision-makers toward environmentally sustainable and artistically impactful art practices. Hence, the performance of this EADF model is validated using audience involvement, environmental impact, sustainability, and a visual appeal score.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-024-62477-2
+DO  - 10.1038/s41598-024-62477-2
+ID  - Sang2024
+ER  - 

@@ -1,0 +1,13 @@
+TY  - JOUR
+AU  - Wissuchek, Christopher
+AU  - Zschech, Patrick
+PY  - 2024
+DA  - 2024/08/30
+TI  - Prescriptive analytics systems revised: a systematic literature review from an information systems perspective
+JO  - Information Systems and e-Business Management
+AB  - Prescriptive Analytics Systems (PAS) represent the most mature iteration of business analytics, significantly enhancing organizational decision-making. Recently, research has gained traction, with various technological innovations, including machine learning and artificial intelligence, significantly influencing the design of PAS. Although recent studies highlight these developments, the rising trend focuses on broader implications, such as the synergies and delegation between systems and users in organizational decision-making environments. Against this backdrop, we utilized a systematic literature review of 262 articles to build on this evolving perspective. Guided by general systems theory and socio-technical thinking, the concept of an information systems artifact directed this review. Our first objective was to clarify the essential subsystems, identifying 23 constituent components of PAS. Subsequently, we delved into the meta-level design of PAS, emphasizing the synergy and delegation between the human decision-maker and prescriptive analytics in supporting organizational decisions. From this exploration, four distinct system archetypes emerged: advisory, executive, adaptive, and self-governing PAS. Lastly, we engaged with affordance theory, illuminating the action potential of PAS. Our study advances the perspective on PAS, specifically from a broader socio-technical and information systems viewpoint, highlighting six distinct research directions, acting as a launchpad for future research in the domain.
+SN  - 1617-9854
+UR  - https://doi.org/10.1007/s10257-024-00688-w
+DO  - 10.1007/s10257-024-00688-w
+ID  - Wissuchek2024
+ER  - 

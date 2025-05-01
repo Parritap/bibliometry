@@ -1,0 +1,12 @@
+TY  - JOUR
+AU  - Pavleska, Tanja
+PY  - 2024
+DA  - 2024/12/26
+TI  - Social interaction models for trust systems design
+JO  - CCF Transactions on Pervasive Computing and Interaction
+AB  - Fueled by the social dynamics inherent in traditional networking, the Internet has come to shape a new paradigm of social interaction and collaboration, formed by the active engagement of its users. The emergence of social networks has not only expanded the avenues for blending the social essence of trust, but also harnessed the technical capabilities of the Internet. While many computational trust models employ models from social theories of interaction to accurately identify trustworthy individuals, there is a notable gap in addressing how these models are perceived and acted upon by the users, who are the core of trust systems. Recognizing and understanding the relationship between trust models and user perceptions is key to simplifying their complexity and enhancing model explainability and system performance.
+SN  - 2524-5228
+UR  - https://doi.org/10.1007/s42486-024-00172-x
+DO  - 10.1007/s42486-024-00172-x
+ID  - Pavleska2024
+ER  - 

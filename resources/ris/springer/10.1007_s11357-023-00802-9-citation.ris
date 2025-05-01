@@ -1,0 +1,31 @@
+TY  - JOUR
+AU  - Wang, Liping
+AU  - Pronk, Anouschka C.
+AU  - van Poelgeest, Eveline P.
+AU  - Briggs, Robert
+AU  - Claassen, Jurgen A.H.R.
+AU  - Jansen, Sofie
+AU  - Klop, Marjolein
+AU  - de Lange, Frederik J.
+AU  - Meskers, Carel C.G.M.
+AU  - Odekerken, Vincent J. J.
+AU  - Payne, Stephen J.
+AU  - Trappenburg, Marijke C.
+AU  - Thijs, Roland D.
+AU  - Uleman, Jeroen F.
+AU  - Hoekstra, Alfons G.
+AU  - van der Velde, Nathalie
+PY  - 2023
+DA  - 2023/08/01
+TI  - Applying systems thinking to unravel the mechanisms underlying orthostatic hypotension related fall risk
+JO  - GeroScience
+SP  - 2743
+EP  - 2755
+VL  - 45
+IS  - 4
+AB  - Orthostatic hypotension (OH) is an established and common cardiovascular risk factor for falls. An in-depth understanding of the various interacting pathophysiological pathways contributing to OH-related falls is essential to guide improvements in diagnostic and treatment opportunities. We applied systems thinking to multidisciplinary map out causal mechanisms and risk factors. For this, we used group model building (GMB) to develop a causal loop diagram (CLD). The GMB was based on the input of experts from multiple domains related to OH and falls and all proposed mechanisms were supported by scientific literature. Our CLD is a conceptual representation of factors involved in OH-related falls, and their interrelatedness. Network analysis and feedback loops were applied to analyze and interpret the CLD, and quantitatively summarize the function and relative importance of the variables. Our CLD contains 50 variables distributed over three intrinsic domains (cerebral, cardiovascular, and musculoskeletal), and an extrinsic domain (e.g., medications). Between the variables, 181 connections and 65 feedback loops were identified. Decreased cerebral blood flow, low blood pressure, impaired baroreflex activity, and physical inactivity were identified as key factors involved in OH-related falls, based on their high centralities. Our CLD reflects the multifactorial pathophysiology of OH-related falls. It enables us to identify key elements, suggesting their potential for new diagnostic and treatment approaches in fall prevention. The interactive online CLD renders it suitable for both research and educational purposes and this CLD is the first step in the development of a computational model for simulating the effects of risk factors on falls.
+SN  - 2509-2723
+UR  - https://doi.org/10.1007/s11357-023-00802-9
+DO  - 10.1007/s11357-023-00802-9
+ID  - Wang2023
+ER  - 

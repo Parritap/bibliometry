@@ -1,0 +1,17 @@
+TY  - JOUR
+AU  - Işık, Gürkan
+AU  - Kaya, İhsan
+PY  - 2023
+DA  - 2023/10/01
+TI  - Design of acceptance sampling plans based on interval valued neutrosophic sets
+JO  - Soft Computing
+SP  - 14601
+EP  - 14619
+VL  - 27
+IS  - 20
+AB  - Acceptance sampling plans (ASPs) are conducted by inspecting a small set of items instead of all outputs. Although traditional ASPs use certain plan parameters, it is clear that quality characteristics or definitions may not be certain in some real case applications because of uncertainties. The fuzzy set theory (FST) is a popular technique to model uncertainty in the engineering problems. It is known that ASPs have been successfully formulated based on FST in the literature. However, the uncertainty is generally more complex in cases including human evaluations. Neutrosophic sets (NSs) that is one of the fuzzy set extensions bring some advantages to manage more complicated uncertainties in quality problems especially uncertainty based on human’s hesitancy. Since the NSs include three terms as truthiness (t), indeterminacy (i), and falsity (f), they can successfully model the human thinking and inspectors’ evaluations under uncertainty. In this paper, traditional attribute ASPs have been extended based on interval NSs to combine the computational and interpretational advantages of the interval statistics with the advantages of NSs. Additionally, two well-known distributions for ASPs called Binomial and Poisson distributions are redesigned by using NSs. For this aim, NSs are converted to interval NSs by using α-cut technique and some characteristic functions of ASPs such as acceptance probability ($${P}_{a}$$), average sample number ($$ASN$$), and average total inspection ($$ATI$$) have been designed for single and double ASPs based on interval NSs. The proposed ASPs based on NSs have been tested on some numerical applications from a manufacturing process, and results obtained based on real cases have been compared.
+SN  - 1433-7479
+UR  - https://doi.org/10.1007/s00500-023-09027-6
+DO  - 10.1007/s00500-023-09027-6
+ID  - Işık2023
+ER  - 

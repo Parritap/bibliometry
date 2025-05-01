@@ -1,0 +1,23 @@
+TY  - JOUR
+AU  - Wang, Dian
+AU  - Li, Yang
+AU  - Wang, Suge
+AU  - Li, Xiaoli
+AU  - Chen, Xin
+AU  - Li, Shuqi
+AU  - Liao, Jian
+AU  - Li, Deyu
+PY  - 2024
+DA  - 2024/06/01
+TI  - Integrating curriculum learning with meta-learning for general rhetoric identification
+JO  - International Journal of Machine Learning and Cybernetics
+SP  - 2411
+EP  - 2425
+VL  - 15
+IS  - 6
+AB  - Rhetoric is abundant and universal across different human languages. In this paper, we propose a novel curriculum learning integrated with meta-learning (CLML) model to address the task of general rhetorical identification. Specifically, we first leverage inter-category similarities to construct a dataset with curriculum characteristics for facilitating more natural easy-to-difficult learning process. Then we imitate human cognitive thinking that uses the query set in meta-learning to guide inductive network for inducing accurate class-level representations which are further improved by leveraging external class label knowledge into TapNet to construct a mapping function. Extensive experimental results demonstrate that our proposed model outperforms existing state-of-the-art models across four datasets consistently.
+SN  - 1868-808X
+UR  - https://doi.org/10.1007/s13042-023-02038-7
+DO  - 10.1007/s13042-023-02038-7
+ID  - Wang2024
+ER  - 

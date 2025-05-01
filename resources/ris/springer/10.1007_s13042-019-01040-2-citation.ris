@@ -1,0 +1,16 @@
+TY  - JOUR
+AU  - Yao, Yiyu
+PY  - 2020
+DA  - 2020/05/01
+TI  - Tri-level thinking: models of three-way decision
+JO  - International Journal of Machine Learning and Cybernetics
+SP  - 947
+EP  - 959
+VL  - 11
+IS  - 5
+AB  - The underlying philosophy of three-way decision is thinking in threes, namely, understanding and processing a whole through three distinct and related parts. One can formulate many concrete models of three-way decision to account for different interpretations of the three parts. By interpreting the three parts as three levels, this paper investigates tri-level thinking to build concrete models of three-way decision. We examine some fundamental issues and basic ingredients of tri-level thinking. In accordance with the data–information–knowledge–wisdom (DIKW) hierarchy, we present a perception–cognition–action (PCA) tri-level conceptual model that is applicable to studying intelligent data analytics, intelligent systems, and human understanding.
+SN  - 1868-808X
+UR  - https://doi.org/10.1007/s13042-019-01040-2
+DO  - 10.1007/s13042-019-01040-2
+ID  - Yao2020
+ER  - 
