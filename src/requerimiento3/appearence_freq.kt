@@ -26,6 +26,8 @@ fun main() {
                 countWordOccurrences(element, sortAndCleanAbstract(abstract))
     )
 
+    // Z Algorithm
+
 
 }
 
@@ -96,10 +98,74 @@ fun countWordOccurrences(word: String, sortedList: List<String>): Int {
  * @param sortedList Una lista ordenada de cadenas en la cual buscar
  * @return El conteo total de apariciones de todos los términos del conjunto
  */
-fun countSetOfTerms(setOfTerms: Set<String>, sortedList: List<String>): Int {
+fun countSetOfTerms(setOfTerms: List<String>, sortedList: List<String>): Int {
     var count = 0
     for (term in setOfTerms) {
         count += countWordOccurrences(term, sortedList)
     }
     return count
 }
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+// Implementation of the Z Algorithm por string searching within a text
+
+
+/*
+ * Prints all occurrences of `pattern` in `text` using the Z-algorithm
+ */
+
+fun searchWithZ(text: String, pattern: String) {
+    // Concatenate pattern, a delimiter, and the text
+    val concat = "$pattern\$$text"
+    val n = concat.length
+
+    // Z-array to hold lengths of matches with prefix
+    val Z = IntArray(n)
+
+    // Build Z-array for the concatenated string
+    getZArr(concat, Z)
+
+    // Scan Z-array for full pattern matches
+    for (i in Z.indices) {
+        if (Z[i] == pattern.length) {
+            // Pattern found at index (i - pattern.length - 1) in original text
+            println("Pattern found at index ${'$'}{i - pattern.length - 1}")
+        }
+    }
+}
+
+/**
+ * Fills the Z-array for string `str`
+ * Z[i] = length of the longest substring starting at i matching the prefix
+ */
+private fun getZArr(str: String, Z: IntArray) {
+    val n = str.length
+    var L = 0
+    var R = 0
+
+    for (i in 1 until n) {
+        if (i > R) {
+            L = i
+            R = i
+            while (R < n && str[R - L] == str[R]) {
+                R++
+            }
+            Z[i] = R - L
+            R--
+        } else {
+            val k = i - L
+            if (Z[k] < R - i + 1) {
+                Z[i] = Z[k]
+            } else {
+                L = i
+                while (R < n && str[R - L] == str[R]) {
+                    R++
+                }
+                Z[i] = R - L
+                R--
+            }
+        }
+    }
+}
+
