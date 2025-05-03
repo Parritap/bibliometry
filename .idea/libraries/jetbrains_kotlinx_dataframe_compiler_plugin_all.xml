@@ -1,0 +1,56 @@
+<component name="libraryTable">
+  <library name="jetbrains.kotlinx.dataframe.compiler.plugin.all" type="repository">
+    <properties maven-id="org.jetbrains.kotlinx.dataframe:compiler-plugin-all:0.14.0-dev-3386" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/compiler-plugin-all-0.14.0-dev-3386.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlinx-serialization-json-jvm-1.4.0-RC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-stdlib-common-1.7.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlinx-serialization-core-jvm-1.4.0-RC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-stdlib-jdk8-1.7.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-stdlib-jdk7-1.7.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-stdlib-1.9.22.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/annotations-13.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/dataframe-core-0.14.0-dev-3386.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-reflect-1.9.22.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-csv-1.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlinx-datetime-jvm-0.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/fuel-2.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/result-3.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlinpoet-jvm-1.16.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/compiler-plugin-all-0.14.0-dev-3386-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlinx-serialization-json-jvm-1.4.0-RC-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-stdlib-common-1.7.10-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlinx-serialization-core-jvm-1.4.0-RC-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-stdlib-jdk8-1.7.10-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-stdlib-jdk7-1.7.10-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-stdlib-1.9.22-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/annotations-13.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/dataframe-core-0.14.0-dev-3386-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-reflect-1.9.22-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-csv-1.10.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlinx-datetime-jvm-0.5.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/fuel-2.3.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/result-3.1.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlinpoet-jvm-1.16.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/compiler-plugin-all-0.14.0-dev-3386-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlinx-serialization-json-jvm-1.4.0-RC-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-stdlib-common-1.7.10-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlinx-serialization-core-jvm-1.4.0-RC-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-stdlib-jdk8-1.7.10-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-stdlib-jdk7-1.7.10-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-stdlib-1.9.22-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/annotations-13.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/dataframe-core-0.14.0-dev-3386-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-reflect-1.9.22-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-csv-1.10.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlinx-datetime-jvm-0.5.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/fuel-2.3.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/result-3.1.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlinpoet-jvm-1.16.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

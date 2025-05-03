@@ -1,9 +1,21 @@
 package requerimiento3
 
 import java.util.*
+import kotlin.math.abs
 
 fun main() {
     val abstract = "The digital paradigm requires efficient methods of teaching CAAD " +
+            "tools in architecture schools. With the trend of enhancing the design process with" +
+            " parametric methods, linking architecture with other knowledge areas, such as" +
+            " mathematics, is gaining in importance. Equipping future architects with skills" +
+            " in algorithmic thinking is yet another challenge for education. This paper describes " +
+            "the workflow of an early-stage course addressing this challenge, conducted at the" +
+            " Warsaw University of Technology’s Faculty of Architecture. The course focuses on" +
+            " the students’ ability to construct complex geometric forms in the digital environment" +
+            " by introducing an extensive analytic phase. The students study the geometric" +
+            " foundations of real-world architectural cases and translate them into parametric models. " +
+            "Later, they explore the potential of the generated solutions space. The results compare the " +
+            "course’s teaching efficiency with the outcomes of past courses covering similar subjects." +
             "tools in architecture schools. With the trend of enhancing the design process with" +
             " parametric methods, linking architecture with other knowledge areas, such as" +
             " mathematics, is gaining in importance. Equipping future architects with skills" +
@@ -27,8 +39,24 @@ fun main() {
     )
 
     // Z Algorithm
+    val coincidences = searchCompoundTerm("teaching efficiency with", abstract)
+    print(coincidences)
 
+}
 
+/**
+ * If any term in list of terms is a compound one, i.e, has more than one word, then Z algorithm with original abstract is used
+ * If not, then, another algorithm is used -> The abstract is sorted and then the single word term is search
+ * effienctly using binary search.
+ * @param abstract shouldnt be sorted in this function.
+ */
+fun countTerms(terms: List<String>, abstract: String) : Int {
+    var count = 0
+    for (term in terms) {
+        if (term.split(" ").size >= 2) count += searchCompoundTerm(term, abstract)
+        else count += countWordOccurrences(term, sortAndCleanAbstract(abstract))
+    }
+    return count
 }
 
 /**
@@ -38,10 +66,9 @@ fun main() {
  */
 fun sortAndCleanAbstract(abstract: String): List<String> = abstract
     .lowercase(Locale.getDefault())
-    .split(" ")
+    .split("\\s+".toRegex())
     .asSequence()
-    .map { it.trim() }
-    .map { if (it.isNotEmpty() && it.last() == '.') it.dropLast(1) else it }
+    .map { it.trim().replace(Regex("""^\p{Punct}+|\p{Punct}+$"""), "") }
     .filter { it.isNotEmpty() }
     .sorted()
     .toList()
@@ -98,7 +125,7 @@ fun countWordOccurrences(word: String, sortedList: List<String>): Int {
  * @param sortedList Una lista ordenada de cadenas en la cual buscar
  * @return El conteo total de apariciones de todos los términos del conjunto
  */
-fun countSetOfTerms(setOfTerms: List<String>, sortedList: List<String>): Int {
+fun countSetOfTermsSorted(setOfTerms: List<String>, sortedList: List<String>): Int {
     var count = 0
     for (term in setOfTerms) {
         count += countWordOccurrences(term, sortedList)
@@ -115,57 +142,72 @@ fun countSetOfTerms(setOfTerms: List<String>, sortedList: List<String>): Int {
  * Prints all occurrences of `pattern` in `text` using the Z-algorithm
  */
 
-fun searchWithZ(text: String, pattern: String) {
-    // Concatenate pattern, a delimiter, and the text
-    val concat = "$pattern\$$text"
-    val n = concat.length
 
-    // Z-array to hold lengths of matches with prefix
-    val Z = IntArray(n)
 
-    // Build Z-array for the concatenated string
-    getZArr(concat, Z)
+fun searchCompoundTerm(term: String, abstract: String) = zAlgorithm(
+    term.lowercase(Locale.getDefault()),
+    abstract.lowercase(Locale.getDefault())
+).size
 
-    // Scan Z-array for full pattern matches
-    for (i in Z.indices) {
-        if (Z[i] == pattern.length) {
-            // Pattern found at index (i - pattern.length - 1) in original text
-            println("Pattern found at index ${'$'}{i - pattern.length - 1}")
+
+/**
+ * Computes the Z-array for a given string s.
+ * Z[i] = length of the longest substring starting at i
+ * which is also a prefix of s.
+ */
+fun calculateZ(s: String): IntArray {
+    val n = s.length
+    val z = IntArray(n)
+    var l = 0
+    var r = 0
+
+    for (i in 1 until n) {
+        if (i > r) {
+            // Case 1: i is outside the current Z-box
+            l = i
+            r = i
+            while (r < n && s[r] == s[r - l]) {
+                r++
+            }
+            z[i] = r - l
+            r--
+        } else {
+            // Case 2: i is inside the current Z-box
+            val k = i - l
+            if (z[k] < r - i + 1) {
+                // Case 2a: z[k] does not stretch outside the box
+                z[i] = z[k]
+            } else {
+                // Case 2b: z[k] might stretch outside, so we compare manually
+                l = i
+                while (r < n && s[r] == s[r - l]) {
+                    r++
+                }
+                z[i] = r - l
+                r--
+            }
         }
     }
+    return z
 }
 
 /**
- * Fills the Z-array for string `str`
- * Z[i] = length of the longest substring starting at i matching the prefix
+ * Finds all occurrences of `pattern` in `text` using the Z-algorithm.
+ * Returns a list of starting indices in `text`.
  */
-private fun getZArr(str: String, Z: IntArray) {
-    val n = str.length
-    var L = 0
-    var R = 0
+fun zAlgorithm(pattern: String, text: String): List<Int> {
+    // Combine pattern, a delimiter not in pattern/text, and text
+    val combined = pattern + "$" + text
+    val z = calculateZ(combined)
+    val m = pattern.length
+    val result = mutableListOf<Int>()
 
-    for (i in 1 until n) {
-        if (i > R) {
-            L = i
-            R = i
-            while (R < n && str[R - L] == str[R]) {
-                R++
-            }
-            Z[i] = R - L
-            R--
-        } else {
-            val k = i - L
-            if (Z[k] < R - i + 1) {
-                Z[i] = Z[k]
-            } else {
-                L = i
-                while (R < n && str[R - L] == str[R]) {
-                    R++
-                }
-                Z[i] = R - L
-                R--
-            }
+    for (i in z.indices) {
+        if (z[i] == m) {
+            // i - m - 1 compensates for pattern + delimiter
+            result.add(i - m - 1)
         }
     }
+    return result
 }
 
