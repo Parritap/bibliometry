@@ -21,5 +21,6 @@
     <orderEntry type="library" name="kennycason.kumo.core" level="project" />
     <orderEntry type="library" name="jetbrains.kotlinx.dataframe.compiler.plugin.all" level="project" />
     <orderEntry type="library" name="jetbrains.kotlinx.kandy.lets.plot" level="project" />
+    <orderEntry type="library" name="json" level="project" />
   </component>
 </module>

@@ -58,7 +58,6 @@ fun countTerms(terms: List<String>, abstract: String) : Int {
     }
     return count
 }
-
 /**
  * Esta funcion recibe un abstract y lo convierte a minusculas, lo separa por espacios,
  * tambien elimina los espacios en blanco al principio y al final de cada palabra, y además elimina
