@@ -538,6 +538,8 @@
       <root url="file://$PROJECT_DIR$/lib/common-image-3.8.1.jar" />
       <root url="file://$PROJECT_DIR$/lib/platf-awt-4.3.3.jar" />
       <root url="file://$PROJECT_DIR$/lib/platf-awt-jvm-4.3.3.jar" />
+      <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2025.1/kotlinNotebook/bibliometry.e6fec6bd/kernels/0.12.0-385/kotlin-jupyter-ide-classpath-shadowed-jar/kotlin-jupyter-ide-classpath-shadowed-0.12.0-385.jar" />
+      <root url="file://$PROJECT_DIR$/lib/json-20250107.jar" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
@@ -919,6 +921,7 @@
       <root url="file://$MAVEN_REPOSITORY$/org/jetbrains/lets-plot/platf-awt/4.5.1/platf-awt-4.5.1-sources.jar" />
       <root url="file://$MAVEN_REPOSITORY$/org/jetbrains/lets-plot/platf-awt-jvm/4.5.1/platf-awt-jvm-4.5.1-sources.jar" />
       <root url="file://$MAVEN_REPOSITORY$/org/jetbrains/kotlinx/kotlin-statistics-jvm/0.4.0/kotlin-statistics-jvm-0.4.0-sources.jar" />
+      <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2025.1/kotlinNotebook/bibliometry.e6fec6bd/kernels/0.12.0-385/kotlin-jupyter-script-classpath-shadowed-sources-jar/kotlin-jupyter-script-classpath-shadowed-0.12.0-385-sources.jar" />
     </SOURCES>
   </library>
 </component>
