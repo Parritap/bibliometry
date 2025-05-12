@@ -22,5 +22,6 @@ playwright install
 # Escoger la ruta donde se va a descargar el archivo, en nuestro caso será ../../../resources/springer
 
 
-
-
+declare link=$1
+declare ruta=$2
+python3 scrapper.py $link $ruta

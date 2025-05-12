@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Hu, Alyssa
+AU  - Hatfield, Neil J.
+AU  - Beckman, Matthew D.
+PY  - 2025
+DA  - 2025/04/01
+TI  - Exploring individuals’ computational thinking with data
+JO  - ZDM – Mathematics Education
+SP  - 119
+EP  - 135
+VL  - 57
+IS  - 1
+AB  - This study investigates similarities and differences in computational thinking among individuals of varying experience levels as they engage with data. We operationalize computational thinking as the ways of thinking that individuals employ when using computational tools to solve problems. Focusing on computational thinking in the context of data, we conceptualize three classes of data engagement (exploration, analysis, and communication) and review existing problem-solving phases and actions in the literature. In task-based interviews, we study statistics and data science undergraduate students, graduate students, and a professional data scientist using the R programming language to address a data exploration and analysis task. Using a grounded theory approach, we engaged in constant comparison to characterize segments from our interviews, with models from the literature building our theoretical sensitivity. Our results follow our participants’ data exploration and analysis across the problem-solving phases of orienting, planning, executing, and checking. In addressing our research question, we note the differences in how participants loaded the data, explored the data, and planned for the task at hand as well as the similarities in how participants constructed a derived object. We then propose an initial framework containing problem-solving actions, resources, and methods and heuristics, highlighting the interplay between data exploration and analysis (based on orienting to the data and orienting to the task, respectively) as well as the actions of recasting data and creating derived objects.
+SN  - 1863-9704
+UR  - https://doi.org/10.1007/s11858-025-01669-0
+DO  - 10.1007/s11858-025-01669-0
+ID  - Hu2025
+ER  - 

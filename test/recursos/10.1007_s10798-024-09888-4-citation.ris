@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Choi, Yong-Woon
+AU  - Go, In-gyu
+AU  - Gil, Yeong-Jae
+PY  - 2024
+DA  - 2024/11/01
+TI  - Correlation analysis between sub-element of technological thinking disposition and computational thinking of gifted students in South Korea
+JO  - International Journal of Technology and Design Education
+SP  - 1835
+EP  - 1857
+VL  - 34
+IS  - 5
+AB  - The purpose of this study is to derive a correlation between the technological thinking disposition and the computational thinking ability of gifted students in Korea. The correlation between each element was analyzed by looking at the sub-elements of computational thinking according to the components of technological thinking disposition. The experiment was conducted from September 2019 to February 2021 with 217 students of I Gifted School in Incheon, South Korea. The collected data were analyzed with Pearson's correlation coefficient using the statistical program R using Google COLAB. A summary of the study results is as follows. First, regarding the correlation between technological thinking ability, among the 6 components of technological thinking disposition, technological creativity and expression disposition and technological manipulation disposition show the highest correlation at 0.851. This shows that students who have an excellent ability to implement algorithms with new ideas or express them in various other attempts when implementing programs for gifted students also tend to enjoy program coding or have a tendency to like coding. Second, concerning the correlation between the technological thinking disposition and the sub-factors of computational thinking, some elements showed negative correlations and some had almost no correlation index. Students with high technological curiosity, however, tended to show a 0.287 in the parallelism factor compared to other factors. This showed a generally high trend. It can be said that students who want to know the functions, uses, forms, and characteristics of functions while implementing programs tend to have a better ability to divide large tasks into smaller tasks and process them simultaneously compared with other sub-elements of computational thinking. Third, regarding the correlation between computational thinking skills, the correlation between data analysis and pattern recognition was the highest at 0.637. This indicates that students who have an excellent ability to analyze a given coding problem also can find rules in data, showing that students at gifted schools in Korea tend to enjoy problem-solving.
+SN  - 1573-1804
+UR  - https://doi.org/10.1007/s10798-024-09888-4
+DO  - 10.1007/s10798-024-09888-4
+ID  - Choi2024
+ER  - 

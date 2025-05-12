@@ -1,0 +1,209 @@
+TY  - JOUR
+AU  - Kim, Jiyoung
+AU  - Leftwich, Anne
+AU  - Castner, Daniel
+PY  - 2024
+DA  - 2024/08/01
+TI  - Beyond teaching computational thinking: Exploring kindergarten teachers’ computational thinking and computer science curriculum design considerations
+JO  - Education and Information Technologies
+SP  - 15191
+EP  - 15227
+VL  - 29
+IS  - 12
+AB  - Many K-12 computer science (CS) education initiatives at the local, state, and federal levels have recently started to focus on engaging the young children. Although most CS education research has focused on the secondary level, only minimal research has explored how computer science (CS) and computational thinking (CT) can be taught in elementary and especially at kindergarten. Understanding how CS and CT are taught at the youngest levels is critical to support the creation of progressive quality curricula and professional development. Therefore, in this study, we delved into the CT/CS curriculum design considerations of five teachers for kindergarteners. Our findings revealed that the primary learning objectives encompassed: 1) Social skill acquisition, 2) Fostering a growth mindset, and 3) Developing basic CT competencies. Moreover, when crafting their CT/CS curriculum, teachers weighed factors such as 1) Their approach to adapting the CT/CS curriculum—whether it be a personalized approach or relying on a pre-packaged curriculum—and 2) Adhering to Developmentally Appropriate Practice (DAP), which took into account individual abilities, interests, and socially relevant contexts. We conclude by discussing the ramifications of these findings in terms of professional development and the shaping of future CT/CS curricula for young learners.
+SN  - 1573-7608
+UR  - https://doi.org/10.1007/s10639-023-12406-z
+DO  - 10.1007/s10639-023-12406-z
+ID  - Kim2024
+ER  - 
+
+
+TY  - JOUR
+AU  - Zapata-Cáceres, María
+AU  - Marcelino, Pedro
+AU  - El-Hamamsy, Laila
+AU  - Martín-Barroso, Estefanía
+PY  - 2024
+DA  - 2024/08/01
+TI  - A Bebras Computational Thinking (ABC-Thinking) program for primary school: Evaluation using the competent computational thinking test
+JO  - Education and Information Technologies
+SP  - 14969
+EP  - 14998
+VL  - 29
+IS  - 12
+AB  - Bebras tasks are considered to develop Computational Thinking (CT) and are currently used for this purpose in many studies. However, the relationship between Bebras tasks and CT is recent and, given the scarcity of validated instruments for assessing CT that are not associated with a specific learning environment, the expected development of CT through Bebras tasks has not been sufficiently evaluated, especially in Primary School. For this reason, we designed the ABC-Thinking program for the development of CT in which a set of Bebras tasks were selected and categorised according to the CT skills they were related to, specific lesson plans were designed to integrate these tasks in a 12-week curriculum, and teachers were trained to apply the program. Using the competent Computational Thinking test (cCTt) in a pre-post-test experimental design, we looked to determine whether Primary School students developed specific CT skills after the program, and, therefore, whether Bebras could be considered suitable for the development of this competence. The results show a significant development in specific CT skills, interesting findings in the gender differences in this development, and between high and low performers. Finally, qualitative data indicate the suitability of the ABC-Thinking program with respect to teachers’ practice.
+SN  - 1573-7608
+UR  - https://doi.org/10.1007/s10639-023-12441-w
+DO  - 10.1007/s10639-023-12441-w
+ID  - Zapata-Cáceres2024
+ER  - 
+
+
+TY  - JOUR
+AU  - Palop, Belén
+AU  - Díaz, Irene
+AU  - Rodríguez-Muñiz, Luis J.
+AU  - Santaengracia, Juan José
+PY  - 2025
+DA  - 2025/01/22
+TI  - Redefining computational thinking: A holistic framework and its implications for K-12 education
+JO  - Education and Information Technologies
+AB  - In the realm of K-12 Education, the growing significance of Computational Thinking has sparked extensive inquiry into its nature and instructional methodologies. Despite a wealth of literature on the subject, ongoing debates persist regarding its fundamental components. Across global educational landscapes, Computational Thinking is being incorporated into curricula with varying degrees of emphasis, ranging from robotics to computer coding to broader algorithmic problem-solving approaches. This article aims to reassess established definitions of Computational Thinking and propose a nuanced understanding that highlights the necessity and importance of data in contemporary problem-solving contexts. Additionally, we present a comprehensive framework aimed at cultivating Computational Thinking skills in students, encompassing technical competencies alongside cognitive and metacognitive processes. Subsequently, we offer (1) a refined definition emphasizing the importance of data, (2) a comprehensive framework outlining essential components to foster Computational Thinking skills in students, and (3) a discussion of these concepts within the context of K-12 education.
+SN  - 1573-7608
+UR  - https://doi.org/10.1007/s10639-024-13297-4
+DO  - 10.1007/s10639-024-13297-4
+ID  - Palop2025
+ER  - 
+
+
+TY  - JOUR
+AU  - Choi, Yong-Woon
+AU  - Go, In-gyu
+AU  - Gil, Yeong-Jae
+PY  - 2024
+DA  - 2024/11/01
+TI  - Correlation analysis between sub-element of technological thinking disposition and computational thinking of gifted students in South Korea
+JO  - International Journal of Technology and Design Education
+SP  - 1835
+EP  - 1857
+VL  - 34
+IS  - 5
+AB  - The purpose of this study is to derive a correlation between the technological thinking disposition and the computational thinking ability of gifted students in Korea. The correlation between each element was analyzed by looking at the sub-elements of computational thinking according to the components of technological thinking disposition. The experiment was conducted from September 2019 to February 2021 with 217 students of I Gifted School in Incheon, South Korea. The collected data were analyzed with Pearson's correlation coefficient using the statistical program R using Google COLAB. A summary of the study results is as follows. First, regarding the correlation between technological thinking ability, among the 6 components of technological thinking disposition, technological creativity and expression disposition and technological manipulation disposition show the highest correlation at 0.851. This shows that students who have an excellent ability to implement algorithms with new ideas or express them in various other attempts when implementing programs for gifted students also tend to enjoy program coding or have a tendency to like coding. Second, concerning the correlation between the technological thinking disposition and the sub-factors of computational thinking, some elements showed negative correlations and some had almost no correlation index. Students with high technological curiosity, however, tended to show a 0.287 in the parallelism factor compared to other factors. This showed a generally high trend. It can be said that students who want to know the functions, uses, forms, and characteristics of functions while implementing programs tend to have a better ability to divide large tasks into smaller tasks and process them simultaneously compared with other sub-elements of computational thinking. Third, regarding the correlation between computational thinking skills, the correlation between data analysis and pattern recognition was the highest at 0.637. This indicates that students who have an excellent ability to analyze a given coding problem also can find rules in data, showing that students at gifted schools in Korea tend to enjoy problem-solving.
+SN  - 1573-1804
+UR  - https://doi.org/10.1007/s10798-024-09888-4
+DO  - 10.1007/s10798-024-09888-4
+ID  - Choi2024
+ER  - 
+
+
+TY  - JOUR
+AU  - Sari, Uğur
+AU  - Ulusoy, Alperen
+AU  - Pektaş, Hüseyin Miraç
+PY  - 2025
+DA  - 2025/01/06
+TI  - Computational Thinking in Science Laboratories Based on the Flipped Classroom Model: Computational Thinking, Laboratory Entrepreneurial and Attitude
+JO  - Journal of Science Education and Technology
+AB  - Computational thinking (CT) has gained more value for individuals in a world reshaped by digital transformation in the last decade. Therefore, educators and researchers are trying to integrate CT into teaching practices. Efforts to teach CT are increasing, especially in basic courses widely included in school curricula. The focus of this study is the integration of CT into science teaching in the flipped classroom model. In this context, the effects of flipped computational science laboratory (Flipped-CSL) activities carried out with teacher candidates on CT skills, laboratory entrepreneurship, and attitude were investigated. An intertwined mixed research design, in which quantitative and qualitative data were evaluated together, was used in the study. Findings showed that flipped-CSL activities were effective for teacher candidates and improved their CT skills, laboratory entrepreneurship, and attitudes significantly and positively. The results of this study include the practical use of flipped-CSL activities when planning laboratory activities for school science subjects to improve CT skills. Implications for using of flipped-CSL activities in science education were discussed, and suggestions were made regarding the results.
+SN  - 1573-1839
+UR  - https://doi.org/10.1007/s10956-024-10192-y
+DO  - 10.1007/s10956-024-10192-y
+ID  - Sari2025
+ER  - 
+
+
+TY  - JOUR
+AU  - Pan, Yanjun
+AU  - Adams, Elizabeth L.
+AU  - Ketterlin-Geller, Leanne R.
+AU  - Larson, Eric C.
+AU  - Clark, Corey
+PY  - 2024
+DA  - 2024/12/01
+TI  - Enhancing middle school students’ computational thinking competency through game-based learning
+JO  - Educational technology research and development
+SP  - 3391
+EP  - 3419
+VL  - 72
+IS  - 6
+AB  - Computational thinking is acknowledged as an essential competency for everyone to learn. However, teachers find it challenging to implement the existing learning approaches in K-12 settings because the existing approaches often focus on teaching computing concepts and skills (i.e., programming skills) rather than on helping students develop their computational thinking competency—a competency that can be used across disciplinary boundaries in accordance with curriculum requirements. To address this need, the current study investigated how game-based learning influenced middle school students’ learning processes, particularly on the development of computational thinking competency, self-efficacy toward computational thinking, and engagement during gameplay. Additionally, the study examined how these outcomes were moderated by individual differences. We observed evidence that the gaming experience influenced students’ computational thinking self-efficacy, but not computational thinking competency or game-based engagement. Compared to age (grade) and prior gaming experience, gender tended to play a more important role in moderating students’ computational thinking competency, self-efficacy toward computational thinking competency, and game-based engagement. Implications and possible directions for future research regarding using game-based learning to enhance computational thinking competency are discussed.
+SN  - 1556-6501
+UR  - https://doi.org/10.1007/s11423-024-10400-x
+DO  - 10.1007/s11423-024-10400-x
+ID  - Pan2024
+ER  - 
+
+
+TY  - JOUR
+AU  - Grizioti, Marianthi
+PY  - 2025
+DA  - 2025/03/05
+TI  - Computational thinking beyond coding: exploring student computational practices while playing and modifying a socio-scientific simulation game with integrated computational tools
+JO  - Educational technology research and development
+AB  - Recently scientists have underscored a significant mismatch between the latest theoretical Computational Thinking conceptualizations as an upcoming literacy that goes beyond computer science, and its operationalizations in current empirical research and designs, which are limited to coding-centred and domain-specific tools and approaches. To achieve an integrated computational literacy CT research must study new approaches that from the one side utilize multiple computational tools beyond traditional programming, such as databases and modelling tools, and from the other side employ CT for dealing with both the scientific and the societal aspects of real-world problems. To this end, this article explores the development of 16 middle school students’ computational thinking practices as they collaboratively play and modify the socio-scientific simulation game “CT-Chef” with three interconnected affordances, i.e., map design, data editing and block-based programming, in “ChoiCo” environment. The in-depth thematic analysis of students’ interactions throughout the activities, revealed new, system and data related, dimensions of known CT practices that have not yet been explored or detected in traditional programming-centred approaches. Moreover, the results showed that the progressive transition of student roles from players to designers enabled the development of abstract reasoning about the simulation game system. Finally, as designers of the socio-scientific game content, students questioned, discussed and modified the subjective societal values and possible biases behind the simulation. Based on the findings, the article discusses a framework of three axes, i.e., computational tools, engagement process and content, for utilizing CT in socio-scientific contexts.
+SN  - 1556-6501
+UR  - https://doi.org/10.1007/s11423-025-10477-y
+DO  - 10.1007/s11423-025-10477-y
+ID  - Grizioti2025
+ER  - 
+
+
+TY  - JOUR
+AU  - Hu, Alyssa
+AU  - Hatfield, Neil J.
+AU  - Beckman, Matthew D.
+PY  - 2025
+DA  - 2025/04/01
+TI  - Exploring individuals’ computational thinking with data
+JO  - ZDM – Mathematics Education
+SP  - 119
+EP  - 135
+VL  - 57
+IS  - 1
+AB  - This study investigates similarities and differences in computational thinking among individuals of varying experience levels as they engage with data. We operationalize computational thinking as the ways of thinking that individuals employ when using computational tools to solve problems. Focusing on computational thinking in the context of data, we conceptualize three classes of data engagement (exploration, analysis, and communication) and review existing problem-solving phases and actions in the literature. In task-based interviews, we study statistics and data science undergraduate students, graduate students, and a professional data scientist using the R programming language to address a data exploration and analysis task. Using a grounded theory approach, we engaged in constant comparison to characterize segments from our interviews, with models from the literature building our theoretical sensitivity. Our results follow our participants’ data exploration and analysis across the problem-solving phases of orienting, planning, executing, and checking. In addressing our research question, we note the differences in how participants loaded the data, explored the data, and planned for the task at hand as well as the similarities in how participants constructed a derived object. We then propose an initial framework containing problem-solving actions, resources, and methods and heuristics, highlighting the interplay between data exploration and analysis (based on orienting to the data and orienting to the task, respectively) as well as the actions of recasting data and creating derived objects.
+SN  - 1863-9704
+UR  - https://doi.org/10.1007/s11858-025-01669-0
+DO  - 10.1007/s11858-025-01669-0
+ID  - Hu2025
+ER  - 
+
+
+TY  - JOUR
+AU  - Wu, Chih-Hung
+AU  - Chien, Yu-Cheng
+AU  - Chou, Mei-Tzu
+AU  - Huang, Yueh-Min
+PY  - 2025
+DA  - 2025/02/08
+TI  - Integrating computational thinking, game design, and design thinking: a scoping review on trends, applications, and implications for education
+JO  - Humanities and Social Sciences Communications
+SP  - 163
+VL  - 12
+IS  - 1
+AB  - This study integrated the fields of computational thinking (CT), game design, and design thinking through a scoping review, exploring their research development trends, as well as their applications and implications for education. A scoping review of game-design-based learning in CT literature was conducted, with a focus on technology-enhanced learning and high-impact factor journals published in the ScienceDirect (SDOS) and ISI Web of Science (ISI) databases. The study analyzed various factors, including different levels of education, development tools, game development task difficulty, length of learning tasks, cognitive and emotional measurement constructs in game design, research trends, and the status of CT skills. This study combined the concept of design-thinking process, integrating CT and game-based learning topics with design thinking, to propose a human-centered, innovative educational design process for CT and game-based learning. Future studies could further explore the effects of emotional aspects and differences in cognitive levels, as well as the emotional effects of various subject concepts or prior knowledge/experience, gender, national, or cultural differences. This study offers a comprehensive understanding of the trends and dynamics in the integration of CT, game design, and design thinking to facilitate continued research and advancements in the field of game-based learning for CT education.
+SN  - 2662-9992
+UR  - https://doi.org/10.1057/s41599-025-04502-x
+DO  - 10.1057/s41599-025-04502-x
+ID  - Wu2025
+ER  - 
+
+
+TY  - JOUR
+AU  - Akbaritabar, Aliakbar
+PY  - 2024
+DA  - 2024/02/26
+TI  - Thinking spatially in computational social science
+JO  - EPJ Data Science
+SP  - 14
+VL  - 13
+IS  - 1
+AB  - Deductive and theory-driven research starts by asking questions. Finding tentative answers to these questions in the literature is next. It is followed by gathering, preparing and modelling relevant data to empirically test these tentative answers. Inductive research, on the other hand, starts with data representation and finding general patterns in data. Ahn suggested, in his keynote speech at the seventh International Conference on Computational Social Science (IC2S2) 2021, that the way this data is represented could shape our understanding and the type of answers we find for the questions. He discussed that specific representation learning approaches enable a meaningful embedding space and could allow spatial thinking and broaden computational imagination. In this commentary, I summarize Ahn’s keynote and related publications, provide an overview of the use of spatial metaphor in sociology, discuss how such representation learning can help both inductive and deductive research, propose future avenues of research that could benefit from spatial thinking, and pose some still open questions.
+SN  - 2193-1127
+UR  - https://doi.org/10.1140/epjds/s13688-023-00443-0
+DO  - 10.1140/epjds/s13688-023-00443-0
+ID  - Akbaritabar2024
+ER  - 
+
+
+TY  - JOUR
+AU  - Liu, Zhichun
+AU  - Gearty, Zarina
+AU  - Richard, Eleanor
+AU  - Orrill, Chandra Hawley
+AU  - Kayumova, Shakhnoza
+AU  - Balasubramanian, Ramprasad
+PY  - 2024
+DA  - 2024/10/07
+TI  - Bringing computational thinking into classrooms: a systematic review on supporting teachers in integrating computational thinking into K-12 classrooms
+JO  - International Journal of STEM Education
+SP  - 51
+VL  - 11
+IS  - 1
+AB  - Although computational thinking (CT) is becoming increasingly prevalent in K-12 education, many teachers find it challenging to integrate it with their classroom learning. In this systematic review, we have reviewed empirical evidence on teachers’ computational-thinking-focused professional development (PD). The findings depict the landscape of what has been done in terms of how PDs have been designed, how CT has been conceptualized, how learning outcomes have been assessed, and how teachers have been supported in integrating CT into their teaching practices. We have further summarized the lessons learned from the PDs and discussed the gaps as the field moves forward. These findings shed light on supporting teachers as the first step to creating an effective model for CT learning and development in K-12 education.
+SN  - 2196-7822
+UR  - https://doi.org/10.1186/s40594-024-00510-6
+DO  - 10.1186/s40594-024-00510-6
+ID  - Liu2024
+ER  - 
+
+

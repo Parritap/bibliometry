@@ -1,0 +1,15 @@
+TY  - JOUR
+AU  - Akbaritabar, Aliakbar
+PY  - 2024
+DA  - 2024/02/26
+TI  - Thinking spatially in computational social science
+JO  - EPJ Data Science
+SP  - 14
+VL  - 13
+IS  - 1
+AB  - Deductive and theory-driven research starts by asking questions. Finding tentative answers to these questions in the literature is next. It is followed by gathering, preparing and modelling relevant data to empirically test these tentative answers. Inductive research, on the other hand, starts with data representation and finding general patterns in data. Ahn suggested, in his keynote speech at the seventh International Conference on Computational Social Science (IC2S2) 2021, that the way this data is represented could shape our understanding and the type of answers we find for the questions. He discussed that specific representation learning approaches enable a meaningful embedding space and could allow spatial thinking and broaden computational imagination. In this commentary, I summarize Ahn’s keynote and related publications, provide an overview of the use of spatial metaphor in sociology, discuss how such representation learning can help both inductive and deductive research, propose future avenues of research that could benefit from spatial thinking, and pose some still open questions.
+SN  - 2193-1127
+UR  - https://doi.org/10.1140/epjds/s13688-023-00443-0
+DO  - 10.1140/epjds/s13688-023-00443-0
+ID  - Akbaritabar2024
+ER  - 
